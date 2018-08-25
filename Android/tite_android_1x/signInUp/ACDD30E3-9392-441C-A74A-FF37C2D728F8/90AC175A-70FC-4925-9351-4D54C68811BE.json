@@ -1,0 +1,176 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "90AC175A-70FC-4925-9351-4D54C68811BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 3Line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1999FE3-7B2D-40F5-82C3-6B851830E7F8",
+      "overrideName": "5A2AFB91-D4FB-4D08-8F88-128D54EB5DB1_symbolID",
+      "value": "88585E58-E8E2-4193-849E-A087BCE9E31B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0286D38F-0806-493B-AFD2-08F787331CB1",
+      "overrideName": "9826D273-CB18-448E-A651-D5C4DCCDAC67_symbolID",
+      "value": "88585E58-E8E2-4193-849E-A087BCE9E31B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4271EFA6-B637-4258-A95A-A84BDD97EAE1",
+      "overrideName": "9826D273-CB18-448E-A651-D5C4DCCDAC67/2DCBDF5E-140C-4C65-85EF-614A68B8281A_symbolID",
+      "value": "2761DCEF-B74F-4872-979C-B60F6787C1AA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B67E980-D781-4901-9C68-07F5210F4D6C",
+      "overrideName": "9826D273-CB18-448E-A651-D5C4DCCDAC67/A01AA6CB-D77E-4AF2-AD49-F16C668DC53F_stringValue",
+      "value": "GPS로 인증받기 (즉시인증)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AD1C5D8-B380-42DC-9061-FBBAC697EC5C",
+      "overrideName": "6DA9C752-5429-4EC2-9FFE-E5007EC6F0C5_stringValue",
+      "value": "인증방법을 선택해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5418BE04-7F92-4231-8594-281829353BB1",
+      "overrideName": "6D1359AF-AF47-471E-A64B-4704D7204374_stringValue",
+      "value": "회원가입을 계속하기 위해서는 현재 거주중이면서 위치해있는 주소에 대한 인증이 필요합니다. 아래의 항목에서 원하는 인증방법을 선택해주세요."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "077BCB9F-2610-440B-91D8-2F1ADE1263D6",
+      "overrideName": "900228E2-4E4F-4CA2-BBF4-D0D6607EECF1_symbolID",
+      "value": "88585E58-E8E2-4193-849E-A087BCE9E31B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5F2EE45-6AC1-4144-824B-2E3C68B87401",
+      "overrideName": "900228E2-4E4F-4CA2-BBF4-D0D6607EECF1/2DCBDF5E-140C-4C65-85EF-614A68B8281A_symbolID",
+      "value": "B54BE552-994F-40EF-9177-29543AED424D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A18513B-8EFD-471F-A405-18AEAD16A059",
+      "overrideName": "900228E2-4E4F-4CA2-BBF4-D0D6607EECF1/A01AA6CB-D77E-4AF2-AD49-F16C668DC53F_stringValue",
+      "value": "엽서로 인증받기 (엽서발송)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0019DA0F-B280-478E-8B01-6645A3E6D371",
+      "overrideName": "1C482BA1-36A3-4252-946C-3D6888CEE8F0/B24380EA-C73F-4D4E-A132-3F9A41848EBA_stringValue",
+      "value": "인증방법을 선택해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0518CD52-1B92-4A8D-92F7-3B854C36823B",
+      "overrideName": "1C482BA1-36A3-4252-946C-3D6888CEE8F0/6ABDC27F-52CE-4737-AE42-DBCBAA3A5C58_stringValue",
+      "value": "회원가입을 계속하기 위해서는 현재 거주중이면서 위치해있는 주소에 대한 인증이 필요합니다. 아래의 항목에서 원하는 인증방법을 선택해주세요."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F90453FC-062B-4F32-806D-E76988187E37",
+      "overrideName": "5A2AFB91-D4FB-4D08-8F88-128D54EB5DB1/2DCBDF5E-140C-4C65-85EF-614A68B8281A_symbolID",
+      "value": "EB79B63F-382C-4E8B-A2DF-25802A6F0B8A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FA4376C-C2C8-4159-AE25-3C7729386FED",
+      "overrideName": "5A2AFB91-D4FB-4D08-8F88-128D54EB5DB1/A01AA6CB-D77E-4AF2-AD49-F16C668DC53F_stringValue",
+      "value": "나중에 인증하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "290B330E-A1E0-4D65-BA02-AAC25DB75DC7",
+      "overrideName": "5A2AFB91-D4FB-4D08-8F88-128D54EB5DB1/F50E07B6-342E-41D2-96D7-5E7B97D3C50A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A526DD08-FA8F-45DA-87B3-BBCF3E839BDA",
+  "verticalSpacing": 0
+}

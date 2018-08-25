@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "DEE729E8-063C-4F2C-906F-F789C552BF15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A94657C-0517-43A8-8136-E454307EBE68",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A892D929-8250-4006-84A2-1D98C275DF73",
+    "height": 64,
+    "width": 161,
+    "x": 172,
+    "y": 269
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B5836463-5E82-4F2D-B0C6-18EB8EB87B9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "947DF251-5E90-419E-AA3C-05376177132E"
+    },
+    {
+      "class": "text",
+      "id": "EE003FF5-9988-4B11-8C34-B976DF454905"
+    },
+    {
+      "class": "text",
+      "id": "9296D7D2-714B-456C-A00D-E8609C5B35CF"
+    }
+  ],
+  "name": "formHalf",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6EEF0C4F-7BC5-4CDB-94C7-7F0DB80127A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

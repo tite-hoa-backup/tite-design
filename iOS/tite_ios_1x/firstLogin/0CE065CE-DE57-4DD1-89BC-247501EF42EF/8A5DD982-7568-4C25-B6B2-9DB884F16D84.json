@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8A5DD982-7568-4C25-B6B2-9DB884F16D84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 2Lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "269B31FA-F42A-4917-9897-8BBA2373BC98",
+      "overrideName": "F116B293-1A4D-4100-8381-CB9F602455C2/50956418-D868-4789-9CB8-55867D0B5F18_stringValue",
+      "value": "이미 가입된 번호입니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA71E094-29A2-4764-B32E-D4EEECA4E47E",
+      "overrideName": "F116B293-1A4D-4100-8381-CB9F602455C2/DDCCF357-E2F1-4CE5-9687-14F3E07E3712_stringValue",
+      "value": "지금 사용하고계신 번호가 맞다면 계속 가입하기를,\n전에 가입했던 번호라면 로그인하기를 선택해주세요."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D562CFAC-223C-4C55-8BB9-7308BA4EADC2",
+      "overrideName": "F14E2DF1-A4CD-4737-A735-AF70C679C058/C2B22CAB-01D5-4236-BDC3-49642789FEDC_stringValue",
+      "value": "이 번호로 계속 가입하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68D8A71A-0598-4AA9-9511-D109973C1C0C",
+      "overrideName": "CD87EF87-AFE7-48B5-B3BA-70B5AD7235B8/584C0CE5-D7C4-4115-BEF0-B683D2BFD08A_stringValue",
+      "value": "로그인하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "521FD923-6794-47CA-AD4C-0EC172FF7D94",
+      "overrideName": "F14E2DF1-A4CD-4737-A735-AF70C679C058/A4336BE4-5525-4903-AEC8-60135A9F8260_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8DA5EB5C-FA0A-445D-8563-7F43FC8F6739",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,130 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "E7CB89A8-9412-4ECC-AEEC-5591AAFB5EDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F2AE59C-AE1F-4093-AE6C-E426AFD2286A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "480A1690-178E-4187-996F-B20EB3DE6231",
+    "do_objectID": "BC35BF77-FE9C-4BC1-AF9F-F8AC184A27B8"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F31075AD-59CF-46BE-B912-CBA858E6EDB5",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 44
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / BaseShadow",
+  "nameIsFixed": false,
+  "originalObjectID": "ED0170D6-0A65-4114-AFAF-95C727DCEA29",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59EC754E-3C2C-4630-B744-BAAD77DE52CF",
+      "overrideName": "F59F5BBB-80EF-49FF-AD3A-12CF1B41E2E7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97322DEB-663E-4922-A435-DF8B763278A6",
+      "overrideName": "376CC230-1FA3-49DE-BAD6-9FAE30888356_symbolID",
+      "value": "879FBBC5-DF03-40F6-A000-85AB2B067DAB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F312BEC8-894F-4C77-AE3D-85194B0418BF",
+      "overrideName": "82AEC450-8F70-436D-AB2B-D740DECDBD6A_symbolID",
+      "value": "39644C65-7D68-4B54-9A1E-A7DE0D8470EE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C03A02A-9610-428C-9209-90F306D87A85",
+      "overrideName": "CEC71703-063A-4C9C-8EC7-F797C8BDBB1A_stringValue",
+      "value": "자세히 보기"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43534FCD-5BFA-4F2D-AB43-8062A73EAA90",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "01B11955-3629-4B14-AC9A-17BE4BC503F5",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "E61EB5D5-957A-44D9-AB3C-70D6F47C7393",
+      "transition": 2
+    }
+  },
+  "verticalSpacing": 0
+}

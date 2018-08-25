@@ -1,0 +1,120 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CF360628-55C3-4ED7-B0B4-93CFF25B92B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 360,
+    "x": 0,
+    "y": 144
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / comps / user_likes",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2365BC23-73B2-4862-999F-6B0E469F6EBF",
+      "overrideName": "B1BBB525-F06A-46EB-9637-1EDBC9D720CB_symbolID",
+      "value": "6AC6FE99-7713-48E4-9B71-180A2B8F0AA5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6DE5C53-96E3-4EB6-BD8B-DF4B08649D38",
+      "overrideName": "B1BBB525-F06A-46EB-9637-1EDBC9D720CB/D52C76B4-F409-46E5-A69B-853773832D95_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2694fb0dbd64ea9fa3e1b1e43ca077f6efa84795.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AC1D033-076B-4108-9475-E8DE603CAE7A",
+      "overrideName": "F0D8E64B-EA44-47E0-9F24-5E0175FF3E6F_stringValue",
+      "value": "고나고"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1ABBCD4-3E55-4B0B-B5A5-0C99B76D5EBA",
+      "overrideName": "6917B1A9-E1D2-4E69-A128-AF696401E30B_stringValue",
+      "value": "고나고님의 대화명입니다"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC043418-8D60-43E1-8454-AACF9C8E01DD",
+  "verticalSpacing": 0
+}

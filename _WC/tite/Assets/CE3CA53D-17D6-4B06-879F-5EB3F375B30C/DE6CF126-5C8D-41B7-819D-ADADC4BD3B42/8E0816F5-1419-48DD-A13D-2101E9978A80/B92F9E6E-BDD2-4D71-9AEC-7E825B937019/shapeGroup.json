@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B92F9E6E-BDD2-4D71-9AEC-7E825B937019",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1C0F37B-0D6F-43A6-8745-F4EF0CFDE8ED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0AFCFE37-B822-431E-99AA-2FE9C32E8BE5",
+    "height": 9.000000000000004,
+    "width": 13,
+    "x": 38,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5FB40A4D-C42A-46B5-932A-D8B0E5223184"
+    },
+    {
+      "class": "shapePath",
+      "id": "25F487D7-190F-4DFC-9709-D30E067B7A49"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7CECD9F-033B-4442-8C01-9C110D13BFCD"
+    }
+  ],
+  "name": "Wi-Fi",
+  "nameIsFixed": true,
+  "originalObjectID": "C99D41BD-60C1-4D75-AD96-85AAF08F4C72",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F11E4EE7-DDCA-4A35-A56F-8E5D3817402F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.979428817286283,
+      "type": 0
+    },
+    "do_objectID": "5E731560-6CA3-4DD6-BBEE-C72F8755CC25",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.01176470588235294,
+          "green": 0.01176470588235294,
+          "red": 0.01176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "C76FFE62-0476-4CA3-B908-4594C9D3D7B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98115D94-180B-4305-BFD3-897779D9E709",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "288D670E-8100-4110-8347-220C3963B997",
+    "height": 38,
+    "width": 38,
+    "x": 43.54166666666666,
+    "y": 1.14587995930824
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5321FC85-5173-4CA3-B636-239F96516720"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C1A865F-8CC6-4A96-A296-28D8606F06D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE90F0E3-8AD4-40C9-B39C-6571B05F162E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B89175F0-5AB0-44B8-894F-95212990E5F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C36AA4D-2921-4C27-B4FB-B4AFAD956107"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78C3B3D6-514E-4850-90BF-4393BEE39701"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08323AD2-C6C3-428C-A177-D55B9C077696"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E723C287-C526-47FA-9B4E-8A6FFF7EF0E6"
+    }
+  ],
+  "name": "Iris Detection LED",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "70491670-0860-4A02-B371-C253E500F144",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.729399796541201,
+      "type": 0
+    },
+    "do_objectID": "A5911A12-3A19-4F7F-B719-0627A7DB2096",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

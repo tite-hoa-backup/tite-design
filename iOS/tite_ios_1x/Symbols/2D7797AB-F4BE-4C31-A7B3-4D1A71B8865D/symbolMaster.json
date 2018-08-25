@@ -1,0 +1,116 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4B759918-0E71-41B4-A9A4-A34D63DB3279",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3532,
+  "do_objectID": "2D7797AB-F4BE-4C31-A7B3-4D1A71B8865D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FA3F20B-77E4-4967-ABD7-0621B9874025",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD487469-EE55-4C62-B234-A0351AC058CC",
+    "height": 48,
+    "width": 375,
+    "x": -3471,
+    "y": 4317
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3D92FA36-018D-454A-9274-87A1CED2B271",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BB1C7FBA-5F7C-42CE-9134-24A4FDA09645"
+    },
+    {
+      "class": "text",
+      "id": "D8221ECA-9E39-413A-BAB6-9557B471C9DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BD614A7-E9D2-4065-9C1B-F1B0E48F057E"
+    }
+  ],
+  "name": "writePost / textfield / priceAfter",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F0A14F2-4FAA-4465-B54E-4986C07CF3AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "00A7BBBB-C889-40DC-9D72-9C0DE919DDEE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0E89BCF0-9B46-4917-9308-03C0AA687DFD",
+    "guides": [
+    ]
+  }
+}

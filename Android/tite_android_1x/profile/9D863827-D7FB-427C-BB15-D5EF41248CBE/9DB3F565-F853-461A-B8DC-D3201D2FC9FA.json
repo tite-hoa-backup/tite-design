@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9DB3F565-F853-461A-B8DC-D3201D2FC9FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1ECFD33-E13F-4B26-999C-92704298938B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC637D61-A7A8-4FFD-939E-90EA7E0CF0BA",
+    "height": 65,
+    "width": 360,
+    "x": 0,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionsheet / text / 1b1r",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E97582D0-9CFC-4413-8311-E8FB5C0B1585",
+      "overrideName": "94C0EAA3-258F-4A5C-9414-E93968D597C7_stringValue",
+      "value": "회원탈퇴"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9DCD692-C743-4A0E-978F-4879CFBDADBA",
+      "overrideName": "D0E8657F-6BCF-4FE6-A758-7CE832EBB608_stringValue",
+      "value": "회원탈퇴 전, 다음 사항을 꼭 확인해주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF4BFFFF-DA23-46DE-B810-A30FC36FA9CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5CF51D0-02A8-43E1-80BD-9A126BDDB40E",
+  "verticalSpacing": 0
+}

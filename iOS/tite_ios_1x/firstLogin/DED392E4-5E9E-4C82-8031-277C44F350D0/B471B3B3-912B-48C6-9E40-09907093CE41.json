@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B471B3B3-912B-48C6-9E40-09907093CE41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C99DEB6-3778-45A4-94F6-825205C9BF8F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8F7F7B4-1609-4675-AEEF-66B3B87A2828",
+    "height": 95,
+    "width": 375,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title / 1b2r",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E6B4A2E-6C82-40C7-919B-434FF1F0A01D",
+      "overrideName": "50956418-D868-4789-9CB8-55867D0B5F18_stringValue",
+      "value": "거주중인 아파트 검색"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FB3FE6E-BFF8-46F4-AA3D-7E31CFC31C49",
+      "overrideName": "DDCCF357-E2F1-4CE5-9687-14F3E07E3712_stringValue",
+      "value": "아파트 이름을 입력하거나, GPS를 사용해서 내 주변의 아파트를 검색해보세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9808F73B-2693-4D44-93AD-134B953A9561",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E49A341C-4EC0-45E1-9DFE-2A305FCF2879",
+  "verticalSpacing": 0
+}

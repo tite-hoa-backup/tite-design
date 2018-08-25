@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5C22610F-4EA8-4D11-8463-577CC44EA14F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4A675EB-91AD-460B-9610-37E53D142DB1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8BED9A34-F2DC-447F-BA3E-19A87CE8A06F",
+    "height": 75,
+    "width": 75,
+    "x": 150,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / capturedEach",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95AFB64B-1B89-4988-A3AC-495550A742AF",
+      "overrideName": "1F3DF759-28FC-499E-84EE-FF38A80FC69A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5603039856cd4438a800cfe19d8a1af833c4b1d5.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "583B1F80-7F4E-4260-A72F-3CFBADB6D644",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8DE74221-2654-4AFC-B721-31D1BED7873E",
+  "verticalSpacing": 0
+}

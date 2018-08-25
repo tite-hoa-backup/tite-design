@@ -1,0 +1,124 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C04C4CDE-CABA-4A32-B020-E75ADC65492B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "793CC69E-E136-4A4E-AD65-7BBA25B36839",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55EA4FEE-6761-4037-81C0-60E7C5D88086",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 44
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / BaseShadow",
+  "nameIsFixed": false,
+  "originalObjectID": "ED0170D6-0A65-4114-AFAF-95C727DCEA29",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E11222B0-1244-4232-B759-51585315D733",
+      "overrideName": "AA6CFAE1-DF55-43E7-A4E3-5ADB5CECF27C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59EC754E-3C2C-4630-B744-BAAD77DE52CF",
+      "overrideName": "F59F5BBB-80EF-49FF-AD3A-12CF1B41E2E7_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D60F8512-64DB-4526-9245-7679363B4038",
+      "overrideName": "EAF450D7-CBC4-4BF0-A64A-175E192BFAD3_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B555820E-6AF1-4752-A99E-86744B28493D",
+      "overrideName": "FDB9412F-FC3A-41A1-90E7-A4C665F798D5_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33ADD9F3-42D9-46BF-A9E2-E6E824DDCD7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03F04EDF-701F-4A7B-B653-766D839DEA8F",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "E61EB5D5-957A-44D9-AB3C-70D6F47C7393",
+      "transition": 2
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "453D6130-848D-4A42-B056-8484FD05C5D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "825A62C4-3F87-44BB-9D45-E7AC42082958",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE432CA2-F3C1-49F9-8DCE-F5AA5C5EF9BC",
+    "height": 28,
+    "width": 28,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6A7CDC42-8F12-45B5-B9AF-A3D0F80B2EBE"
+    }
+  ],
+  "name": "Bounding_Boxes",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E2C9A823-0B5E-44CB-97BB-ABAFE63BE995",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.66666666666667,
+      "type": 0
+    },
+    "do_objectID": "EE00C615-2379-4FB3-976B-131EE1FC45E6",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

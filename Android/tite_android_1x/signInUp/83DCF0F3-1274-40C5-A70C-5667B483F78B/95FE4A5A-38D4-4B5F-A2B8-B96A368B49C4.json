@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "95FE4A5A-38D4-4B5F-A2B8-B96A368B49C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABABE998-5055-4B85-AAC4-F57AAC5F7E8F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "C865F463-098E-4965-893A-A87BCD03D9A1",
+    "do_objectID": "5BFE9022-DFB3-45AB-971F-3BD01CD87188"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F9AA3F9-77B4-40E5-8F3F-CC8C33AE757F",
+    "height": 76,
+    "width": 360,
+    "x": 0,
+    "y": 281
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / radio_basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E24AAE5E-CCC5-422E-A6C6-7FAD20E5CD14",
+      "overrideName": "9AACAAE2-7E0A-43D6-A7D7-A774AA2F718F_stringValue",
+      "value": "성별"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5257F86-26D9-4538-82D6-9BE39B6A6E78",
+      "overrideName": "6E354CBB-29A8-4DA2-90E9-4DFFFEB53BFC/E4AA3541-60A2-4108-9531-08AD623B239D_stringValue",
+      "value": "여성"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AD14976-EBC0-4A11-90DC-57170A7D6058",
+      "overrideName": "6E354CBB-29A8-4DA2-90E9-4DFFFEB53BFC/94C118C5-1DD0-465D-970B-9384D9120343_stringValue",
+      "value": "남성"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "712BC0D9-3777-426E-95EF-9C49C9DC5996",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4F8F7135-93F3-4165-8BEB-DD020D39C009",
+  "verticalSpacing": 0
+}

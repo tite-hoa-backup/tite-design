@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "7D30974F-108A-4C60-B80A-DE597FCCB1A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FD3733A-94A9-4F7A-8C28-07B5F5014616",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "721D3F69-ABE2-47EE-A880-37D01E245162",
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 140
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / likes",
+  "nameIsFixed": true,
+  "originalObjectID": "0793AE05-2034-4397-8C97-7A4FE4D5CED8",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C847A66F-56F4-4518-BFEF-7258C8911C5B",
+      "overrideName": "C337300A-F66C-4BBB-9BF3-18693FF6AFF5_stringValue",
+      "value": "spemer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3004407-2DA1-4061-A119-49AD58401FF5",
+      "overrideName": "731CF1B4-D056-44F3-A152-62646763DF8E/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/401947c0dfedc41865907debc987e6d46ad37935.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2155839F-C597-44FB-B6C8-5DA3405DBDEC",
+      "overrideName": "3B79665B-F6D7-4FA3-A423-9B98CA428EA2_stringValue",
+      "value": "30분 전"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A614BD29-AAEF-4334-BC62-AA032976BDF6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDA08682-812F-4A11-A6BA-4ED933AB33FF",
+  "verticalSpacing": 0
+}

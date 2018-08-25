@@ -1,0 +1,145 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "490E25A3-9EBD-40E0-9D48-0E2B5FD0443D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "back",
+    "do_objectID": "F4B605C8-6F18-4C51-91D0-708CD612FFBA"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 1Line",
+  "nameIsFixed": false,
+  "originalObjectID": "ABA15E45-0465-4E13-82A7-7F380FFCB1E4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03C77C65-A469-4D2E-917F-95A096B5A9B7",
+      "overrideName": "D7115D6F-A3B6-45C2-A59E-6408F5C3E71E_stringValue",
+      "value": "로그아웃"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EE103E5-ADDF-4253-8BC2-57CA8EF86FA2",
+      "overrideName": "434EA559-BD54-4F12-A724-A42E1FCF3E10_stringValue",
+      "value": "정말 로그아웃 하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07F8532E-78BF-4848-AC4B-E7221D5D6C74",
+      "overrideName": "C74594D2-7712-4A55-988F-9374D9F5225B_symbolID",
+      "value": "751F52D0-F2AD-4A50-AF16-376F732C220D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD45678B-B0C5-4A7E-B821-1AF7538A134A",
+      "overrideName": "C74594D2-7712-4A55-988F-9374D9F5225B/F66199DC-B3C7-4C08-AA25-FAD202A9A612_stringValue",
+      "value": "로그아웃"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8622EF7-8F76-46E1-8714-02B9F75C40BB",
+      "overrideName": "E5F9876D-07C1-4F17-AAF7-5BF2041A9453/584C0CE5-D7C4-4115-BEF0-B683D2BFD08A_stringValue",
+      "value": "취소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B53D4C07-02CA-4728-A62F-4E836D53B8A2",
+      "overrideName": "EA69A369-A4D5-4D4D-A157-E677801EBF85/88DCCE41-4EB9-4708-AEB8-24511062AA8B_stringValue",
+      "value": "로그아웃"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A180A963-1377-44D7-852B-C605D0557076",
+      "overrideName": "EA69A369-A4D5-4D4D-A157-E677801EBF85/C5D5325E-E155-43AF-A328-29912BFADEAC_stringValue",
+      "value": "정말 로그아웃 하시겠습니까?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3EAB53D-6436-4843-A991-59BFE2A7AD97",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "FD663511-92A1-41F0-BFD6-B148A33241CB",
+      "transition": 7
+    }
+  },
+  "verticalSpacing": 0
+}

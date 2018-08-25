@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A38612CF-E857-4957-A6EE-C8463A8288F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DB17161-ADF8-40DC-A5EA-DBF98110558C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "825B1CF8-7D00-4344-A234-E69F32057CBF",
+    "height": 66,
+    "width": 360,
+    "x": 0,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionsheet / text / 1b1r",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E037CFA-F089-4157-B9A3-8A74B05391D7",
+      "overrideName": "94C0EAA3-258F-4A5C-9414-E93968D597C7_stringValue",
+      "value": "전화번호로 로그인"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD4479C5-FD86-489F-A9B9-0D498CEDBBB2",
+      "overrideName": "D0E8657F-6BCF-4FE6-A758-7CE832EBB608_stringValue",
+      "value": "회원가입시 입력한 정보로 로그인 해주세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A93309EA-29C1-4CD9-A066-BD94DD0CE47F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5CF51D0-02A8-43E1-80BD-9A126BDDB40E",
+  "verticalSpacing": 0
+}

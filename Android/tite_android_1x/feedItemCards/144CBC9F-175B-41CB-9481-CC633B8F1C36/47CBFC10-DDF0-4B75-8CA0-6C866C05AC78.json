@@ -1,0 +1,145 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "47CBFC10-DDF0-4B75-8CA0-6C866C05AC78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "4E6429A0-B749-499A-B668-C0B4BCCD2BB8"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 1Line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0F6C7F1-E515-4524-B419-85DB6CE75985",
+      "overrideName": "9C696C2E-BA71-499E-99F2-BC646C20D05D_stringValue",
+      "value": "판매를 완료하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61863387-4900-462F-A8BF-231EA26883BE",
+      "overrideName": "23C1F602-A3CB-4C32-997B-BDC3E2165129_stringValue",
+      "value": "판매를 완료해도 글은 삭제되지 않습니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "844038C7-114E-4553-BD92-FD80CB01C72E",
+      "overrideName": "B0B8F55A-B8EF-4ED9-AD75-5BA0380F9397/E254D35B-86B7-4AA7-A0E2-B0F06705EB89_stringValue",
+      "value": "취소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22D6BDB0-2CD5-470A-AFB5-5DF01481D46F",
+      "overrideName": "216A1CB9-8E90-4C84-833F-EEE272673B5F/2830BC3C-6867-4FA3-AA90-735C2DE3BA2D_stringValue",
+      "value": "판매 완료하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D74B215-13E3-4B12-AEB5-BE5BBDCDF4B3",
+      "overrideName": "216A1CB9-8E90-4C84-833F-EEE272673B5F/C9407397-3EED-4716-BCA3-2AF721E61E7F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BACD0D15-62BB-4662-9948-FE596DEEDE7E",
+      "overrideName": "DA7D6F62-9BB7-4E7C-BC24-6571204BCC3A/D0E8657F-6BCF-4FE6-A758-7CE832EBB608_stringValue",
+      "value": "판매를 완료해도 글은 삭제되지 않습니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3713B020-5AE1-4828-B66F-67F9125ACF73",
+      "overrideName": "DA7D6F62-9BB7-4E7C-BC24-6571204BCC3A/94C0EAA3-258F-4A5C-9414-E93968D597C7_stringValue",
+      "value": "판매를 완료하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED219B24-A09E-460B-BF00-D0F1C262DD7B",
+      "overrideName": "B0B8F55A-B8EF-4ED9-AD75-5BA0380F9397/C886120A-97A6-46EE-AEB9-92670CFEBA6C_stringValue",
+      "value": "취소"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C57C3D89-4737-43A1-BD2D-28819313FE24",
+  "verticalSpacing": 0
+}

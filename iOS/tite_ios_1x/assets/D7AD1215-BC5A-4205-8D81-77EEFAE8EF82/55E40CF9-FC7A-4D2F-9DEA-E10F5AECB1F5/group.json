@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "55E40CF9-FC7A-4D2F-9DEA-E10F5AECB1F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB52F0BC-D780-4A00-851C-7B7DC1E29D8E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FF707DD-99B5-430A-AEB9-711EE74D23CA",
+    "height": 2100,
+    "width": 1042,
+    "x": 100,
+    "y": 429
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CAE9F114-8785-452F-A029-740FCF38FE3B"
+    },
+    {
+      "class": "group",
+      "id": "4667BF79-A05B-45CD-AC2F-F2F9A6DC20E7"
+    },
+    {
+      "class": "group",
+      "id": "C040F962-E1F4-47E8-BC76-CBF4BAFCC1E2"
+    }
+  ],
+  "name": "Apple iPhone X Space Grey",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "873887B4-F96B-4D6D-976F-135A0D083B3C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.04479261070901,
+      "type": 0
+    },
+    "do_objectID": "1D1BE557-204B-4CDD-ABEB-F24E099BEB6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

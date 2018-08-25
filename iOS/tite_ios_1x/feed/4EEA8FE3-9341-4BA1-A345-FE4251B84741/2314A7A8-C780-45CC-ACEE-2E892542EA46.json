@@ -1,0 +1,105 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "2314A7A8-C780-45CC-ACEE-2E892542EA46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9D6E7E9-8491-4D81-90AF-3EFED24CC417",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "75C24A10-D2AA-458A-A3B2-188639669A6E",
+    "do_objectID": "FDFCFCB8-7FC9-4E07-8C7A-E0F889C1C7AD"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63FFE03B-FFD0-47CE-8322-538864EFA7EC",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / cta / writePost",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDD6199C-0867-4E82-A06A-761C05E69AFC",
+      "overrideName": "69BF5EAB-CF91-4CD5-9D4E-75EF0D6CF016_symbolID",
+      "value": "BC0952C8-BC06-48A6-A3D1-7D12CFD53944"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2627C345-2733-4203-ACCA-5570BEB6D730",
+      "overrideName": "11F75BC4-601C-40F8-8FD9-4F1DEC751292/04D127CB-1BC6-4125-8728-7FD2CF9ABFAF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/401947c0dfedc41865907debc987e6d46ad37935.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A730EC67-DD3F-446B-AB7A-9F2A7269720A",
+      "overrideName": "C953C2ED-3A70-48F2-95CB-297B48C073A3_stringValue",
+      "value": "집에 안쓰는 판매할만한 물건이 있나요?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97A56BE6-BCFB-4110-B799-DEE56819E2BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "766C6FDA-612B-4A49-8677-7196E90E00EF",
+  "verticalSpacing": 0
+}

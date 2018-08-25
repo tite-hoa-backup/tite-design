@@ -1,0 +1,143 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B4B3256A-683F-4C1B-8143-C4C37EFBC5B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E411F6D-D94E-49AD-902E-06EA3A39D96B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E02739A6-FE72-455B-B73D-34D053D7984E",
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 3Line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6425A1FA-2C7A-4DD9-8A80-7A64EFFF2DE9",
+      "overrideName": "9C782FA4-B453-4729-B055-0491C81C15C6_stringValue",
+      "value": "계정과 연결된 전화번호가 다른 계정에서 인증되어 일시휴면 상태인 계정입니다. 계정을 활성화 하시려면 새로운 전화번호를 인증해 주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E63E4CFE-B32E-45CC-A0E2-F17CCE2E663C",
+      "overrideName": "CA3F563E-1EE5-4335-9F10-BA8E0D8FADC6/E254D35B-86B7-4AA7-A0E2-B0F06705EB89_stringValue",
+      "value": "다시 입력하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB6BD384-51A0-4133-AD01-2B43AF914180",
+      "overrideName": "6C538A5C-B5A5-41B5-8AEB-974AA313A519_stringValue",
+      "value": "인증이 필요합니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7402CDCB-EE49-4D16-8FEA-80B8F05E0AD2",
+      "overrideName": "6708FEDC-B36D-411C-8C9A-E3436387A225/2830BC3C-6867-4FA3-AA90-735C2DE3BA2D_stringValue",
+      "value": "번호 인증하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5494987-BA36-414A-A9B7-B477A6353621",
+      "overrideName": "6708FEDC-B36D-411C-8C9A-E3436387A225/C9407397-3EED-4716-BCA3-2AF721E61E7F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "796D3669-5EEA-473A-99AB-A40C870D65A7",
+      "overrideName": "ED8AC538-F84F-4146-8BF3-2ED38FA067EA/B24380EA-C73F-4D4E-A132-3F9A41848EBA_stringValue",
+      "value": "인증이 필요합니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5F99B03-662A-4D0B-81F7-A9B11C7469E0",
+      "overrideName": "ED8AC538-F84F-4146-8BF3-2ED38FA067EA/6ABDC27F-52CE-4737-AE42-DBCBAA3A5C58_stringValue",
+      "value": "계정과 연결된 전화번호가 다른 계정에서 인증되어 일시휴면 상태인 계정입니다. 계정을 활성화 하시려면 새로운 전화번호를 인증해 주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96FB3AAE-9F52-459B-B050-65F6B9A44751",
+      "overrideName": "CA3F563E-1EE5-4335-9F10-BA8E0D8FADC6/C886120A-97A6-46EE-AEB9-92670CFEBA6C_stringValue",
+      "value": "다시 입력하기"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CBABEA6-13BD-4062-938A-7D72B26EB894",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69150FBE-CF63-4AD0-8A26-226FC9088142",
+  "verticalSpacing": 0
+}

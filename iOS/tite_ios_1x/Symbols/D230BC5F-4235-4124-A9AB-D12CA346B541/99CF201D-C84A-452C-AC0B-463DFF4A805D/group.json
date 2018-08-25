@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "99CF201D-C84A-452C-AC0B-463DFF4A805D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 32,
+    "x": 16,
+    "y": 19
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CB3D6BB9-5755-45F6-9950-6BE19CA0C4E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "999D83BC-28CE-498D-98C6-06533C342C27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2502FCFE-8120-49A5-A942-66BE66D7A310"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CA06D55-FBE1-4FBD-8B73-A30FAB57CF03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48D351F7-2AE2-42F3-B45B-37AB274EBFDC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6281B82F-CB57-4A02-9AFD-0D95892D26BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA1208FD-C658-485C-9A97-166C736B3766"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3509DEE5-755D-4381-A439-BDB5991412E4"
+    }
+  ],
+  "name": "-g-foggy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

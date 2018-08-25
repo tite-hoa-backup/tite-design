@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E2D998F0-B129-4288-A5C2-80AA320EA33F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68649A95-22A0-4B64-AE36-5145F0248157",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B02EBAC-6B40-4AAF-BAF7-71A5B2E93B53",
+    "height": 24,
+    "width": 24,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "07287ECE-5BCD-430B-81E0-5C2E95A83621"
+    },
+    {
+      "class": "group",
+      "id": "D2452792-0F81-411B-B84C-F4613B1BD1D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F0DE659-45D3-447D-887B-A50F23659A20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA7392F6-8155-4101-A5E0-1DE743CAC795"
+    }
+  ],
+  "name": "ic_verified_user",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38723C07-6804-408E-8DCA-B32651433C65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

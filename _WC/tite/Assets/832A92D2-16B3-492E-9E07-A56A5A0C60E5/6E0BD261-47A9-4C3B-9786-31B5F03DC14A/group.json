@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6E0BD261-47A9-4C3B-9786-31B5F03DC14A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C9A9981-9BE3-45CC-B1A3-9849506C16F2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08D563B0-7CC2-479D-8310-A1CB59AB31A3",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 568
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6EFA224F-56C4-47A1-B098-60981800F360"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A15B64C9-25CA-40D8-AB92-9C41835ABBB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC4801C2-6788-45AE-8CE7-3CAB1AB38B67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE044EDD-1145-4732-8152-14B70D3023DC"
+    },
+    {
+      "class": "text",
+      "id": "9D55156F-AD80-4B66-AF79-3BE552A66157"
+    },
+    {
+      "class": "text",
+      "id": "96704422-3B45-47D2-9F76-EC9E58162080"
+    }
+  ],
+  "name": "feedItemCard / likesThumbnails",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7D7AC4D-DCF8-4E0D-8EB9-88C0EB4ADEAA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

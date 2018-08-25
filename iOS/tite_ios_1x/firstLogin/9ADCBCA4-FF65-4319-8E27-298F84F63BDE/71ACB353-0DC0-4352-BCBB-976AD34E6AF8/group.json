@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "71ACB353-0DC0-4352-BCBB-976AD34E6AF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1244BF32-4CEC-46D1-A3E2-A37163EFE7E8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5112B464-3602-483B-8A91-4AE9A2FFDC29",
+    "height": 96,
+    "width": 375,
+    "x": 0,
+    "y": 258
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C23F584E-4831-46F0-AA84-238CFF1444F1"
+    },
+    {
+      "class": "text",
+      "id": "4003F96A-A695-43BD-B297-B59505CA35A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA313C39-8C3C-4566-8863-219C8C0B6FDB"
+    },
+    {
+      "class": "text",
+      "id": "6CB4E505-1DBF-43A0-B3C9-D5D870114A0A"
+    },
+    {
+      "class": "text",
+      "id": "88F037F1-3689-4D59-81FB-FA16CAD8AB62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AA35E2B-C675-4CF3-B9B8-9414181E0D7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33C192E9-9F1B-43C9-A657-047785CE3E75"
+    }
+  ],
+  "name": "formBaseActive",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2021841B-0336-4EFB-AD0A-63DE729580DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

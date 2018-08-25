@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "826DF546-58BC-491F-80FF-B4184C86B209",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31BC102B-243F-48FB-8A54-EFB41F9F2583",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EDB5E088-F679-4EBB-86CD-AEC122ED5506",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68408CC9-279C-49F0-B27A-48D3B610B8ED",
+      "overrideName": "6EACD343-9ABE-4B1F-925F-C58B253A8386_symbolID",
+      "value": "A9A66BDC-E29C-4AA0-8D2B-B5D27A66366F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0802137B-0251-4766-A5AF-65DA6AF0FB20",
+      "overrideName": "28BA8995-3C75-4D56-B969-9FA88FBC845E_stringValue",
+      "value": "GPS 인증 실패"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7720887-BFD1-494F-98EE-D1822559EBEC",
+      "overrideName": "57BB91F6-2A8F-4085-AF8C-77DD94BD41D0_stringValue",
+      "value": "재시도"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC9E0E9F-42DF-47DB-98D1-66A9705383C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6EF24636-19B7-4F02-A8A6-3837FD8E8173",
+  "verticalSpacing": 0
+}

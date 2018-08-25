@@ -1,0 +1,122 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6CDD569B-D88C-4773-ACF8-876EC74D52D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "0DACF1E0-B20D-447D-A202-06D0D35A94FB",
+    "do_objectID": "90D05EE2-4A13-4C9B-A4CB-E5BCF3A829CC"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 328,
+    "x": 16,
+    "y": 185
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form_normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1CB2C71-747F-4052-B4CF-F35A4F246167",
+      "overrideName": "80F63D1F-CD70-480C-9E08-34D64ACA3761_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9FB97BBE-786E-494B-9848-B960E7EA6E83",
+      "overrideName": "427113B3-BADF-43D5-A783-2FB9E546E629_stringValue",
+      "value": "전화번호"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8CAEBF1-4917-4EFE-891D-B6EE5C8032AE",
+      "overrideName": "9196F674-97E7-473D-A961-882D2EB00840_stringValue",
+      "value": "전화번호를 입력해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C52737A-CAB1-44E8-AACC-B7ACFEAD3C3E",
+      "overrideName": "25F1D288-EE80-4588-93EE-E4C178CEAFD9_stringValue",
+      "value": "전화번호를 바꾸셨나요? 기존계정 연결하기"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EA1C7F21-F166-4D35-BE5E-0C0BAB1D7739",
+  "verticalSpacing": 0
+}

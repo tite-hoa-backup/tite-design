@@ -1,0 +1,219 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3764706,
+    "do_objectID": "DB8CDA9A-A29F-4557-819C-B062BB8F3126",
+    "green": 0.7529412,
+    "red": 0.09019608
+  },
+  "booleanOperation": 0,
+  "do_objectID": "E73CB663-3969-48C3-9FE6-1E0A9A8FAB8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA45433F-8BB0-41FD-86E4-FE02F85F5345",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71350CBB-E734-4368-8A40-0C3C6A37EC61",
+    "height": 640,
+    "width": 360,
+    "x": 1616,
+    "y": -501
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F7F6123D-01DF-4280-8D89-00F08E193972",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A39D7C9-345A-44C4-8974-C43519D1DE77",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C146F40E-1606-423B-8BDC-CB344E430A39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D452CEF-D9F0-4750-A0FA-50F988D6C644"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A06218E-45FD-4001-92C0-BC6F098B0713"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88F08383-746D-4A3D-A76E-3EA3855BBD43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "698F9C01-5A53-4209-9F3F-70BD2A5FC657"
+    },
+    {
+      "class": "text",
+      "id": "AEA0DAAF-EC3A-4DFF-BC29-624FD79FEC67"
+    },
+    {
+      "class": "text",
+      "id": "1B551FD1-0D23-4935-B330-53BDCFE79C5B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "828980A4-9E5C-46BB-B7C7-79DB8C1DEEE2"
+    }
+  ],
+  "name": "getUserLocation-noGps",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95252969-22FC-4933-A014-97E4A59E664D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.2,
+                "red": 0.2
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B445A315-E6F3-42F4-AFCE-CAEF9A45C0D7",
+    "guides": [
+    ]
+  }
+}

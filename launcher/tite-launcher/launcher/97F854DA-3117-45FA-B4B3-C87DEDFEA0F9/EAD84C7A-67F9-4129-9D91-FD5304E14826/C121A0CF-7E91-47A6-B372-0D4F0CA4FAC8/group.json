@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C121A0CF-7E91-47A6-B372-0D4F0CA4FAC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A3B3D59-0EEC-46FA-B8D0-AFF60A366C70",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "443E8ED2-A7B9-4E94-8F61-FAA7315F7686",
+    "height": 1218,
+    "width": 1380,
+    "x": 113.7037037037037,
+    "y": 207.4074074074074
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B19E31C3-5970-4E35-8682-B1BEA8B445EB"
+    },
+    {
+      "class": "group",
+      "id": "7B598951-A199-42DD-8DEB-35FD2447DC84"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DD9ACC41-8AE3-40C9-990B-C9F7A5C0560F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 148.1481481481482,
+      "type": 0
+    },
+    "do_objectID": "E44327F8-C4A3-4078-B646-42B513E01AF5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "604BA52C-1BFD-4295-99D2-E52108FCF496",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B76F58E-4E49-47EA-81F9-2ACCF90DFE0F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0318B57-5FA7-4250-96DE-6391E786D2E5",
+    "height": 152,
+    "width": 296,
+    "x": 32,
+    "y": 244
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comps / alert / 2btns_2rows",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D2C2ADC-0FB9-4B2E-B63E-A80A5142D63F",
+      "overrideName": "5C66DE5B-7AE4-4AF8-99A1-304DAE3E077C_stringValue",
+      "value": "촬영을 종료하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCBF6CFD-EEFC-4D85-BADD-B405EA0EE245",
+      "overrideName": "50F8E1E7-7C64-4545-A5BE-6160C5342BFC_stringValue",
+      "value": "카메라를 닫으면 촬영해둔 사진들이\r저장되지 않고 삭제됩니다."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18773E00-EBA2-4A33-8486-A670E3D3DFDD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "27D21016-1ABF-4B41-8D5A-86121A036A9C",
+  "verticalSpacing": 0
+}

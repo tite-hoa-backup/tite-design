@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "BA22D0C5-1B39-40B4-919E-89F47A0DC65E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 2Line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF223E17-6450-4B17-A8DF-7F8552101413",
+      "overrideName": "14B08086-41E8-4C04-971F-FFAC5335B988/91740CFB-B935-45AF-AEE2-B899EF7A153B_stringValue",
+      "value": "이미 가입된 번호입니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDE5A270-CD4E-4959-8911-AEB67CEDBC41",
+      "overrideName": "14B08086-41E8-4C04-971F-FFAC5335B988/751A8511-FA22-45B7-87E5-EB475C72B9AC_stringValue",
+      "value": "지금 사용하고계신 번호가 맞다면 계속 가입하기를,\n전에 가입했던 번호라면 로그인하기를 선택해주세요."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2951083-C05D-42E0-A58E-CB8F5CD7AC69",
+      "overrideName": "19BE4F97-70E4-4B31-AFEC-DB0E343600A5/E254D35B-86B7-4AA7-A0E2-B0F06705EB89_stringValue",
+      "value": "로그인하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95A9FCAA-4DCF-4DC8-83D2-F972362F0C58",
+      "overrideName": "FCDB3594-39FB-4734-9867-EAF20D9F1397/C9407397-3EED-4716-BCA3-2AF721E61E7F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DCBEAFF-B64E-4F8E-8436-296F7C502B1B",
+      "overrideName": "FCDB3594-39FB-4734-9867-EAF20D9F1397/2830BC3C-6867-4FA3-AA90-735C2DE3BA2D_stringValue",
+      "value": "이 번호로 계속 가입하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7E2DFE6-0AA5-43B6-B651-CB62D6B81590",
+      "overrideName": "19BE4F97-70E4-4B31-AFEC-DB0E343600A5/C886120A-97A6-46EE-AEB9-92670CFEBA6C_stringValue",
+      "value": "이 번호로 로그인하기"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "24B78959-7232-4A67-B9C2-46B19D438900",
+  "verticalSpacing": 0
+}

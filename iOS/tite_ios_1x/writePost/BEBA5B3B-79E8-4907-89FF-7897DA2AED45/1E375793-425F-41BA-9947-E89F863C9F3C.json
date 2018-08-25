@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1E375793-425F-41BA-9947-E89F863C9F3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7F148EE-A089-4C58-A3C2-08A2C8DA68C8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F27EFCB-06EE-455A-A3BB-B2B8A2CD47F4",
+    "height": 140,
+    "width": 270,
+    "x": 53,
+    "y": 264
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/Default 1 Line Title",
+  "nameIsFixed": false,
+  "originalObjectID": "7EF09F0E-0DCA-4B7B-A33F-049553A0995B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7AC5ED6-1947-4947-8C98-B8AB79C1395A",
+      "overrideName": "1EC2FA66-A4A6-47E8-BC83-C9733F17524C_symbolID",
+      "value": "2330457F-E506-4F88-963E-55219A966187"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BC567D8-DA81-4C41-B283-DF3E991C84C2",
+      "overrideName": "96761222-C357-4E9A-A5FA-F21B3CC707C3_stringValue",
+      "value": "촬영을 종료하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7A1D607-7124-4F8B-AA2B-0D3FD2EB1163",
+      "overrideName": "1EC2FA66-A4A6-47E8-BC83-C9733F17524C/B5102BDA-F56A-4E0B-A6BB-B1D867AA3E41_stringValue",
+      "value": "취소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7AB3A6F-2DC8-45AD-BA27-3DE4E32E45A3",
+      "overrideName": "1EC2FA66-A4A6-47E8-BC83-C9733F17524C/1BD461D9-DC9D-484F-B7A5-4E733E6C1CE0_stringValue",
+      "value": "삭제"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8660DD7-85B1-46E9-A1A6-9A98895AB63D",
+      "overrideName": "9B9B49AD-A814-4F51-BD99-01F483D7DD6A_stringValue",
+      "value": "카메라를 닫으면 촬영해둔 사진들이\r저장되지 않고 삭제됩니다."
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7300166-5444-4315-BB8A-75504ECC25E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A466E87D-D360-4484-9826-56B9E3482E21",
+  "verticalSpacing": 0
+}

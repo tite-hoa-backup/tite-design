@@ -1,0 +1,199 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
+  },
+  "booleanOperation": 0,
+  "do_objectID": "23231B9E-76A5-4D41-9AD8-C68331D7D719",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 2937,
+    "y": -1606
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6B2D7C9B-190D-4D47-A9B3-268E77F20F89"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F04ECA8C-5335-4B04-B716-141A027B4384"
+    },
+    {
+      "class": "text",
+      "id": "964E7A2A-755C-4D07-A111-2FB0AEE97C4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66DA9507-09C1-475F-8D0D-564696C36D56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1549DAA3-9077-4770-BD49-D9089ED3A5AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1F272AB-F003-4EA7-BDEB-F235FE13EE8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AB77EEB-DD5D-4F18-BD4B-506FF28D1854"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A670DCB-63C9-4A4B-9321-A0B32C123CDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46A5C632-D695-4D40-BE77-52D9DC87604A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AE039C6-34BE-46F2-99DB-9CD1341F08D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E23668DB-7877-4537-BA38-BE1F7AAB5D69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9526131E-9D9C-44B3-B8A9-B4E00B8CBB61"
+    }
+  ],
+  "name": "feedItemCard - welcomeCard1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.2,
+                "red": 0.2
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

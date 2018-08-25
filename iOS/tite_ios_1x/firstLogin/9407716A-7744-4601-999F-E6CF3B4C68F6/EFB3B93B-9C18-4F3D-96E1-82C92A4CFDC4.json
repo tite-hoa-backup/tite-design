@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "EFB3B93B-9C18-4F3D-96E1-82C92A4CFDC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3C699E3-E069-4FAF-A29D-C927F992377C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "281E645A-ACA5-42A5-BD1C-6CB45D877D95",
+    "do_objectID": "4C486517-00B9-4805-809F-DF0B03BDFC32"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44496391-ED7B-4780-9889-718E641E5E63",
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 187
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "radio / getChildGender",
+  "nameIsFixed": false,
+  "originalObjectID": "FDC0ACC2-E495-42F7-B76B-ABE4C0C6B8CC",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "239077BC-C7C0-4A20-844D-0EE89B3241B7",
+      "overrideName": "724CCA87-0250-43A2-9CEB-003D8754DEA9/43FADE41-5749-4D15-9E5B-C225C196CC87_stringValue",
+      "value": "여자아이"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8211269F-B762-4028-AB3F-7BE6A425E241",
+      "overrideName": "724CCA87-0250-43A2-9CEB-003D8754DEA9/0431BF1D-4975-454E-AA8F-86B82CEFA0EE_stringValue",
+      "value": "남자아이"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60F21463-EADB-42B7-B546-C93FCB3843F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74A984C2-EFB2-460D-B905-11CD548AE87F",
+  "verticalSpacing": 0
+}

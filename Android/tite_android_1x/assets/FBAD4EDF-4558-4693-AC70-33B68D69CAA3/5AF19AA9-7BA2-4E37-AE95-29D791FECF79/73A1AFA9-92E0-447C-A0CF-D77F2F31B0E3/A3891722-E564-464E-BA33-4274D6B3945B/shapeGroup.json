@@ -1,0 +1,149 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3891722-E564-464E-BA33-4274D6B3945B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C421EE38-E08E-4EF9-AAB1-892E262DFF12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "136880A8-CA03-4EA6-A0D0-3C179A0FF66E",
+    "height": 1862.054933875895,
+    "width": 857.1182095625636,
+    "x": 11.44089521871824,
+    "y": 17.1881993896236
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AF212298-06A1-494C-9564-E91573C47D6D"
+    },
+    {
+      "class": "shapePath",
+      "id": "D184AFD1-270D-4B81-9A7B-F7B4FD2CB77A"
+    }
+  ],
+  "name": "Inner Edge Glare",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F5BF0DE9-C8B4-4097-80CA-2B8DC34D57E0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.729399796541201,
+      "type": 0
+    },
+    "do_objectID": "3139D32A-8829-4E1E-8EE9-28022BE28897",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1433886054421769,
+                "green": 0.1433886054421769,
+                "red": 0.1433886054421769
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7876806972789115,
+                "green": 0.7876806972789115,
+                "red": 0.7876806972789115
+              },
+              "position": 0.0469230769230768
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2253932823129252,
+                "green": 0.2253932823129252,
+                "red": 0.2253932823129252
+              },
+              "position": 0.07184134615384598
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.02928358843537415,
+                "green": 0.02928358843537415,
+                "red": 0.02928358843537415
+              },
+              "position": 0.9310192307692284
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1462053571428572,
+                "green": 0.1462053571428572,
+                "red": 0.1462053571428572
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

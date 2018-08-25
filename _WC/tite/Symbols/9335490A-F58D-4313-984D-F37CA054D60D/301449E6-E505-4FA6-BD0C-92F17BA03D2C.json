@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "301449E6-E505-4FA6-BD0C-92F17BA03D2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E034A168-5424-46CC-B313-24FB9687AF78",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F450D4E-C809-4202-80A7-054D133BB2B3",
+    "height": 32,
+    "width": 32,
+    "x": 48,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "-g-feedItemCard / ic / icThumbnailSmallImage-Overlap",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "824D43BB-3B9D-49E2-BF0D-CE261DEECDEF",
+      "overrideName": "EDA7FCB5-7474-42C7-8948-E5CFB2766E7F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/aac9ed617fe98211d039168843e854c48d914aaa.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9DF4F304-362F-4A34-A026-ACB83C5C63F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "38552371-C717-4599-9C16-38DF6ADCC114",
+  "verticalSpacing": 0
+}

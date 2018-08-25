@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "D61955D8-9E50-496F-BB9F-9538D6C1B224",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "104A144C-C04C-4D06-84EB-AB0AAE7DDB45",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE263BED-AEF9-4B7A-BC45-4482103B4430",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 520
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6F7E5D0D-A302-4395-8E66-F06AF3BA6450"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7395F10-EBF9-45AC-84BE-30E99A96BF73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB352543-51C6-42CF-82B0-BC328D9EB221"
+    },
+    {
+      "class": "text",
+      "id": "CE45FD13-738A-4F80-97A1-B8EBAD852FA2"
+    },
+    {
+      "class": "text",
+      "id": "D0066A67-6741-469C-883F-EA258D1C6AB5"
+    },
+    {
+      "class": "text",
+      "id": "A95DC74F-4E6B-46B4-8BF5-07E414C46EC1"
+    },
+    {
+      "class": "text",
+      "id": "2FF64E42-E974-4378-AEF8-B0DF1DA55780"
+    }
+  ],
+  "name": "feedItemCard / activity",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C78349C4-781B-4EA0-8952-E2E8E1B90E58",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

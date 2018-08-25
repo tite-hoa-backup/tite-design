@@ -1,0 +1,117 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4C1F88BC-F94B-46EF-89BC-B9012086611B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AD7CDF4-5359-4DE7-8294-52674E655C12",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDD42895-ABE7-4C84-B267-CB0E1A28FF30",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / Base3",
+  "nameIsFixed": false,
+  "originalObjectID": "36BA1033-FA27-43D8-9329-98423245AF20",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8FADAD81-6BCF-4FA2-A231-06A65F12EE91",
+      "overrideName": "BB53E844-9EEC-476C-BA0F-87AAEBF6AFBB_stringValue",
+      "value": "맘스글 작성하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CE5375F-F8AE-4494-8128-AA001934C17E",
+      "overrideName": "6F963281-30C1-4464-920D-D3FF1073906F_stringValue",
+      "value": "게시하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C5A6712-DB8A-4FA5-827E-074B39541DE5",
+      "overrideName": "05595C7D-EF3C-4AF7-8386-8D8D910FDEA0_symbolID",
+      "value": "A9A66BDC-E29C-4AA0-8D2B-B5D27A66366F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A9B2D96-E0AC-43D4-8A90-1AAB5A0FE081",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C188F55B-D15B-4D05-9AE7-ED82A752B163",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 5,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "transition": 1
+    }
+  },
+  "verticalSpacing": 0
+}

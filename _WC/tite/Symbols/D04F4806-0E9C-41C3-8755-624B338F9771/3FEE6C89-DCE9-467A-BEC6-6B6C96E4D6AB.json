@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "3FEE6C89-DCE9-467A-BEC6-6B6C96E4D6AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C8404CC-6916-4A2A-BEE4-998221DAD8BE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A260AD0B-695E-48A7-880E-F389F12EF4F6",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 316
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / likesThumbnails",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68F0900C-4EC7-4A83-BCC6-F932334C9826",
+      "overrideName": "4ED96A0C-0995-43F6-B3CC-287E3486EE1D/EDA7FCB5-7474-42C7-8948-E5CFB2766E7F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/37861d0f69f3c80150aa032dd8c19ce8aaa91259.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1436A52C-8374-4536-8D5E-BA132836650D",
+      "overrideName": "D40858B8-8C33-4449-96B2-9B2F0F74A8B0_stringValue",
+      "value": "eunmi 님 외 12명이 좋아합니다"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5368AD84-2DB6-4B8F-B2E4-38B6E65BB2E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E9DC494C-EAB1-46F3-AC6E-D3BE78E35367",
+  "verticalSpacing": 0
+}

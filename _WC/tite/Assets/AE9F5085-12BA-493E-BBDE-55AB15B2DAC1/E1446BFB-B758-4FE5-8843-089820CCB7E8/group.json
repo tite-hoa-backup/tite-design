@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E1446BFB-B758-4FE5-8843-089820CCB7E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7D3B9EB-BC1A-49DE-A050-D81F15FA6053",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCA65899-A826-4F39-A742-75E3E5594139",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 520
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5DF805DD-7354-4AF6-AA14-C3FF240F23B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27CE4CB2-481C-4745-9FE3-E827924A9911"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D02F6013-3483-408E-B26C-0A80F9C782F2"
+    },
+    {
+      "class": "text",
+      "id": "D1B50EE2-9635-41D4-9B04-A0CC746E3692"
+    },
+    {
+      "class": "text",
+      "id": "987910CE-F2A6-4693-A82C-036830EE4ADE"
+    },
+    {
+      "class": "text",
+      "id": "74F2ACB5-18FB-4B8A-BD88-C7EFD43F1208"
+    },
+    {
+      "class": "text",
+      "id": "BF191E9E-1070-4994-A961-381083630245"
+    }
+  ],
+  "name": "feedItemCard / activity",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5452874C-1E4F-4239-9FB6-FB4CED0433DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

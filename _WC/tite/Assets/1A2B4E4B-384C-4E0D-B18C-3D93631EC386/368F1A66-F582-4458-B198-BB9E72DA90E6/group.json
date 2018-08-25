@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "368F1A66-F582-4458-B198-BB9E72DA90E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F55A1C90-F772-43ED-986B-AC4CD62E5C63",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E630F225-CBD0-458A-BE4D-70180DE79AE2",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 520
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9985A8C2-C37F-4152-8E33-E9B92B4464E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27491209-40DE-4B3C-9BB5-5B144277A12B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D83E2AD7-F100-414D-9A31-7769E1A56D65"
+    },
+    {
+      "class": "text",
+      "id": "C7DDFBE8-8093-4CE7-9DF5-E980D297197A"
+    },
+    {
+      "class": "text",
+      "id": "ECC689B9-29B9-41ED-9167-F32445ECD8D1"
+    },
+    {
+      "class": "text",
+      "id": "93EDF659-B899-46B9-9597-8CC84A972B77"
+    },
+    {
+      "class": "text",
+      "id": "19346CF1-6D44-4E7A-8FE8-10E15F71D994"
+    }
+  ],
+  "name": "feedItemCard / activity",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27F04B00-5D62-4996-94CD-E5884AB7CCC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

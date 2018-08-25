@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3764705882352939,
+    "green": 0.7529411764705882,
+    "red": 0.09019607843137252
+  },
+  "booleanOperation": 0,
+  "do_objectID": "A8F7A20D-DF46-47E8-A579-1C268A7EC2A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5A579C8-8534-4C10-B951-5D3D8B1A000A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9E10E41-3EAB-4814-B0EF-6CDB81F043FF",
+    "height": 2208,
+    "width": 1242,
+    "x": 3659,
+    "y": 2830
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E1F08853-85C1-49B0-8FDA-8057B06B8780",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "56B60779-28FA-421D-B89A-9B158FF3BBCD"
+    },
+    {
+      "class": "bitmap",
+      "id": "5A9EB2E2-0AA1-4B33-9CAC-7E90AF0CFB27"
+    },
+    {
+      "class": "bitmap",
+      "id": "F59A750A-AEE8-47EB-A419-EC87CC61EB2F"
+    },
+    {
+      "class": "bitmap",
+      "id": "37BFC0A5-D9FF-4314-B0E8-0E5E2AAB975C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F8FB5B6-BF66-4165-BE70-38677AD5F618"
+    }
+  ],
+  "name": "Appstoreimage04",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 736,
+    "name": "iPhone 8 Plus",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C03EE45-DBB5-4F38-99FF-F9F79D28FAA6",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.2,
+                "red": 0.2
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D38AEBDC-0948-4FB6-97C0-BDD03F42C07F",
+    "guides": [
+    ]
+  }
+}

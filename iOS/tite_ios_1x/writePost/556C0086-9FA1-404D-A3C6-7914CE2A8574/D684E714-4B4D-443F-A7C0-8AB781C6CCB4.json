@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D684E714-4B4D-443F-A7C0-8AB781C6CCB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "721110A1-D361-4739-BBE8-DD00AE8B8B1C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "720DC190-887A-434C-B55E-604C2D14CC55",
+    "do_objectID": "820C617B-6A36-4E38-9DEE-EC912E82F8BC"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECEAB748-D0E9-46D3-85BB-D445223D7F43",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / Base3",
+  "nameIsFixed": false,
+  "originalObjectID": "FF7EE9C5-2B34-48F6-9E88-003FEAD7FA70",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "06C9B264-94DA-4D31-B5A3-F9DA4F1DDD7A_stringValue",
+      "value": "마켓"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A6C42F6-047D-4B65-8338-A126B204EF0B_stringValue",
+      "value": "게시"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "675DF605-3111-48AE-BB02-A485C19929F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "73BF32D0-E9A9-400D-96E2-84DC5FBF748B",
+  "verticalSpacing": 0
+}

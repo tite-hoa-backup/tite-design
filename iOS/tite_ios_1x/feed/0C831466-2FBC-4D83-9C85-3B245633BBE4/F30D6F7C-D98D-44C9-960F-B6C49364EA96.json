@@ -1,0 +1,111 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F30D6F7C-D98D-44C9-960F-B6C49364EA96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9DBCA08-106B-4996-8F5F-2424A46F5FD1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "667FD60B-0AB6-4C07-BA63-85D16CA0CE09",
+    "do_objectID": "DB49C623-3E4D-4660-9AC6-97260B8B2332"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3EF984C9-A231-4996-8DB4-6AD5E447853A",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / cta / writePost",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63834D45-B403-433A-BFAE-D23DFAFB557E",
+      "overrideName": "11F75BC4-601C-40F8-8FD9-4F1DEC751292/04D127CB-1BC6-4125-8728-7FD2CF9ABFAF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/401947c0dfedc41865907debc987e6d46ad37935.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C64A732-AF04-4786-BBDA-8C23AEF7171C",
+      "overrideName": "C953C2ED-3A70-48F2-95CB-297B48C073A3_stringValue",
+      "value": "네이버스에 초대하고싶은 이웃이 있나요?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E0E5998-451E-474A-8AF6-DA42DEE85F59",
+      "overrideName": "69BF5EAB-CF91-4CD5-9D4E-75EF0D6CF016_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7808B919-A3C3-4579-9904-832B05979DAB",
+      "overrideName": "C34D6640-CB6C-4021-8880-AAA00CAE2EEA_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "080A5799-B833-44B4-BDD7-B5CF30831D31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "766C6FDA-612B-4A49-8677-7196E90E00EF",
+  "verticalSpacing": 0
+}

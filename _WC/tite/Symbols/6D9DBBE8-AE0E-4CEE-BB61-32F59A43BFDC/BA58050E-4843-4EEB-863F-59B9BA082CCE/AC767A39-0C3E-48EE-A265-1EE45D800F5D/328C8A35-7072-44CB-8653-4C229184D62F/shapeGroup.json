@@ -1,0 +1,152 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "328C8A35-7072-44CB-8653-4C229184D62F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F32BC703-7FBF-42F2-B4F9-A611625837BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D81129E7-6056-459B-9980-03326900E72E",
+    "height": 10,
+    "width": 10,
+    "x": 48,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "D245C335-F690-495B-90F2-C44C5E8E792E"
+    }
+  ],
+  "name": "Oval",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 18,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "9900FC0A-2BD7-4C4A-ABD7-187BF1475109",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7098039215686275,
+          "green": 0.7607843137254902,
+          "red": 0.9607843137254902
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.11594202898550725, 0.16304347826086957}",
+          "gradientType": 1,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7786561264822134,
+                "green": 1,
+                "red": 0.7171717171717171
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7186187917553049,
+                "green": 0.9728156887755102,
+                "red": 0.3881628256290383
+              },
+              "position": 0.2142857142857143
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.4057971014492754,
+                "blue": 0.8158735305610939,
+                "green": 0.8621525365582328,
+                "red": 0.5068842349791536
+              },
+              "position": 0.6632653061224489
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 0.7149382866556059,
+                "green": 0.9453409645395283,
+                "red": 0.4635899107822363
+              },
+              "position": 0.8877551020408163
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 0.9455782312925171,
+                "green": 0.4632378203806776,
+                "red": 0.6938404455024213
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.81521739130434778, 0.92028985507246386}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
