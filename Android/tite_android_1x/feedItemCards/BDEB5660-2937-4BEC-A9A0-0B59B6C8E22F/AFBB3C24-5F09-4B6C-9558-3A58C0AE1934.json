@@ -1,0 +1,143 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "AFBB3C24-5F09-4B6C-9558-3A58C0AE1934",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3780A0A2-1345-4B56-829B-52CD61147E42",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16E8DB27-AD7F-432C-B880-2480FA0354FE",
+    "height": 340,
+    "width": 360,
+    "x": 0,
+    "y": 428
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "discover / topics_list",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35EBB156-C7C0-41F4-A221-7A8CFBCB783F",
+      "overrideName": "46D47A25-2BD0-4CD9-83A4-A886B1B5BA68/16C71638-378A-43BC-A15E-692DEC31401D_stringValue",
+      "value": "리뷰"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED3FC4D1-D372-4E2B-870B-C0D08C8E9E1D",
+      "overrideName": "46D47A25-2BD0-4CD9-83A4-A886B1B5BA68/2985AD4D-730E-42CF-A87A-397939EA5A24_stringValue",
+      "value": "리뷰전체"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5922631B-E31F-4C9D-9AE6-7846B62A6CAE",
+      "overrideName": "239D2DAD-34C9-47EA-A8E9-A0049DD9249D/235BB84E-3EA3-4E9B-B95C-4C2ADE9CAEC2_symbolID",
+      "value": "E519AAFF-8822-4661-988F-A06ED98632EC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A977905D-6C2C-4000-8EEF-B58FEEFA5C6A",
+      "overrideName": "239D2DAD-34C9-47EA-A8E9-A0049DD9249D/779CA392-E009-4015-BB9E-58EB2B0FCA4F_stringValue",
+      "value": "맛집"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01FBA571-43FA-40C6-AA06-91424E84D45E",
+      "overrideName": "706BE4EB-ED34-481E-AA85-0A7A57DA1866/779CA392-E009-4015-BB9E-58EB2B0FCA4F_stringValue",
+      "value": "카페"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F36D846-5A0F-4DAF-AB45-686EC1F63321",
+      "overrideName": "706BE4EB-ED34-481E-AA85-0A7A57DA1866/235BB84E-3EA3-4E9B-B95C-4C2ADE9CAEC2_symbolID",
+      "value": "3492B482-8F3A-4E00-B52E-6DFC088D9515"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65AF5837-DA55-407C-AD74-5DB72D20E7A9",
+      "overrideName": "0058ADFE-6921-483D-88A7-8A1A78176C95/235BB84E-3EA3-4E9B-B95C-4C2ADE9CAEC2_symbolID",
+      "value": "38FCA1B9-9B94-47D5-9C34-A023780BA959"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2D06618-0D64-454F-BD16-087C5D8D3C37",
+      "overrideName": "0058ADFE-6921-483D-88A7-8A1A78176C95/779CA392-E009-4015-BB9E-58EB2B0FCA4F_stringValue",
+      "value": "병원"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "871F684F-4A06-479E-9B1C-C95E393C7C86",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7D1D7003-332F-4BE5-9A25-ABC80748B849",
+  "verticalSpacing": 0
+}
