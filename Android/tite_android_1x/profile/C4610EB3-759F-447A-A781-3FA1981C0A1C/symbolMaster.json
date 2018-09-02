@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4002,
+  "changeIdentifier": 4176,
   "do_objectID": "C4610EB3-759F-447A-A781-3FA1981C0A1C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,7 +76,7 @@
     "y": -910
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -95,6 +95,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "46944599-5C85-4D97-82A9-DC30BF2159EF"
+    },
     {
       "class": "symbolInstance",
       "id": "A0B9B74B-A79C-4B33-B181-541230B4315C"
@@ -116,10 +120,6 @@
       "id": "A7FED8F3-5AD8-4D99-A08E-40764A57B066"
     },
     {
-      "class": "text",
-      "id": "7718FEF0-CA50-4B32-9D4A-904BA9BFDE5B"
-    },
-    {
       "class": "symbolInstance",
       "id": "85DC8FC1-94DC-4065-9261-8E612F711ED9"
     },
@@ -133,7 +133,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7D60824F-B235-41A3-B266-9F0647B30F7D"
+      "id": "BE34998E-FCF0-4CAF-990B-8B8CB7E01F07"
     }
   ],
   "name": "[SYMBOL] / account_settings",

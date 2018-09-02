@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3786,
+  "changeIdentifier": 3872,
   "do_objectID": "32A344A4-0845-441E-AF42-B87D40EF3615",
   "exportOptions": {
     "_class": "exportOptions",
@@ -73,7 +73,7 @@
     "y": 4183
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -89,15 +89,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "6F21CAFC-F0DD-42F1-95BA-E3CC0778300E"
     },
     {
-      "class": "group",
-      "id": "806DC94A-D881-4876-90F4-D349F063F7D6"
+      "class": "shapeGroup",
+      "id": "E7EA5C18-0690-485F-9EB3-ADAE445C3E1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45AB7887-2080-4AC4-AC71-1275721D1E9F"
     }
   ],
   "name": "profile / ic / ic_addImage_grey",

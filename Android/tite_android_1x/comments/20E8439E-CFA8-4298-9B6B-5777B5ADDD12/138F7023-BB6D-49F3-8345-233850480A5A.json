@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4666666666666667,
-            "red": 0.4666666666666667
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,14 +24,16 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21,
             "paragraphSpacing": 1
           }
         },
-        "length": 14,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "아직 새로운 알림이 없어요"
+    "string": "아직 새로운 알림이 없어요\n새로운 알림이 생기면, 이곳에 표시됩니다"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -96,12 +98,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4AB187C2-821B-48E5-8DBE-667FB2219C24",
-    "height": 20,
+    "height": 43,
     "width": 328,
     "x": 16,
-    "y": 302
+    "y": 305
   },
-  "glyphBounds": "{{89, 4}, {150, 14}}",
+  "glyphBounds": "{{47, 4}, {234, 36}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -129,9 +131,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4666666666666667,
-          "red": 0.4666666666666667
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -144,6 +146,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21,
           "paragraphSpacing": 1
         }
       },

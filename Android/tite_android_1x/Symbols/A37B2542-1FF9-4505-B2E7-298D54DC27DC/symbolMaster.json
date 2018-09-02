@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2214,
+  "changeIdentifier": 2275,
   "do_objectID": "A37B2542-1FF9-4505-B2E7-298D54DC27DC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -70,13 +70,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4B8151E9-C07B-450B-AC25-62405AFDB572",
-    "height": 64,
-    "width": 64,
-    "x": 3969,
-    "y": 2413
+    "height": 48,
+    "width": 48,
+    "x": 3977,
+    "y": 2421
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -96,19 +96,27 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "2EFAA462-0510-48C8-AC89-6542B95FEAB7"
+      "class": "symbolInstance",
+      "id": "54DCE910-5F9A-4831-B2A3-871B289C2411"
     }
   ],
   "name": "-g-feed / ic / no_comment_bubble",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "type": 0
+    },
     "do_objectID": "992DCAEA-499A-4E71-9484-AA2674EBD3B2",
     "endMarkerType": 0,
     "miterLimit": 10,

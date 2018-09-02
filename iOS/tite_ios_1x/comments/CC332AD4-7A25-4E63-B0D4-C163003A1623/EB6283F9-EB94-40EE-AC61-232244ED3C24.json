@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6,
-            "green": 0.6,
-            "red": 0.6
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -27,11 +27,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 14,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "아직 새로운 알림이 없어요"
+    "string": "아직 새로운 알림이 없어요\n새로운 알림이 생기면, 이곳에 보여집니다"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -78,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BEAA6948-A201-4645-B9A9-B6F2D827C885",
-    "height": 22,
+    "height": 45,
     "width": 343,
     "x": 16,
-    "y": 337
+    "y": 341
   },
-  "glyphBounds": "{{91, 4}, {161, 15}}",
+  "glyphBounds": "{{46, 4}, {251, 38}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -110,9 +110,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6,
-          "green": 0.6,
-          "red": 0.6
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

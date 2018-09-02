@@ -80,12 +80,6 @@
       "radius": 2.5,
       "type": 0
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "D5AE6701-B599-482F-9360-AF148ABBE0FC",
-      "opacity": 0.38
-    },
     "do_objectID": "D023990E-6EAE-4A67-804E-7C012C12C4F8",
     "endMarkerType": 0,
     "fills": [
@@ -93,10 +87,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "alpha": 0.38,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "gradient": {
