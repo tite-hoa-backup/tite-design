@@ -1,16 +1,17 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "3560335F-BB95-42FD-90A9-3A76F442F2B6",
+  "do_objectID": "08154F0C-B7E3-4A72-B8A7-C0EAAFC14778",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "64116539-2C89-4FF5-B25B-9FCF2660AF7F",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "mdpi/",
-        "namingScheme": 1,
+        "name": "",
+        "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -18,17 +19,8 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "hdpi/",
-        "namingScheme": 1,
-        "scale": 1.5,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xhdpi/",
-        "namingScheme": 1,
+        "name": "@2x",
+        "namingScheme": 0,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -36,18 +28,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "xxhdpi/",
-        "namingScheme": 1,
+        "name": "@3x",
+        "namingScheme": 0,
         "scale": 3,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xxxhdpi/",
-        "namingScheme": 1,
-        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -59,10 +42,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
-    "width": 360,
-    "x": 800,
-    "y": 261
+    "do_objectID": "CFA34C13-FA3D-4C54-A277-6D90C622C562",
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 130
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -71,9 +55,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "alert / list_1line",
-  "nameIsFixed": false,
+  "name": "asBound / LineProfile",
+  "nameIsFixed": true,
+  "originalObjectID": "6B4637C1-A02E-41A8-983F-335D52632FF8",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6C20A0F-FCAB-441C-9BE7-22B1D8879CD3_stringValue",
+      "value": "푸시알림"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "814EE7DE-3042-4C65-8B1C-563F6D2ABF26_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,11 +77,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "3C2C0EBF-60C4-4EF8-B720-BEF053C4B404",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F1FCED97-BEE8-4DAF-8E28-6429FCE2442B",
+  "symbolID": "AC0DCF97-F967-4565-BB57-DD1833A11B09",
   "verticalSpacing": 0
 }

@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "E09F8FE7-6A9B-461E-B70A-91914907E2D3",
+  "do_objectID": "F0AC8748-0462-426E-A755-CD7973721B54",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "DB5D33E5-8FF8-4504-9CED-9D29D0E6F9DB",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -41,10 +42,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "do_objectID": "4B8C6D12-F9A7-4225-A692-9CEA657CF7CB",
+    "height": 80,
     "width": 375,
-    "x": 830,
-    "y": 440
+    "x": 0,
+    "y": 530
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -53,9 +55,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / snackbar / connected",
+  "name": "asBound / basicProfile",
   "nameIsFixed": false,
+  "originalObjectID": "6F97DD08-713F-4D7B-BF06-12A2264957BA",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3BAA5210-3DF5-4BB9-845B-DB9A599B5D69_stringValue",
+      "value": "회원탈퇴"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,11 +72,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "04516F12-47B2-4C74-A18E-91814CEB2DF4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "ECE2570F-C5A1-49C7-BEC4-F04E4C608090",
+  "symbolID": "54606961-5116-456C-8FFB-713FBF4FC9E2",
   "verticalSpacing": 0
 }

@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "F0CB12D7-E202-463D-A645-DB10C94B3A71",
+  "do_objectID": "7A4F94CA-09BD-44A7-83AD-995DF1FE7F69",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6BE84B66-AF9B-4444-AB74-2941E5E5CD39",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -41,10 +42,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
+    "do_objectID": "45C2CEB7-6749-4EEF-A460-557081698915",
+    "height": 80,
     "width": 375,
-    "x": 16,
-    "y": 628
+    "x": 0,
+    "y": 210
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -53,9 +55,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feedItemCard / uploadingPost",
-  "nameIsFixed": false,
+  "name": "asBound / LineProfile",
+  "nameIsFixed": true,
+  "originalObjectID": "6B4637C1-A02E-41A8-983F-335D52632FF8",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6C20A0F-FCAB-441C-9BE7-22B1D8879CD3_stringValue",
+      "value": "이웃 초대하기"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,11 +72,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D5B3B8BF-1DD0-4DE1-B66D-1902A3880675",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FEC5AE01-C6FC-4B75-A6A6-626FA5B91010",
+  "symbolID": "AC0DCF97-F967-4565-BB57-DD1833A11B09",
   "verticalSpacing": 0
 }

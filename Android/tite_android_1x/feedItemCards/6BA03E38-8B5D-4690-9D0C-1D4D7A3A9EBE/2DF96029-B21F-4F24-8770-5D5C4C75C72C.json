@@ -1,17 +1,17 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "C6A71AFB-5FCA-4772-929B-F192FE589550",
+  "booleanOperation": -1,
+  "do_objectID": "2DF96029-B21F-4F24-8770-5D5C4C75C72C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9BE46C08-65E8-4B89-8BEF-B152F11225F0",
+    "do_objectID": "EE89C2B4-E87A-495B-BD54-0BEB14F1D8A6",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -19,8 +19,17 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -28,9 +37,18 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -42,11 +60,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "92841F51-6033-4656-8D07-04A9BD91681B",
-    "height": 80,
-    "width": 375,
-    "x": 830,
-    "y": 304
+    "do_objectID": "C1FB92C3-25FF-446C-ACE5-110E9E532C11",
+    "height": 236,
+    "width": 360,
+    "x": 0,
+    "y": 459
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -55,20 +73,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "asBound / LineProfile",
-  "nameIsFixed": true,
-  "originalObjectID": "6B4637C1-A02E-41A8-983F-335D52632FF8",
+  "name": "feedItemCard / feed_example_card_placeholder",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "C6C20A0F-FCAB-441C-9BE7-22B1D8879CD3_stringValue",
-      "value": "푸시알림"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "814EE7DE-3042-4C65-8B1C-563F6D2ABF26_symbolID",
-      "value": ""
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,12 +84,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2EB2442B-D79B-42E9-A2B9-EFBB0EE17FB1",
+    "do_objectID": "69BB396A-CB50-408B-ACDD-D78B4B451D5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AC0DCF97-F967-4565-BB57-DD1833A11B09",
+  "symbolID": "AEE28185-99B7-4E01-9A5D-7C774B3A3187",
   "verticalSpacing": 0
 }

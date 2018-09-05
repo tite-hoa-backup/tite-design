@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "7CFF891D-B706-4C6C-893A-D5CFC8B574EA",
+  "do_objectID": "1CA7BC5E-FE22-4232-9DDA-ACEE94F475FC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "20FB872E-2876-4259-85CC-2C4CBD15FFD8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -41,10 +42,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "do_objectID": "98ED0DC8-E445-4D08-8C0B-7607EB236B2A",
+    "height": 80,
     "width": 375,
-    "x": 16,
-    "y": 384
+    "x": 0,
+    "y": 290
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -53,9 +55,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "writePost / tag / onPopupOthersNoLine",
-  "nameIsFixed": false,
+  "name": "asBound / LineProfile",
+  "nameIsFixed": true,
+  "originalObjectID": "6B4637C1-A02E-41A8-983F-335D52632FF8",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6C20A0F-FCAB-441C-9BE7-22B1D8879CD3_stringValue",
+      "value": "비밀번호 변경"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,11 +72,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2A744C80-061C-4496-A41D-CA6C1986A6A4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "023118A4-DF34-4C66-B33A-911A56DD2F19",
+  "symbolID": "AC0DCF97-F967-4565-BB57-DD1833A11B09",
   "verticalSpacing": 0
 }

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "A0B9B74B-A79C-4B33-B181-541230B4315C",
+  "do_objectID": "F2F8A367-36D2-4724-9BA8-A82DABB1E4B8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "361631F3-949D-4408-B101-A728455CE25B",
+    "do_objectID": "AE842ACF-BDC2-45A2-94D1-0270762ABDBA",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -57,14 +57,20 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "5F076173-E1D4-492C-A0AF-B6AC56F14EA3",
+    "do_objectID": "E3A98E3C-F8CC-4854-8315-F8D13D5A4F68"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "073A67E8-A360-4C54-91F4-F46EEE118813",
+    "do_objectID": "1F19A067-F7FB-43F7-8BA7-32B64466B561",
     "height": 80,
     "width": 360,
     "x": 0,
-    "y": 451
+    "y": 531
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -73,14 +79,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / menu_each_noLine",
+  "name": "profile / menu_each",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F9D033FE-2B89-406C-9912-CE1040D7038F",
+      "do_objectID": "CFC9BC77-5A9E-4A8C-B81B-A27668970E3F",
       "overrideName": "475E44CE-56D8-4E76-853B-EB90F7B3AD68_stringValue",
-      "value": "FAQ"
+      "value": "회원탈퇴"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B876F8C-79C6-4D5C-8D9C-154AB96869E9",
+      "overrideName": "58341C25-EA59-4F75-B652-14630AC1D88E_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,
@@ -90,7 +102,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F03CAA4F-9F23-4574-BBCB-9723D95C7380",
+    "do_objectID": "E64D5DDB-62EF-4D81-809F-4818E71C2265",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

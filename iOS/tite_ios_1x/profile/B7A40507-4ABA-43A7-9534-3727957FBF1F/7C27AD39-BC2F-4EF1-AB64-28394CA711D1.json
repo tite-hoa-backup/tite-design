@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "B29637BF-E618-4A2C-9934-1D1ACB30ADA6",
+  "do_objectID": "7C27AD39-BC2F-4EF1-AB64-28394CA711D1",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "384DF5F1-920C-4359-8BF1-471526DDB899",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -41,10 +42,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
+    "do_objectID": "FDD0A638-E070-4C77-A137-02A539AC3077",
+    "height": 80,
     "width": 375,
-    "x": 16,
-    "y": 536
+    "x": 0,
+    "y": 450
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -53,9 +55,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feedItemCard / tagsIfMoms",
-  "nameIsFixed": false,
+  "name": "asBound / LineProfile",
+  "nameIsFixed": true,
+  "originalObjectID": "6B4637C1-A02E-41A8-983F-335D52632FF8",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6C20A0F-FCAB-441C-9BE7-22B1D8879CD3_stringValue",
+      "value": "로그아웃"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,11 +72,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "83663AE6-FB57-4FEC-98FA-A9E6EC734F02",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F6F92D4B-438B-457F-A6F6-C6FE553C017B",
+  "symbolID": "AC0DCF97-F967-4565-BB57-DD1833A11B09",
   "verticalSpacing": 0
 }
