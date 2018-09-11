@@ -75,7 +75,7 @@
     "y": -170
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -95,19 +95,19 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "C0976F94-8532-465E-8EC6-3EC6BC53A48D"
-    },
-    {
-      "class": "symbolInstance",
       "id": "32FD24C7-65FF-4249-95CC-D87893534E8F"
-    },
-    {
-      "class": "text",
-      "id": "1EE85250-B3DE-43CF-810B-4A0B5902FDB0"
     },
     {
       "class": "symbolInstance",
       "id": "96BB73EC-AAE2-4B6E-A713-287812F95963"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE090B50-4B4C-4DEC-A167-C0722FE16ED1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE126E8F-EF6A-4E74-B76D-9B2EF0F6730E"
     },
     {
       "class": "symbolInstance",
@@ -132,10 +132,6 @@
     {
       "class": "symbolInstance",
       "id": "5C44C0C4-AC4F-4852-95AC-F797AD151BC6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FE090B50-4B4C-4DEC-A167-C0722FE16ED1"
     }
   ],
   "name": "feedItemCards_details - noComment - bottom",

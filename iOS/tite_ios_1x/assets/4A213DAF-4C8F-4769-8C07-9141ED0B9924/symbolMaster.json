@@ -8,11 +8,38 @@
     "red": 0.09019608
   },
   "booleanOperation": -1,
-  "changeIdentifier": 74,
+  "changeIdentifier": 135,
   "do_objectID": "4A213DAF-4C8F-4769-8C07-9141ED0B9924",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,7 +51,7 @@
     "constrainProportions": false,
     "height": 2208,
     "width": 1242,
-    "x": -1709,
+    "x": -1849,
     "y": 2830
   },
   "hasBackgroundColor": true,
