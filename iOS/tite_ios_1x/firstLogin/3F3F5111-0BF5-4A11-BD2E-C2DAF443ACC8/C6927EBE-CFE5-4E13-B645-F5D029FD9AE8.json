@@ -27,11 +27,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 12,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "전화번호를 입력해주세요"
+    "string": "‘-‘ 제외하고 숫자만 입력"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -81,7 +81,7 @@
     "x": 16,
     "y": 219
   },
-  "glyphBounds": "{{1, 6}, {185, 17}}",
+  "glyphBounds": "{{1, 5}, {176, 18}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
