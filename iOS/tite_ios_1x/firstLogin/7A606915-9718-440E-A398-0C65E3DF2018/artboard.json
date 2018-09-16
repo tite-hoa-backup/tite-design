@@ -73,7 +73,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -92,16 +92,16 @@
       "id": "635B17F8-FBE3-4B7F-940C-FE9050F80B74"
     },
     {
-      "class": "symbolInstance",
-      "id": "3EBEFD8F-B6CF-4D61-ACF8-A4545BFC15D9"
-    },
-    {
       "class": "text",
       "id": "9DC423A5-1666-4D64-940C-F5847432DEC8"
     },
     {
       "class": "symbolInstance",
       "id": "F3AEE096-61A3-44C2-9150-F36983702C7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61F271F9-8963-439B-8E56-CEC981A30037"
     }
   ],
   "name": "selectMethod - postBefore",

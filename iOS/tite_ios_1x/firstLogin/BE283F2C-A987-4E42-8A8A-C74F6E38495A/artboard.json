@@ -69,7 +69,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -78,10 +78,6 @@
     {
       "class": "symbolInstance",
       "id": "91A82436-BD65-49F1-8412-5276D3DBF65C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "98B8860C-E0E6-4DBB-93D3-08E1DFF27A01"
     },
     {
       "class": "text",
@@ -98,6 +94,10 @@
     {
       "class": "symbolInstance",
       "id": "1E8BB9B3-EDE2-40E7-9DCF-A1A6707CB8EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1B4DE45-B156-4C9E-B262-67E539AFC0D0"
     }
   ],
   "name": "getUserLocationNoGps",

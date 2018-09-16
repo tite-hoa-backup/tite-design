@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D8B00BCB-30AC-4989-81EC-D7DF220250F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE806D5E-FF75-400E-9C5A-0D9F74797607",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4FA80A3-4008-4164-8A78-EC6E0414E2E6",
+    "height": 32,
+    "width": 375,
+    "x": 0,
+    "y": 372
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / surveyStatus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE2E6BE1-98AF-4E67-9959-95FC7848C2A0",
+      "overrideName": "FC4DC7F2-A279-486D-93E6-589224862111_stringValue",
+      "value": "256명 참여"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF459488-D4AC-475D-8C8C-EF2F8EA37811",
+      "overrideName": "A2224002-3166-4688-94E4-C90A2693F775_stringValue",
+      "value": "이 주민청원은 종료되었습니다"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F9196F1-EB7D-426B-89DE-4D666DAD45C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "333E37AD-5CF4-4D71-9345-710AE3F8BAF6",
+  "verticalSpacing": 0
+}

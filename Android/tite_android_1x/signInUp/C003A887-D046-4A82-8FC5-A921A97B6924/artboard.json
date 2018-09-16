@@ -91,7 +91,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -118,12 +118,12 @@
       "id": "B7FECFCB-0F69-48ED-88A0-E70D3F1F2C76"
     },
     {
-      "class": "symbolInstance",
-      "id": "769B07C1-1D18-4B2B-998B-331A98423E56"
-    },
-    {
       "class": "text",
       "id": "B8B826D6-E725-447B-A118-227C2A6CE9F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E31C0230-6F2B-4321-9B93-29803181EE1A"
     }
   ],
   "name": "getUserLocation-post_before",
