@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4798,
+  "changeIdentifier": 4867,
   "do_objectID": "81437F1F-5E43-4799-9ED1-6F3F1CD73F58",
   "exportOptions": {
     "_class": "exportOptions",
@@ -73,7 +73,7 @@
     "y": 626
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -92,12 +92,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "DEE6100E-1FD5-413B-8782-AE3A1AA17005"
-    },
-    {
       "class": "text",
       "id": "E550CC33-3872-4532-9D0C-267699B12BE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEE6100E-1FD5-413B-8782-AE3A1AA17005"
     }
   ],
   "name": "tabbar / each-active",

@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2168,
+  "changeIdentifier": 2210,
   "do_objectID": "2AB05C1D-778C-40B0-8EE6-CEF4D55E260D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,7 +57,7 @@
     "y": 162
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -77,14 +77,14 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "70DDABD7-7CDF-4840-91C9-9D37169430CE"
+      "class": "symbolInstance",
+      "id": "0C54BCA5-0E46-469C-B6E4-F3ED9BFC24EE"
     }
   ],
   "name": "-g-ic / icBackReverseWhite",
   "nameIsFixed": true,
   "originalObjectID": "F3DC38C1-BD66-4637-9D34-9F285AAE496B",
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

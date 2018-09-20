@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4160,
+  "changeIdentifier": 4281,
   "do_objectID": "D18EC351-CBBE-4DA4-9FE9-95F8F9D75641",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,11 +54,11 @@
     "do_objectID": "A368BA0C-7249-4A73-AFA8-76A5ACCED417",
     "height": 28,
     "width": 28,
-    "x": -1491,
-    "y": 1349
+    "x": 2225,
+    "y": 2550
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -78,14 +78,14 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "357CA875-4187-49CF-9E76-36F6493EE59B"
+      "class": "symbolInstance",
+      "id": "ADA025F1-A5DD-4375-BDA1-50D9070C7118"
     }
   ],
   "name": "-g-feedItemCard / ic / tags / sharePurchase",
   "nameIsFixed": true,
   "originalObjectID": "967D1EAA-5689-45C2-8588-CA44269FB2E9",
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

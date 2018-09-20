@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "0A5ACED2-E27C-4B3A-96F8-506A63366C7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B2F2CF3-49D5-4314-82DB-7D3A03BB2258",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2431FDFD-8CE3-4A62-9F29-7E3D9C4D2A1B",
+    "height": 16,
+    "width": 16,
+    "x": 4,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A7444908-312A-4353-AE03-C0D498F04051"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5B1FFAF-2E02-43CF-AAEC-C09883713E2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C58E5A13-2575-467A-BB75-3FE50857A796"
+    }
+  ],
+  "name": "news",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1470B56A-11C2-4657-AA78-613201453328",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.5,
+      "type": 0
+    },
+    "do_objectID": "4B37A1B2-BD7F-4799-8850-92A9FD15DBE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
