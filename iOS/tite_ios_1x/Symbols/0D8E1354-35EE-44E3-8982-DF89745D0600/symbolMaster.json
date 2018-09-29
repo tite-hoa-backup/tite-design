@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1323,
+  "changeIdentifier": 1348,
   "do_objectID": "0D8E1354-35EE-44E3-8982-DF89745D0600",
   "exportOptions": {
     "_class": "exportOptions",
@@ -75,15 +75,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "3FBCE227-A2D0-4FF4-8907-E07220F55BC4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "90BAAB07-3EA5-4DD6-8195-B907026D6C86"
     },
     {
       "class": "text",
@@ -92,6 +88,10 @@
     {
       "class": "symbolInstance",
       "id": "E576B8E3-B6B9-4625-9911-22F459EC841F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE431120-0D1B-4096-9E0C-19A0670FA59E"
     }
   ],
   "name": "writePost / discoverRangeFilter4",
