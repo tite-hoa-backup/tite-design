@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "CA9E7AD8-D270-4042-B1B8-BCDBF54ACC75",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,7 +42,8 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "ABD1E099-17A8-4E87-A297-C8AF804B2A5C"
+    "destinationArtboardID": "ABD1E099-17A8-4E87-A297-C8AF804B2A5C",
+    "do_objectID": "7946A858-DACF-4AD5-B028-CB78E98DC45D"
   },
   "frame": {
     "_class": "rect",
@@ -51,6 +53,7 @@
     "x": 0,
     "y": 563
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

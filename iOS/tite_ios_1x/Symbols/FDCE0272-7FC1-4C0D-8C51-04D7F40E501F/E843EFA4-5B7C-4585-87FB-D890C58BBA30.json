@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E843EFA4-5B7C-4585-87FB-D890C58BBA30",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,11 +42,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 42,
-    "x": 36,
+    "height": 40,
+    "width": 40,
+    "x": 37,
     "y": 20
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,7 +63,7 @@
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 0.9523809523809523,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +72,8 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 15,
+      "radius": 14.28571428571428,
+      "saturation": 1,
       "type": 0
     },
     "endMarkerType": 0,

@@ -9,6 +9,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7E10AAC2-35E2-41D4-A6A7-1BABC47773B4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,6 +77,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -94,8 +96,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "01F11FF1-43ED-4E9B-9089-C0192C37AE8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF2564F4-EA96-4C1A-9BCC-0496D20FF014"
     },
     {
       "class": "symbolInstance",
@@ -136,10 +142,6 @@
     {
       "class": "symbolInstance",
       "id": "CB99D3FD-4D0F-4055-B383-D84958EDA97F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "79588C35-BEB3-4DF4-B014-0CD6CFEFBDD3"
     }
   ],
   "name": "discover_details_basic_market",

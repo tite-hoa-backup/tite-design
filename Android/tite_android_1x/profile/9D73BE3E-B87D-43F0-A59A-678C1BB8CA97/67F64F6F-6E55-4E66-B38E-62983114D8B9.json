@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "67F64F6F-6E55-4E66-B38E-62983114D8B9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -72,6 +73,7 @@
     "x": 16,
     "y": 185
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,7 +100,7 @@
       "_class": "overrideValue",
       "do_objectID": "E8CAEBF1-4917-4EFE-891D-B6EE5C8032AE",
       "overrideName": "9196F674-97E7-473D-A961-882D2EB00840_stringValue",
-      "value": "‘-‘ 제외하고 숫자만 입력"
+      "value": "‘-’ 제외하고 숫자만 입력"
     },
     {
       "_class": "overrideValue",

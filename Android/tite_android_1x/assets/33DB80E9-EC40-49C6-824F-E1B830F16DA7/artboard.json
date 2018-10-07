@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "33DB80E9-EC40-49C6-824F-E1B830F16DA7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,6 +77,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -164,6 +166,10 @@
     {
       "class": "symbolInstance",
       "id": "3F9B6C3B-1AD5-4B29-B92D-8E9132B626F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2BABDFB7-BADC-4CB6-9FB9-91FC1332F362"
     }
   ],
   "name": "lineIcons",

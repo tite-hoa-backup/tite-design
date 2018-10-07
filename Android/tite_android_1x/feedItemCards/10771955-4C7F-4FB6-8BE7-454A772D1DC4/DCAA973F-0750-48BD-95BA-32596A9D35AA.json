@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "DCAA973F-0750-48BD-95BA-32596A9D35AA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -64,8 +65,9 @@
     "height": 48,
     "width": 360,
     "x": 0,
-    "y": 392
+    "y": 296
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,6 +83,12 @@
       "do_objectID": "8875423C-1CED-4C79-BE3D-03E6F5E51828",
       "overrideName": "3B19D773-6F34-4546-914C-DD0A80526E40_stringValue",
       "value": "행사ㆍ할인"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44B5F6D5-D027-4156-BF82-A9B6FA487302",
+      "overrideName": "AE0BA3D4-3DC9-4F3C-8925-CB0F9EF2175C_symbolID",
+      "value": "9F4D5AF2-8F80-4725-B8A4-5345CA258B7D"
     }
   ],
   "resizingConstraint": 63,

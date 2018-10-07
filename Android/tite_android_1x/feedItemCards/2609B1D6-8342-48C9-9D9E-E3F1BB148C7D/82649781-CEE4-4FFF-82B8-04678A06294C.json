@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "82649781-CEE4-4FFF-82B8-04678A06294C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 24
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,6 +78,12 @@
   "name": "feed / header / discover_details",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "226EFC2B-3331-4C5D-BD13-B991B0AED7B9",
+      "overrideName": "4A7D0443-7C5F-458D-803A-91BCF5C5AD51_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

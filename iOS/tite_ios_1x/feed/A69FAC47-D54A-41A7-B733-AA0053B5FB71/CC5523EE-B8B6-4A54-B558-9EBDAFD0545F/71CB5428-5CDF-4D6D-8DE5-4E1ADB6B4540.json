@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "71CB5428-5CDF-4D6D-8DE5-4E1ADB6B4540",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DE2C961-1A16-4B32-A0E5-48D66953C141",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8D9B661-43AB-4D2B-8638-C6FC22FFADE4",
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / Profile",
+  "nameIsFixed": false,
+  "originalObjectID": "9ADBB45C-FB7C-417F-8770-E5FA59629BDD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "172F7793-7F85-4433-897C-5CA8412D1768",
+      "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6_symbolID",
+      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61D897CA-3484-46A5-B35E-2600F58BC7FD",
+      "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e9abf942ab35e1167a52b04d451e989f8613b25e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAC2EB0C-550D-4195-834C-B07653D8EF08",
+      "overrideName": "08EB031B-C7DE-425E-88AA-A457D40727FD_stringValue",
+      "value": "완소혜지니"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E52FD3B-400B-4111-93F1-3054DB5E4785",
+      "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6/6B6E4263-3784-41C1-ADDE-4B74993116DC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b8c32ace7839a2d09d3af6f5359a62f7f99df5ac.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C488C6B-E68F-40EE-8C57-522754E849DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A169195F-8ECE-4025-8435-4C9A3767F9CE",
+  "verticalSpacing": 0
+}

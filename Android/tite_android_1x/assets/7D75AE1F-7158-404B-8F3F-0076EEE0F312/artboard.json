@@ -8,6 +8,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7D75AE1F-7158-404B-8F3F-0076EEE0F312",
   "exportOptions": {
     "_class": "exportOptions",
@@ -72,7 +73,8 @@
     "y": 2470
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -120,6 +122,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 30,
+      "saturation": 1,
       "type": 0
     },
     "endMarkerType": 0,

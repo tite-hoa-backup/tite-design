@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "0A18C3BF-4477-4134-821F-1B90254A0D0D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,6 +49,7 @@
     "x": 0,
     "y": 459
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,6 +65,12 @@
       "do_objectID": "1D9AC824-2260-430B-BA5E-57E89EAD8E8F",
       "overrideName": "4C932828-FE6C-4900-8AA3-2A4FC6025D14_stringValue",
       "value": "요리ㆍ음식"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B08B0D7-594D-4945-A2E6-C0CCF1FFD65B",
+      "overrideName": "95A2905B-3682-4A60-A365-237BFF4F49A5_symbolID",
+      "value": "111937AE-01E6-4246-B3FB-E6ED73235A52"
     }
   ],
   "resizingConstraint": 63,

@@ -31,10 +31,11 @@
         "location": 0
       }
     ],
-    "string": "‘-‘ 제외하고 숫자만 입력"
+    "string": "‘-’ 제외하고 숫자만 입력"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "AA1B203C-07F2-431A-82C8-46DC4BD85122",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -84,6 +85,7 @@
     "y": 219
   },
   "glyphBounds": "{{1, 5}, {176, 18}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D24BE450-9085-4875-9A23-2197057D3AE0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,6 +47,7 @@
     "x": 0,
     "y": 333
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -57,16 +59,6 @@
   "nameIsFixed": true,
   "originalObjectID": "A96377A7-28AB-4AF9-A1B1-104DA075BFE7",
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "25567000-4D9D-460D-A8E9-FBEE1C715DD4_stringValue",
-      "value": "danielyoon 님이 회원님의 게시물 \"우리동네\r가을 운동회 일정을 새롭게...\"을 좋아합니다."
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "BF4CDD7E-27A8-444C-A4B0-AE9BC38C189F_stringValue",
-      "value": "1시간 전 ㆍ 연수1동"
-    },
     {
       "_class": "overrideValue",
       "do_objectID": "CF9E31A4-50D8-425A-A3DD-EA26D316A2EB",
@@ -82,16 +74,6 @@
       "do_objectID": "A0A65BC5-1894-460E-B245-44BE8CF3A1A1",
       "overrideName": "157548AF-04C2-4EAD-BD9D-874D95AF542C_symbolID",
       "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D9A0548D-DC18-41A2-9D06-F5AE92300CAB",
-      "overrideName": "BDFD724C-80C5-4563-AE59-B3361E7820E5/6B6E4263-3784-41C1-ADDE-4B74993116DC_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/9838d66132afedf521e55a730f2c05b080208282.png",
-        "_ref_class": "MSImageData"
-      }
     }
   ],
   "resizingConstraint": 63,
@@ -106,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "72C7B8C1-112D-4C76-A990-8F51EF9B079A",
+  "symbolID": "083A0957-8AE3-45ED-B65B-CAD3695572BE",
   "verticalSpacing": 0
 }

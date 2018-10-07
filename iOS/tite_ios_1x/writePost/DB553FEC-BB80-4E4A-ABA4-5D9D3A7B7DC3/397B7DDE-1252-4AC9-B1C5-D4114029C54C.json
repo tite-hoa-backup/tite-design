@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "397B7DDE-1252-4AC9-B1C5-D4114029C54C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,6 +49,7 @@
     "x": 0,
     "y": 555
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,6 +65,12 @@
       "do_objectID": "1D9AC824-2260-430B-BA5E-57E89EAD8E8F",
       "overrideName": "4C932828-FE6C-4900-8AA3-2A4FC6025D14_stringValue",
       "value": "생활ㆍ뷰티"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3BF70F8-54B0-4267-8399-CA75353AC9D2",
+      "overrideName": "95A2905B-3682-4A60-A365-237BFF4F49A5_symbolID",
+      "value": "FD8A7275-6885-4A2F-80F9-F2F0FA7500B5"
     }
   ],
   "resizingConstraint": 63,

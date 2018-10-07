@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3ADAD86C-002F-4978-B000-1A2C6EB43DF5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,6 +49,7 @@
     "x": 0,
     "y": 20
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,6 +66,12 @@
       "do_objectID": "A89EB2D6-230E-47D1-8AA0-4B614E1A2CC4",
       "overrideName": "D6AF9C29-2D5F-409A-8369-058A234617BF_stringValue",
       "value": "마켓"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AED0BA66-9971-4A0D-992E-80BE79CC9C0E",
+      "overrideName": "4562458F-65FE-430F-A0CA-DF0D2C312544_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

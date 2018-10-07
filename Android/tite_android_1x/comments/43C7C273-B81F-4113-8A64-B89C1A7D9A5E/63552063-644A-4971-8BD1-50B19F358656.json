@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "63552063-644A-4971-8BD1-50B19F358656",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 296
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,18 +78,6 @@
   "name": "alert / list_2lines",
   "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "943AE43D-6CE8-4948-A45C-D1FF9AA43F70",
-      "overrideName": "08EBFE40-7206-41CD-BD11-4165808A2A7F_stringValue",
-      "value": "alexkim 님이 우리 아파트 네이버스에 새로 가입했습니다!"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "FF9BCED1-4FC0-4628-96C8-70116D23542B",
-      "overrideName": "17779A91-7CA5-4B12-BDD2-0528202D6102_stringValue",
-      "value": "4시간 전"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -102,6 +92,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5467FB22-B49C-4B3F-B9CD-6CB3F0AE96C0",
+  "symbolID": "4912FC6D-4170-43C5-9957-82C2C0D593B3",
   "verticalSpacing": 0
 }

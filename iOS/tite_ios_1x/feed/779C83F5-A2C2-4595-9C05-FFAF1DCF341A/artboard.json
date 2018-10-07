@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "779C83F5-A2C2-4595-9C05-FFAF1DCF341A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -58,6 +59,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -73,7 +75,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -97,11 +99,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A27D3B4F-5978-4FF0-A83C-47D225E573B6"
+      "id": "BC530CF9-74E2-4CE9-97D6-27096A0F5A6C"
     },
     {
       "class": "symbolInstance",
-      "id": "BC530CF9-74E2-4CE9-97D6-27096A0F5A6C"
+      "id": "886C132A-2847-491D-B6C1-1F90B45086F0"
     }
   ],
   "name": "feedItemCard - noFeedItemCard",

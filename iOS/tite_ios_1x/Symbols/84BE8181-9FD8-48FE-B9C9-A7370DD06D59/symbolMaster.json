@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3394,
+  "changeIdentifier": 3423,
+  "clippingMaskMode": 0,
   "do_objectID": "84BE8181-9FD8-48FE-B9C9-A7370DD06D59",
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,6 +60,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -84,6 +86,10 @@
     {
       "class": "symbolInstance",
       "id": "10059CE4-C373-4FA4-BD5B-69115F90CE2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "431FD998-18DF-4FF6-9D3A-8EDE8573C17F"
     }
   ],
   "name": "writePost / tag / onPopupSecondTags / rowOneSelected",

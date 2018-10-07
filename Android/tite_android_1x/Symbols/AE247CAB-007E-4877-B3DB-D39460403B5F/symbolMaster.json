@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4517,
+  "changeIdentifier": 4547,
+  "clippingMaskMode": 0,
   "do_objectID": "AE247CAB-007E-4877-B3DB-D39460403B5F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -77,6 +78,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -102,6 +104,10 @@
     {
       "class": "symbolInstance",
       "id": "C2B96866-B9E3-4E95-AC39-9EEEE0C1927D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80213810-09F6-447F-8A12-B1AC98F2792F"
     }
   ],
   "name": "discover / sheet / tags_selected",

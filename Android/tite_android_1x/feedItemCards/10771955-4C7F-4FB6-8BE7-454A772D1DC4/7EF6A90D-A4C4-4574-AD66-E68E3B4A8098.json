@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "7EF6A90D-A4C4-4574-AD66-E68E3B4A8098",
   "exportOptions": {
     "_class": "exportOptions",
@@ -64,8 +65,9 @@
     "height": 48,
     "width": 360,
     "x": 0,
-    "y": 200
+    "y": 104
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,6 +78,12 @@
   "name": "discover / sheet / tags_basic",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "586E01E8-480C-49F0-AC90-5BFEC043893C",
+      "overrideName": "80213810-09F6-447F-8A12-B1AC98F2792F_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

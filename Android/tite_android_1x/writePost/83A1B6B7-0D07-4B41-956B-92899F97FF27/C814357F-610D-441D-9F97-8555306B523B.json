@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "C814357F-610D-441D-9F97-8555306B523B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 392
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,6 +83,12 @@
       "do_objectID": "8875423C-1CED-4C79-BE3D-03E6F5E51828",
       "overrideName": "3B19D773-6F34-4546-914C-DD0A80526E40_stringValue",
       "value": "건강ㆍ병원"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCD9C564-FDB9-4812-8384-DD4703837684",
+      "overrideName": "AE0BA3D4-3DC9-4F3C-8925-CB0F9EF2175C_symbolID",
+      "value": "38FCA1B9-9B94-47D5-9C34-A023780BA959"
     }
   ],
   "resizingConstraint": 63,

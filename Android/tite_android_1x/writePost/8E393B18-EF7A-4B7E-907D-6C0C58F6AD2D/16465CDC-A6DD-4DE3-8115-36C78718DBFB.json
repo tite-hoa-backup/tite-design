@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "16465CDC-A6DD-4DE3-8115-36C78718DBFB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,6 +67,7 @@
     "x": 0,
     "y": 536
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,6 +83,12 @@
       "do_objectID": "8875423C-1CED-4C79-BE3D-03E6F5E51828",
       "overrideName": "3B19D773-6F34-4546-914C-DD0A80526E40_stringValue",
       "value": "질문ㆍ고민"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE78C485-121D-4F27-AFA5-936FD18CE4D5",
+      "overrideName": "AE0BA3D4-3DC9-4F3C-8925-CB0F9EF2175C_symbolID",
+      "value": "3C5D0DC1-706E-4C2D-9583-47E000DC4049"
     }
   ],
   "resizingConstraint": 63,

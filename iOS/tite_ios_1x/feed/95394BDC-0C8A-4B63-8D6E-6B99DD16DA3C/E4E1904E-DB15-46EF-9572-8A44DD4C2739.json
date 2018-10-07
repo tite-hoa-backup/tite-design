@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "E4E1904E-DB15-46EF-9572-8A44DD4C2739",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,6 +49,7 @@
     "x": 0,
     "y": 219
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,6 +65,12 @@
       "do_objectID": "5B401345-34B9-49FF-B073-9406BF770990",
       "overrideName": "0EB39511-E1C5-4513-80DB-68AF4BB44BAF_stringValue",
       "value": "토크 전체보기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1885EF8-7015-46A9-B731-6E3B58BADA91",
+      "overrideName": "431FD998-18DF-4FF6-9D3A-8EDE8573C17F_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "CC9DC09A-B9D8-4046-A109-7A8DE56DE8F0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,7 +18,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "eps",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
         "scale": 3,
@@ -40,6 +41,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,10 +60,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "82010A8C-E592-408E-A96B-874C1E2A6DCC"
-    },
-    {
       "class": "group",
       "id": "5256915B-2F4D-450F-B43A-DBE5FEFC5576"
     },
@@ -71,15 +69,27 @@
     },
     {
       "class": "text",
-      "id": "7BD973DF-6307-4241-9E29-A8C72EA8A7BF"
-    },
-    {
-      "class": "text",
       "id": "8948018A-27B5-4713-B8C7-B9FB659BE9DC"
     },
     {
       "class": "text",
       "id": "8DDA6A13-B2CA-45ED-BC8D-8605723AFD47"
+    },
+    {
+      "class": "text",
+      "id": "10156EC1-E0C6-49F3-93C3-B649B9AC8DB8"
+    },
+    {
+      "class": "bitmap",
+      "id": "A2F5240C-772F-4492-AE59-5084E1F9D113"
+    },
+    {
+      "class": "bitmap",
+      "id": "F22EBA12-7B8B-4A9A-8BFA-930296D1D696"
+    },
+    {
+      "class": "bitmap",
+      "id": "D376DE0C-F9A9-4DD7-80BA-F9C920B1C04D"
     }
   ],
   "name": "3",
@@ -98,6 +108,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 20,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "6AA4D7BA-5EEF-4B2A-8837-1B78F6203285",

@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "EDE4642B-C78F-4E75-BB5B-5CE13FDC3796",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,6 +49,7 @@
     "x": 0,
     "y": 363
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,6 +65,12 @@
       "do_objectID": "1D9AC824-2260-430B-BA5E-57E89EAD8E8F",
       "overrideName": "4C932828-FE6C-4900-8AA3-2A4FC6025D14_stringValue",
       "value": "교육ㆍ학교"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE5F47AB-A2CB-470F-85E9-3ED3E6F144CF",
+      "overrideName": "95A2905B-3682-4A60-A365-237BFF4F49A5_symbolID",
+      "value": "B0950D07-65AE-4142-8992-5A106C159930"
     }
   ],
   "resizingConstraint": 63,

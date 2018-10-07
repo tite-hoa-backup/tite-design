@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "2CD0486C-1855-47D1-928C-34931C1E8B10",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,13 +42,14 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "do_objectID": "0897A9C5-8017-4402-B968-214CC0D64996",
-    "height": 42,
-    "width": 42,
-    "x": 594,
-    "y": 56
+    "height": 40,
+    "width": 40,
+    "x": 595,
+    "y": 57
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "FEA8BC1A-456F-4835-AA3B-B9BD831B04CF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,6 +49,7 @@
     "x": 0,
     "y": 555
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,6 +65,12 @@
       "do_objectID": "1D9AC824-2260-430B-BA5E-57E89EAD8E8F",
       "overrideName": "4C932828-FE6C-4900-8AA3-2A4FC6025D14_stringValue",
       "value": "안전ㆍ범죄"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "480DD9F7-B03C-4058-8CEA-C955915B2CBF",
+      "overrideName": "95A2905B-3682-4A60-A365-237BFF4F49A5_symbolID",
+      "value": "63119033-FC7A-42A2-B3D9-CA909028DF48"
     }
   ],
   "resizingConstraint": 63,
