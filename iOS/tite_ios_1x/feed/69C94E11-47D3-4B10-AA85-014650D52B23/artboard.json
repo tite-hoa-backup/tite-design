@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
@@ -54,7 +54,7 @@
     "x": -1738,
     "y": -744
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -71,11 +71,55 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "F5111572-13DA-4B8E-B8E5-5BEA77C3299F"
+      "id": "D4A9EC60-C4BE-4A5C-8E8A-B64E4A10BF28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DF63A52-7FC6-487F-AEB1-ED4BBAF36E62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64AEB49B-E4C3-4D06-BABE-D01F35C77D31"
+    },
+    {
+      "class": "rectangle",
+      "id": "3FE3ECB9-4DFB-4FD0-8943-7B34137C2F76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D0CFD26-57E9-4270-B33A-E52215A10CA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6505FEE1-1845-47FA-B230-DC1F5C844D18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4D2E59C-91AE-4896-B4D5-6F63251A42CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDE482A0-C84F-4B3D-BB18-33B5FFF09284"
+    },
+    {
+      "class": "text",
+      "id": "6F4E7921-554F-4AEB-A247-DB02F627764B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1BE7C21-29E7-44B5-BD4F-7B359EF02916"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B933E160-0D84-44B5-93B6-999E14D095A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DF570E8-98D5-4492-89B4-E2CC67497BF4"
     }
   ],
   "name": "[iPhoneX] feedItemCardReviewDetails - example",

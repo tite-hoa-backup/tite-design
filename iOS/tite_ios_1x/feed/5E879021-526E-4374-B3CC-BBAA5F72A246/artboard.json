@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
@@ -54,7 +54,7 @@
     "x": -2163,
     "y": -744
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -71,11 +71,71 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A801562E-D37F-463A-9FEE-124643029305"
+      "id": "979EB5E9-DBCC-4FF7-B1C3-42BA6AE3EED3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F5CD1ED-8A7D-42FD-93E2-F7115F93A126"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "948D9A6C-4C30-487A-B218-DAB50A2BCF8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDC6A433-AD73-42EF-B7D4-6EF3EFFB3295"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28BABDE9-973B-4525-9A6D-165E6246A390"
+    },
+    {
+      "class": "rectangle",
+      "id": "E65BF088-451C-4B90-88AD-F47448C3D16F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "754BDA88-191C-47F3-A15E-5052CA5BA50F"
+    },
+    {
+      "class": "text",
+      "id": "4BF580BD-1EB0-4C3E-97A2-4212DD33E21B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9448CEC2-3A72-4AFD-8055-CFF9010980D1"
+    },
+    {
+      "class": "rectangle",
+      "id": "4861EFC0-0158-49D3-BAAC-24AE20B9B4F4"
+    },
+    {
+      "class": "text",
+      "id": "40D0F42C-AB2A-45E2-A89A-EE364A4AE0CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE0FB20A-FAD6-4C9A-AF87-1DC79AF1893E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFB33B31-DFC6-4DFD-A119-EA2F1258E1F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEDF3189-F667-487B-ADCA-EED233B072CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A49A7B9-6736-4564-AA67-45956311B0B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD753B34-15CA-4ED6-AD5B-BC02465483B4"
     }
   ],
   "name": "[iPhoneX] feedItemCard - askForSomething",

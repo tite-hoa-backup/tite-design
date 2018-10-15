@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
@@ -54,7 +54,7 @@
     "x": -1313,
     "y": -1606
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -71,11 +71,79 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "EED26972-E9D7-469B-93A1-9B4DBA23FBCE"
+    },
+    {
       "class": "symbolInstance",
-      "id": "ED703296-D32A-43E9-BCA6-D571538C5A15"
+      "id": "0B952E88-EC31-4C11-B585-A2E12D8C53C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "2A88E120-E6CF-41BF-BF46-BEAF8432912A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76D5F1FD-4937-408C-8CAA-82348D764132"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1ECF7933-4FC2-4203-82D8-4C8ABBDE4A97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94A4E92B-5156-4B9A-997C-B5049654D9B8"
+    },
+    {
+      "class": "text",
+      "id": "FAAA0283-1833-4611-857D-EBC1CF94BEE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66591D4C-25CB-4797-AA73-DD2C02E675E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03D71B11-78C5-41A5-AAB3-B83B719EF2A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3FC869D-881E-410D-8472-01695CD512B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F3E8290-9F61-4DD3-9164-D285C74E5EA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CBAB309-A82E-4E1B-8E72-A5D0EAAC01EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48BC76B8-9CE0-4EE3-956C-827E191A2D6D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC1A6637-474B-4559-B759-6DB2A88A2BE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E487B0A-868F-44AF-8867-79B9BD0CB223"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F47E750-57FE-4A3C-8973-ED1F23E32CD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "563F2736-0823-4815-B781-B9F05342B3B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C56BCD48-9556-4AEB-9824-27309FC60F76"
     }
   ],
   "name": "[iPhoneX] feedItemCardSurvey",

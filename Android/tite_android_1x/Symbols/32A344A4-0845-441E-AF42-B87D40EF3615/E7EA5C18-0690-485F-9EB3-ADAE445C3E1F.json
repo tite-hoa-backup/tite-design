@@ -134,21 +134,16 @@
       "saturation": 1,
       "type": 0
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.38
-    },
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "alpha": 0.38,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "gradient": {

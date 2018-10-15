@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
@@ -54,7 +54,7 @@
     "x": -38,
     "y": -172
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -71,11 +71,47 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "E0B6DCA2-4525-49E5-AAEF-3E9427767E3B"
+    },
+    {
       "class": "symbolInstance",
-      "id": "93113253-5943-46F5-B3C7-4C4D3517DDF8"
+      "id": "B02AA51E-CC78-486D-A330-372DA4FF747B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F31F9F8E-B606-4B03-8676-0A06EEC96319"
+    },
+    {
+      "class": "text",
+      "id": "2B9EB234-19CF-42F6-B9E9-32F48AA335CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18B54810-7C29-4B16-899C-9786BC095FD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7992AF21-01C8-4F34-892A-D22266C10DFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F9E9EB7-1430-43F5-BEF6-E6A6057D92FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BC57030-2F1F-4778-B7B8-3BF8D3C07CED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BE291CB-F2EA-493B-AC4C-4EBF1E646F22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF5F9976-1989-46BC-AEEF-B4696C3BBE51"
     }
   ],
   "name": "feedItemCardLinkScrapType",

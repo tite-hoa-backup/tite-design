@@ -18,10 +18,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "29FC3B99-DD3C-4FB9-BE23-761D980746CE",
-    "height": 14,
-    "width": 14,
-    "x": 2,
-    "y": 2
+    "height": 15,
+    "width": 15,
+    "x": 1.5,
+    "y": 1.5
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -122,6 +122,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.71428571428571,
+      "saturation": 1,
+      "type": 0
+    },
     "do_objectID": "62BC85DD-EFBD-4E18-8999-BA687C7F2C6B",
     "endMarkerType": 0,
     "fills": [

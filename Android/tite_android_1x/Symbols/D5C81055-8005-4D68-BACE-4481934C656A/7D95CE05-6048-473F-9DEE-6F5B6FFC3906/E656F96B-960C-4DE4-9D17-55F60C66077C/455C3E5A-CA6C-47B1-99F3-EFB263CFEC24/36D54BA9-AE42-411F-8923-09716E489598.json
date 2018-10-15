@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 14,
-    "x": 2,
-    "y": 2
+    "height": 15,
+    "width": 15,
+    "x": 1.5,
+    "y": 1.5
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -120,6 +120,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.71428571428571,
+      "saturation": 1,
+      "type": 0
+    },
     "endMarkerType": 0,
     "fills": [
       {
