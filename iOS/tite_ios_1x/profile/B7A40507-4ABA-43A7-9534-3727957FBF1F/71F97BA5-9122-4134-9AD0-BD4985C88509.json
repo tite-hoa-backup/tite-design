@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "4E9EB4B3-C0D5-46B5-A818-3A81E23A86C9",
+  "do_objectID": "71F97BA5-9122-4134-9AD0-BD4985C88509",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EAA8EDD5-8E6E-432E-945A-84D34A1AF818",
+    "do_objectID": "6D2F6760-E059-419D-AB75-85AA47ED01EB",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F4DA1104-8E75-4946-840C-85E0AEE11F4B",
-    "height": 48,
-    "width": 96,
-    "x": 279,
-    "y": 146
+    "do_objectID": "CD5B3678-3F34-4AEF-923E-62836F4557A1",
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 130
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,10 +57,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feedItemCard / ic / icSwitchOff",
+  "name": "asBound / LineProfile",
   "nameIsFixed": true,
-  "originalObjectID": "F1BA6E6A-863F-4674-9906-81D868D6A5DA",
+  "originalObjectID": "6B4637C1-A02E-41A8-983F-335D52632FF8",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6C20A0F-FCAB-441C-9BE7-22B1D8879CD3_stringValue",
+      "value": "푸시알림"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "814EE7DE-3042-4C65-8B1C-563F6D2ABF26_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,12 +79,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "137904E6-F9DB-425D-85E2-6843308D95DD",
+    "do_objectID": "CBB65099-68D8-49D5-890D-92A863FC737B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FE7D0C0F-A7E5-4CF8-9ECD-8B3B55C5134C",
+  "symbolID": "AC0DCF97-F967-4565-BB57-DD1833A11B09",
   "verticalSpacing": 0
 }

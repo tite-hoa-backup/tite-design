@@ -2,17 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "736B09F0-4697-4536-8872-D4ED1F804024",
+  "do_objectID": "6B53A751-D435-40CB-9DAB-1C9788EA038E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "81B87850-B408-4D4E-8039-41DCB9C3CDB3",
+    "do_objectID": "649ECB4F-7AA0-4AB1-B363-A8ADC502680C",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "mdpi/",
-        "namingScheme": 1,
+        "name": "",
+        "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -20,17 +20,8 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "hdpi/",
-        "namingScheme": 1,
-        "scale": 1.5,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xhdpi/",
-        "namingScheme": 1,
+        "name": "@2x",
+        "namingScheme": 0,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -38,18 +29,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "xxhdpi/",
-        "namingScheme": 1,
+        "name": "@3x",
+        "namingScheme": 0,
         "scale": 3,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xxxhdpi/",
-        "namingScheme": 1,
-        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -61,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1E173970-83B4-4226-A2E2-CD1DBE803735",
-    "height": 80,
-    "width": 360,
-    "x": 0,
-    "y": 451
+    "do_objectID": "65D59DF9-612D-45C9-A182-57416D69C9CD",
+    "height": 48,
+    "width": 96,
+    "x": 279,
+    "y": 146
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,15 +57,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "profile / menu_each",
+  "name": "feedItemCard / ic / icSwitchOff",
   "nameIsFixed": true,
+  "originalObjectID": "F1BA6E6A-863F-4674-9906-81D868D6A5DA",
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "4691DBD3-00A3-4601-AA4F-9A9F24C5DBE8",
-      "overrideName": "475E44CE-56D8-4E76-853B-EB90F7B3AD68_stringValue",
-      "value": "전화번호 변경"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,12 +69,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3761DBE7-D0C5-4354-BD70-076E3668C6AE",
+    "do_objectID": "2DFC28D7-C93D-4627-A6C0-B37BACAA82CD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "10E72FC2-10E7-4DC2-BD3C-715C30393BD9",
+  "symbolID": "FE7D0C0F-A7E5-4CF8-9ECD-8B3B55C5134C",
   "verticalSpacing": 0
 }
