@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SpoqaHanSans-Bold",
               "size": 14
             }
           },
@@ -29,7 +29,7 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 55,
+        "length": 3,
         "location": 0
       },
       {
@@ -45,35 +45,6 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
-              "size": 14
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 3,
-        "location": 55
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.6,
-            "green": 0.6,
-            "red": 0.6
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
               "name": "SpoqaHanSans-Regular",
               "size": 14
             }
@@ -87,11 +58,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 25,
-        "location": 58
+        "length": 50,
+        "location": 3
       }
     ],
-    "string": "현재 거주중인 아파트는 서비스를 준비하고 있어요.\n해당 아파트에서 서비스가 시작되면 알려드릴게요!\n48명의 이웃들이 더 모이면, 서비스가 시작됩니다."
+    "string": "48명의 이웃들이 더 모이면, 서비스가 시작됩니다.\n우리동네에서 서비스가 시작되면 알려드릴게요!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -157,12 +128,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "57F262F4-4072-4E6D-AFFA-F39CEAEA2635",
-    "height": 68,
+    "height": 45,
     "width": 328,
     "x": 16,
-    "y": 334
+    "y": 345
   },
-  "glyphBounds": "{{19, 5}, {290, 60}}",
+  "glyphBounds": "{{22, 5}, {283, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -198,7 +169,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SpoqaHanSans-Bold",
             "size": 14
           }
         },
