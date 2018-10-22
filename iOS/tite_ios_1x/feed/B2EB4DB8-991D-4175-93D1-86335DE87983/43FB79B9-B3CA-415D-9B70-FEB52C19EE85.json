@@ -16,33 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
-              "size": 15
+              "name": "SpoqaHanSans-Bold",
+              "size": 64
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
-            "paragraphSpacing": 1
+            "alignment": 2
           }
         },
-        "length": 89,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "장난감 나눔합니다~^^ 한 번도 안 가지고 논 것도 있구요,, 좀 쓰긴 했지만 상태가 그냥 버리기에는 좀 아까운 것 같아서 혹시 쓰실 분 있으시면 연락 주세요!"
+    "string": "48명"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "00E1F1F7-0F3B-4D8D-84BC-6A8161A766EA",
+  "do_objectID": "43FB79B9-B3CA-415D-9B70-FEB52C19EE85",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DF458E23-53CB-4741-BDB7-D91194D522F5",
+    "do_objectID": "33CE94B1-5829-41CE-9946-402928BF6E78",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -80,13 +77,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7EDB9188-D60D-45BA-A39B-4B09ED73865E",
-    "height": 72,
+    "do_objectID": "D233C8CB-241F-42CE-BCE5-F61B53FFA6D2",
+    "height": 94,
     "width": 343,
     "x": 16,
-    "y": 122
+    "y": 236
   },
-  "glyphBounds": "{{0, 5}, {339, 63}}",
+  "glyphBounds": "{{105, 20}, {128, 60}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,21 +92,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular15",
+  "name": "textRegularBold15 Copy",
   "nameIsFixed": true,
-  "resizingConstraint": 47,
+  "resizingConstraint": 25,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1C2288E1-5022-4A68-8502-29DD44451FD0",
+    "do_objectID": "18CA976E-22BA-4DB8-BDB9-9138362DD1FF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "91F84763-87C1-4C2B-B56E-01C6B6CBD36F",
+      "do_objectID": "04008750-DE12-453D-AB2D-DFAFAB93401E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -121,17 +118,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
-            "size": 15
+            "name": "SpoqaHanSans-Bold",
+            "size": 64
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
-          "paragraphSpacing": 1
+          "alignment": 2
         }
       },
       "verticalAlignment": 0
