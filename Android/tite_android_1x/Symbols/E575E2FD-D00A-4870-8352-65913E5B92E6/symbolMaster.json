@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3747,
+  "changeIdentifier": 3785,
   "clippingMaskMode": 0,
   "do_objectID": "E575E2FD-D00A-4870-8352-65913E5B92E6",
   "exportOptions": {
@@ -77,7 +77,7 @@
     "y": 1105
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -95,11 +95,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "34731270-9864-4189-98E7-F31737A49076"
+      "class": "oval",
+      "id": "159C08CD-C124-42A3-A9AD-D68CA8FE2E18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D633A80-B3F9-49DD-AF37-C90797ABFDDF"
     }
   ],
   "name": "feed / thumbnail_small_overlap_default",
