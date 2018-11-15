@@ -2,16 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "4A977299-88B9-411F-8FC0-475DC948293A",
+  "do_objectID": "70738192-314A-4EB8-8C99-C7FACECDD2D9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A7EF81E2-75B3-493D-9DC9-F048ADFE781D",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -19,8 +20,17 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -28,9 +38,18 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -42,10 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 28,
-    "x": 323,
-    "y": 18
+    "do_objectID": "7D5358DD-D5C8-468F-BEB5-9502F75E717D",
+    "height": 40,
+    "width": 171,
+    "x": 16,
+    "y": 8
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,9 +75,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "-g-ic / icDropDownGrey",
+  "name": "writePost / set_range_apt_only",
   "nameIsFixed": false,
-  "originalObjectID": "E40ACF1C-9627-4CA2-95A6-74E60DC7F170",
   "overrideValues": [
   ],
   "resizingConstraint": 9,
@@ -67,11 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1C37CAFD-B63C-481F-A4CA-B06E084A90BA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B1BF947B-464A-4CB9-A472-35C6005C460A",
+  "symbolID": "9FDFE599-4B6C-4CFF-8374-FD5573A7E1E8",
   "verticalSpacing": 0
 }

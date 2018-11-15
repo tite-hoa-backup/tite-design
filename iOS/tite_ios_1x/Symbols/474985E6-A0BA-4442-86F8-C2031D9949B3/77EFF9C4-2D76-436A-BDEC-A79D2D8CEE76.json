@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "B601CE1D-5B45-4915-A6DF-51A2222E783B",
+  "do_objectID": "77EFF9C4-2D76-436A-BDEC-A79D2D8CEE76",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3E4D6825-98B2-4D88-AEF7-16C5F8987093",
+    "do_objectID": "9610AB05-7E7E-4D77-A301-C6B463FC391A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D44B0289-8CFA-4E05-A828-4C8353338E39",
-    "height": 37.86542923433873,
-    "width": 296,
-    "x": 0,
-    "y": 126.2180974477958
+    "do_objectID": "6C0D57EF-AA14-4CC9-821D-E349C984DAC3",
+    "height": 40,
+    "width": 175,
+    "x": 16,
+    "y": 12
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,33 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "writePost / textfield / titleBefore",
+  "name": "writePost / setPostRangeAptOnly",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.7893333333333333,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "2102735B-62C8-487F-83EF-F57A26FC6DC0",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 7.893333333333334,
-      "saturation": 1,
-      "type": 0
-    },
-    "do_objectID": "841037AE-D025-490B-9D65-F744354C14CE",
+    "do_objectID": "63BE816C-2423-47CA-AD50-F18CE734645C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0C4A0320-4A53-4E63-913C-A862AAA1F1DB",
+  "symbolID": "99712CA7-93A2-4265-8570-0B80BFE56F6E",
   "verticalSpacing": 0
 }
