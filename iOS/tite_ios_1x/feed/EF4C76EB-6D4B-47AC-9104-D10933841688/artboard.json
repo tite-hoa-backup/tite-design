@@ -57,7 +57,7 @@
     "y": -2323
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -135,6 +135,10 @@
     {
       "class": "symbolInstance",
       "id": "078D67FB-B98D-4008-9545-602726D9BE52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D5C6DFF-414E-46AD-9B11-3B65CFCD5085"
     }
   ],
   "name": "feedItemCard - hoaNoti",
@@ -146,7 +150,7 @@
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
