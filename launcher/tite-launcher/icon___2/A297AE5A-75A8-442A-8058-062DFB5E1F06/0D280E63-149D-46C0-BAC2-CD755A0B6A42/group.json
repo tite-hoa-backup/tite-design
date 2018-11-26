@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D280E63-149D-46C0-BAC2-CD755A0B6A42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 32,
+    "x": 16,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "C69EEB02-CC3F-4AC3-905A-A54B587E6435"
+    },
+    {
+      "class": "oval",
+      "id": "E4EF694C-0804-44C8-9B9A-758746307CE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "987BEB07-C0E6-4249-B1C5-052A70262B78"
+    },
+    {
+      "class": "shapePath",
+      "id": "BFFE23E8-79B9-4256-9BE4-C2F0D8C996FF"
+    },
+    {
+      "class": "group",
+      "id": "79D1D660-F049-4B89-8006-F334D367F8BA"
+    }
+  ],
+  "name": "cloudy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.625,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

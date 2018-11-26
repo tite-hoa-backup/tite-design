@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9568627450980391,
-    "green": 0.9568627450980391,
-    "red": 0.9568627450980391
+    "blue": 0.9411764705882353,
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
@@ -21,24 +21,6 @@
         "name": "",
         "namingScheme": 0,
         "scale": 1,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
-        "scale": 3,
         "visibleScaleType": 0
       }
     ],
@@ -57,7 +39,7 @@
     "y": 3437
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

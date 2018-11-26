@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC6E722A-A080-40B5-8F34-8BB44039D7D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE52BC50-E7DB-40F3-905E-8CB38CBED537",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AEBE317D-3D87-4BFF-8622-881A907AA2C3",
+    "height": 16,
+    "width": 16,
+    "x": 4,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5EF5E5B3-D5D9-42B6-9BFA-FC3CC9ED985C"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D03AB75-D877-4248-8308-F771D90F1FB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "0EBF6142-7A07-41B3-9F88-3F8405CED6E2"
+    }
+  ],
+  "name": "poll",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B67DB5E8-83D0-4365-B066-FA2412BD7042",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9BB0862C-1013-4DDC-9119-464FB73473FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

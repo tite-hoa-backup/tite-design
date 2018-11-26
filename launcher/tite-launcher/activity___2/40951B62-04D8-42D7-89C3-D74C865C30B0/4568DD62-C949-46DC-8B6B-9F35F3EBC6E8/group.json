@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4568DD62-C949-46DC-8B6B-9F35F3EBC6E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33B1154E-6A1E-4D95-98E7-0D2901A872D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "73A4CEBB-1E12-491A-B229-F926D87DF6DC",
+    "height": 12,
+    "width": 14,
+    "x": 5,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "46C88A95-CE3E-455C-B7AF-DC999034FD65"
+    }
+  ],
+  "name": "heart-stroke",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "46D9957A-F4A5-4380-B9C5-9C27B90FC73F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.666666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "064E18E1-90C4-47D6-B3F9-175401152084",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
