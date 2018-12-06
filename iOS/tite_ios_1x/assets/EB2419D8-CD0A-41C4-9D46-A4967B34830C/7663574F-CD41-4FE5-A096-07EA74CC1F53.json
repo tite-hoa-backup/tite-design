@@ -1,11 +1,11 @@
 {
-  "_class": "bitmap",
-  "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1BBBCE32-0FEE-4B56-B103-EE86BCBFFC2B",
+  "do_objectID": "7663574F-CD41-4FE5-A096-07EA74CC1F53",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "47AA8EB1-03DD-4B6C-9CF3-64A653B349B3",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -40,39 +40,46 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 530,
-    "width": 719,
-    "x": 4354,
-    "y": -176
+    "constrainProportions": false,
+    "do_objectID": "4EEEE096-833C-43AF-8358-A70CCBA7C04B",
+    "height": 32,
+    "width": 32,
+    "x": 784,
+    "y": 368
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/7180014d9dce38d2ff22e33e22f3bc8240808871.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
-  "nameIsFixed": false,
+  "name": "-g-feedItemCard / ic / icThumbnailSmall",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF891ED2-2D6E-4BDC-A193-045F017A9ED3",
+      "overrideName": "AA8DC2E4-C4BB-44C9-A992-934C64C652CD_symbolID",
+      "value": "E1A5D0A0-A9ED-430D-82B3-A57FF305B537"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9CF296AF-AE20-47FB-9061-382D7F53663A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "69DE8ACB-B96A-407F-9304-737E4399532A",
+  "verticalSpacing": 0
 }
