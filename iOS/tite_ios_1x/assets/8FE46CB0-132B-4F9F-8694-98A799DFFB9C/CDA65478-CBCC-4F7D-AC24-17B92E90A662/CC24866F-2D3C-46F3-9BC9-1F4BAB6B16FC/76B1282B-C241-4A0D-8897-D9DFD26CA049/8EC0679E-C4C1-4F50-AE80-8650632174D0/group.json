@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EC0679E-C4C1-4F50-AE80-8650632174D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B110BED1-7BA7-410A-9B9C-4DF195B2048A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD22C604-74E6-48F3-8681-E5F539CBE2FE",
+    "height": 30.86816720257235,
+    "width": 30.87407407407409,
+    "x": 157.7081081081081,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "9C464519-B0B3-4264-ADC0-6ECC8D269AD9"
+    },
+    {
+      "class": "oval",
+      "id": "A3FB1D6C-AECF-4AC3-AE8D-A9249DC82FA3"
+    },
+    {
+      "class": "oval",
+      "id": "2ED9DEF8-5461-4633-9F6E-19562747E128"
+    },
+    {
+      "class": "oval",
+      "id": "45C70A55-0CA1-406F-A42A-EC43AF39125D"
+    },
+    {
+      "class": "oval",
+      "id": "6EE8A7F7-BACE-4FDB-B682-C67BF92CA85D"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "788CF046-C244-4AF6-84B0-2E71840E6B47",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.07976951208387,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9F1567E6-A830-46A3-8A43-A79D015F5380",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}
