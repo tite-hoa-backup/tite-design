@@ -55,7 +55,7 @@
     "y": 1979
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -92,6 +92,10 @@
     {
       "class": "text",
       "id": "43FB79B9-B3CA-415D-9B70-FEB52C19EE85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F10450DC-A600-4DBB-A0E5-CAA442F8DE80"
     }
   ],
   "name": "beforeAptOpen",
