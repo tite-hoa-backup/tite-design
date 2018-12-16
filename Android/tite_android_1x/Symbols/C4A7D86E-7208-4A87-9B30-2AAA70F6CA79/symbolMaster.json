@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10592,
+  "changeIdentifier": 10650,
   "clippingMaskMode": 0,
   "do_objectID": "C4A7D86E-7208-4A87-9B30-2AAA70F6CA79",
   "exportOptions": {
@@ -77,7 +77,7 @@
     "y": 2282
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -108,6 +108,14 @@
     {
       "class": "symbolInstance",
       "id": "52263CAF-ECF4-48EA-A2C8-C3FC3A812202"
+    },
+    {
+      "class": "rectangle",
+      "id": "0D49A14C-D8AF-477D-A751-C06FEDDF16D3"
+    },
+    {
+      "class": "text",
+      "id": "CF136439-619E-49CE-8021-E4C49428F444"
     }
   ],
   "name": "feed / header / discover_filter",
