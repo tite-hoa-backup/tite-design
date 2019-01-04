@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5309,
+  "changeIdentifier": 5376,
   "clippingMaskMode": 0,
   "do_objectID": "9983113D-8302-45CB-81F2-01E1E24292DD",
   "exportOptions": {
@@ -56,7 +56,7 @@
     "y": 4217
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,7 +73,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -90,6 +90,10 @@
     {
       "class": "rectangle",
       "id": "6C79CF3A-073B-4913-92E0-C426AFE70AC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBB0E58C-2401-461D-80E3-724B78B54391"
     }
   ],
   "name": "feedItemCard / comps / imageRect4",
