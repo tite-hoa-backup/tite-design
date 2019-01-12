@@ -19,25 +19,6 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@3x",
         "namingScheme": 0,
         "scale": 3,
         "visibleScaleType": 0
@@ -78,24 +59,56 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A24E66B3-8481-4508-913E-2ED9EEB9888A"
+      "class": "group",
+      "id": "13B06C00-60C7-47C6-B7A3-F116BF139860"
     },
     {
-      "class": "symbolInstance",
-      "id": "BC02BE43-CE9B-4C69-A0BC-9DE8107850CB"
+      "class": "rectangle",
+      "id": "D1C8B928-0D8F-45F5-8B7C-BBC4A48769D1"
     },
     {
-      "class": "symbolInstance",
-      "id": "BC1C65BC-2F5A-44DD-8B70-F736F1181133"
+      "class": "text",
+      "id": "6172A988-43A6-49AA-8CAD-6E5A191FEA1C"
     },
     {
-      "class": "bitmap",
-      "id": "CEE4C294-45AF-4EA2-A74B-A424B4FCCDB0"
+      "class": "rectangle",
+      "id": "8BB7EF44-3566-4D96-8033-D638217C05BE"
     },
     {
-      "class": "symbolInstance",
-      "id": "CF98C244-8DAA-4725-866B-976FCEC86D54"
+      "class": "text",
+      "id": "649DA3A4-4248-4596-9AEC-C8BBF0FB8D93"
+    },
+    {
+      "class": "rectangle",
+      "id": "586305B4-C13C-42A4-8C00-A3D3481169E2"
+    },
+    {
+      "class": "text",
+      "id": "5170FC8F-2C4C-4DDA-A8DE-27DDE756B8B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "C7E48AEC-D087-428E-B6FD-B0D5DBAEF044"
+    },
+    {
+      "class": "rectangle",
+      "id": "3759188E-A7C8-44DF-91D4-C109698FDA57"
+    },
+    {
+      "class": "group",
+      "id": "5DA1B1E6-F04D-414F-ACC3-A79D55CBDF40"
+    },
+    {
+      "class": "group",
+      "id": "8C749988-8836-489A-9DF3-BBEBCD78EF18"
+    },
+    {
+      "class": "group",
+      "id": "CE15517E-62E9-49AE-A32E-54E15AAE710F"
+    },
+    {
+      "class": "text",
+      "id": "B9999613-27FC-491E-B561-015774CD5EE4"
     }
   ],
   "name": "feedItemCardMarket - scratchAfter",

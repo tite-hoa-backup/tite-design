@@ -18,25 +18,6 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@3x",
         "namingScheme": 0,
         "scale": 3,
         "visibleScaleType": 0
@@ -77,52 +58,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E9215349-E75C-4EB9-80C9-C2B6A7E4039D"
-    },
-    {
-      "class": "rectangle",
-      "id": "901133D9-4FD5-4D2A-8CFA-18017C9EE125"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9B575972-B091-4770-AF19-B403531F59F1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "71A57550-19FD-45A6-922D-F7C695B01BFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "39650ED5-71DD-46B0-971D-8FC626403C9E"
-    },
-    {
-      "class": "text",
-      "id": "DFF419F5-9025-461B-9741-B8CBBB81B1EE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B434BB38-1528-4A8E-9764-1F62CECFD63D"
+      "class": "group",
+      "id": "A253D751-D9C9-4B54-9A8E-EA78522306C5"
     },
     {
       "class": "symbolInstance",
       "id": "57A690B9-04FE-419B-9FFD-80AB99B2EA88"
-    },
-    {
-      "class": "rectangle",
-      "id": "786F78A3-040F-4C96-BAF8-D6DA015528DA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "51A2B07C-A66D-44C7-A6EC-AD8B8F74F132"
-    },
-    {
-      "class": "text",
-      "id": "A139E8DB-9B56-45D3-B551-C4E2D7C21A95"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1426B358-BE6E-4BD8-ACFD-84B09D81413E"
     },
     {
       "class": "symbolInstance",
@@ -135,6 +76,22 @@
     {
       "class": "symbolInstance",
       "id": "A29C2843-4732-442E-8143-5DD90C50E2CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "010CE790-D513-46FE-9D40-A5EB481A1DF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C18AD5DA-7453-49A5-8594-F7BE18720F3C"
+    },
+    {
+      "class": "text",
+      "id": "702DE7E0-D976-4F49-A6A0-88248E81EF69"
+    },
+    {
+      "class": "bitmap",
+      "id": "6977C7C2-AA56-439B-AB0B-DC462B23597D"
     }
   ],
   "name": "feedItemCard - welcomeSmallCard",

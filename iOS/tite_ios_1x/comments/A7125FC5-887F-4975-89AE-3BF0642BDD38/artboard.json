@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "4D4E7DD1-5CC5-47D6-A503-71EE3931CEB9",
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
@@ -78,34 +77,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "CB60574E-3DA1-47D6-8E64-C06263BD94E9"
-    },
-    {
-      "class": "rectangle",
-      "id": "87EE1B27-0E13-4518-A4EB-56156B155F2F"
-    },
-    {
-      "class": "rectangle",
-      "id": "CA3E3F85-05CB-4C4B-A3BD-B7BEFD4BBFCF"
-    },
-    {
-      "class": "rectangle",
-      "id": "77EDE20C-D646-4662-AFB6-ED9EC43E8C90"
-    },
-    {
-      "class": "rectangle",
-      "id": "AB0D9104-3C97-4396-9672-568D2ECFECB6"
-    },
-    {
-      "class": "rectangle",
-      "id": "7D03B181-C087-4503-A807-8B630EBC22AE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F21BDA05-B12A-4967-B896-81BAD565C35A"
-    },
-    {
       "class": "symbolInstance",
       "id": "7666F7E3-F0E5-4F6D-832C-6122937A9CBF"
     },
@@ -118,15 +89,51 @@
       "id": "A19B0585-5818-4CA2-AB5C-6BDF6D58701D"
     },
     {
-      "class": "text",
-      "id": "9F62A85E-1EDB-465B-B1BA-84236839098A"
+      "class": "rectangle",
+      "id": "C766443B-37D9-4521-858D-967E7FC08AE7"
     },
     {
       "class": "text",
-      "id": "5412BDC2-FA1F-420D-A675-DCA3AC2F66FC"
+      "id": "5913B713-8A85-41CE-90CA-68B44C11AA28"
+    },
+    {
+      "class": "rectangle",
+      "id": "E4CC2E74-B6F8-4A0F-B2AC-1A3E241E334E"
+    },
+    {
+      "class": "text",
+      "id": "AFCF61F3-BB71-4B86-8936-3DABD70B6B9D"
+    },
+    {
+      "class": "rectangle",
+      "id": "A7DBFD74-3EF2-4B46-8DBC-D576042F7F1E"
+    },
+    {
+      "class": "rectangle",
+      "id": "F5412C40-23B3-46A1-814D-D507CB977D62"
+    },
+    {
+      "class": "text",
+      "id": "A82A7E37-0C4C-4E6C-AE36-04CF46FBD5B5"
+    },
+    {
+      "class": "text",
+      "id": "B341B234-EEA0-454A-B4A8-0BD323D18903"
+    },
+    {
+      "class": "rectangle",
+      "id": "5B9E7EFB-05AA-45B2-9469-668FA627CD6F"
+    },
+    {
+      "class": "group",
+      "id": "E7A33732-14D0-4662-AF5A-FDA7E36EEE7C"
+    },
+    {
+      "class": "text",
+      "id": "7C14E520-4141-4A5A-8CF5-19DFFA3EA57F"
     }
   ],
-  "name": "scratchBasic",
+  "name": "scratchBasic - collection",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

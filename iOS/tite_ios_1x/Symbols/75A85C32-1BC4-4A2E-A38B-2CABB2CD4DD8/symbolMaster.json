@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8673,
+  "changeIdentifier": 8790,
   "clippingMaskMode": 0,
   "do_objectID": "75A85C32-1BC4-4A2E-A38B-2CABB2CD4DD8",
   "exportOptions": {
@@ -56,7 +56,7 @@
     "y": 2082
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -88,6 +88,14 @@
       "id": "BF078C42-469D-4BA6-91B1-235AC544D382"
     },
     {
+      "class": "symbolInstance",
+      "id": "1075C6E4-4844-4BB8-B4AB-565809484C2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "179C741B-E03B-42D9-915E-50C1E2FC6FFD"
+    },
+    {
       "class": "rectangle",
       "id": "ADAC318E-3D53-4D16-AF6F-6399E88DB335"
     },
@@ -102,6 +110,10 @@
     {
       "class": "symbolInstance",
       "id": "20F9A9D3-FAEA-4B06-83D7-D478414A89CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7EABC9D-6102-4455-89AF-DE0A5E4C177E"
     }
   ],
   "name": "header / FeedSeeAll",

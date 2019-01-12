@@ -18,25 +18,6 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@3x",
         "namingScheme": 0,
         "scale": 3,
         "visibleScaleType": 0
@@ -89,8 +70,12 @@
       "id": "68FEAE04-1925-4607-8EE2-148864EB2E79"
     },
     {
-      "class": "bitmap",
-      "id": "2A33C7C5-6CD5-46C1-BDD3-692683C1C8BC"
+      "class": "text",
+      "id": "9CC09603-231A-4C07-A85E-5161B755C23B"
+    },
+    {
+      "class": "rectangle",
+      "id": "622F680B-D9E9-4BC8-8EF1-FA8DCCE50E57"
     }
   ],
   "name": "feedItemCardMarket - scratch",
