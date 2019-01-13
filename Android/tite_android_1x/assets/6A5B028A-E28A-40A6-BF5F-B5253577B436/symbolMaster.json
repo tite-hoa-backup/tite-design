@@ -3,12 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.3764706,
+    "green": 0.7529412,
+    "red": 0.09019608
   },
   "booleanOperation": -1,
-  "changeIdentifier": 113,
+  "changeIdentifier": 232,
   "clippingMaskMode": 0,
   "do_objectID": "6A5B028A-E28A-40A6-BF5F-B5253577B436",
   "exportOptions": {
@@ -91,15 +91,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "BCD18861-47B8-4860-B0A0-E119DD1C7F0C"
+      "id": "81BCEE9E-6BDD-46D3-A6A3-0D869C1612EF"
     },
     {
       "class": "text",
-      "id": "7F5CF2F7-420B-4EDD-B4AF-58185E5680EA"
+      "id": "6D6D05D4-5BD4-4DC6-8F4E-58AC0B046816"
+    },
+    {
+      "class": "text",
+      "id": "83E3664A-80C1-4F24-A715-723665D54E03"
     }
   ],
   "name": "gpstore_feature_graphic_1",

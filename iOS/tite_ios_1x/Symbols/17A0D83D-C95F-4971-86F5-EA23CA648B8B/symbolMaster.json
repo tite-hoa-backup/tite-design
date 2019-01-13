@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 244,
+  "changeIdentifier": 279,
   "clippingMaskMode": 0,
   "do_objectID": "17A0D83D-C95F-4971-86F5-EA23CA648B8B",
   "exportOptions": {
@@ -56,7 +56,7 @@
     "y": 3477
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,8 +76,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "EA7E08F8-708E-43CD-AA0C-0B6E446A68F8"
+      "class": "oval",
+      "id": "05D288F4-EFEB-45D4-9877-AB0C47D31E5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0622B820-B607-4CDA-83C0-8357C56C9476"
     }
   ],
   "name": "feedItemCard / comps / imageScratchActive",

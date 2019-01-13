@@ -19,6 +19,24 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
         "scale": 3,
         "visibleScaleType": 0
       }
@@ -105,7 +123,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "411778DF-81B3-455A-BF2B-04B20244A70D"
+      "id": "01E59A6C-542C-4620-A945-B715D5628E66"
     }
   ],
   "name": "feedItemCardMarket",

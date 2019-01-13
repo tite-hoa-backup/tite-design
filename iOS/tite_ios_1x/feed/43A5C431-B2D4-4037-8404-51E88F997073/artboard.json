@@ -19,6 +19,25 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
         "namingScheme": 0,
         "scale": 3,
         "visibleScaleType": 0
@@ -107,12 +126,16 @@
       "id": "081C7A4C-611E-45EB-A1B0-66D1530905C7"
     },
     {
-      "class": "symbolInstance",
-      "id": "C1B3D8D1-CB9F-454C-BD06-412AFB84F351"
+      "class": "shapeGroup",
+      "id": "6AFC2425-DD0A-4A5F-B157-52D2438413E1"
     },
     {
-      "class": "text",
-      "id": "35FCB2E4-9DA6-4BDC-9AF7-39BC321DA5A5"
+      "class": "symbolInstance",
+      "id": "D72CF7C6-3B4B-47A4-BDA5-584A7FD4CD32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16CED3EF-F617-4006-B0FF-F533884E3FFD"
     },
     {
       "class": "text",
@@ -123,7 +146,7 @@
       "id": "AAE4D63D-C89D-4AA4-978C-1B99679B2E14"
     }
   ],
-  "name": "feedItemCard - tutorialExample",
+  "name": "feedItemCard - tutorialExample - writePost",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

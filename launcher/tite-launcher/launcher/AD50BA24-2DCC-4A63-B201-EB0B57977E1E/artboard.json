@@ -37,7 +37,7 @@
     "y": 3168
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,16 +60,20 @@
       "id": "C2972506-54B1-430B-9B81-39C7DB66292C"
     },
     {
-      "class": "shapeGroup",
-      "id": "490D96C9-B5FA-46D0-831F-4CA84F43D0D7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A63A029F-33BB-4E69-8170-9339E96E6279"
+      "class": "group",
+      "id": "344517CF-D637-493A-8970-56699CF3545D"
     },
     {
       "class": "shapePath",
       "id": "E92CFE41-1CEA-48C1-9DD5-C74FADE30568"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C1D0620-A8D4-43A3-82F9-2B5E9B44BFF6"
+    },
+    {
+      "class": "oval",
+      "id": "B1DA20E6-2DDF-42D6-BA9A-7EBC1B0A77D3"
     }
   ],
   "name": "boom",
