@@ -63,18 +63,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "273AEB35-07FC-4ECE-97B1-C409CB448F82",
-      "overrideName": "08EB031B-C7DE-425E-88AA-A457D40727FD_stringValue",
-      "value": "spemer"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "169A0F47-98E2-4FC0-88D1-3369F458E64E",
-      "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6_symbolID",
-      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "795F92F6-11AC-406C-8FDA-DE323ADD0253",
       "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
       "value": {
@@ -82,6 +70,24 @@
         "_ref": "images/cb7528f92120111ac6e5311e618e29fc75e2e82e.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE1A37BB-3015-407F-9105-70190BCD2097",
+      "overrideName": "CC33D1AD-760E-4F58-A691-95901B97762E_symbolID",
+      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DB5D5FE-8EB1-4187-98AA-2CD16E688072",
+      "overrideName": "F2051C35-F8F3-4FC1-87DA-0D4E5A58298D_stringValue",
+      "value": "spemer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51B3EB93-D5FF-450C-8DBD-F67E1E5D517E",
+      "overrideName": "05797EED-76E7-4299-8549-46D8F0941DC7_stringValue",
+      "value": "102동 이웃"
     }
   ],
   "resizingConstraint": 63,
@@ -97,6 +103,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A169195F-8ECE-4025-8435-4C9A3767F9CE",
+  "symbolID": "D951A474-AF87-4254-8C92-7DD102204FD3",
   "verticalSpacing": 0
 }
