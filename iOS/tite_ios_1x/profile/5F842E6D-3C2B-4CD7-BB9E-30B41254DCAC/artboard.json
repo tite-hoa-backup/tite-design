@@ -74,7 +74,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -95,10 +95,6 @@
     {
       "class": "symbolInstance",
       "id": "1DA482E1-FC97-4DA1-9A51-4E4EA202764D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1BD876B8-96AC-4D63-B56B-799398BD8724"
     },
     {
       "class": "symbolInstance",
@@ -130,15 +126,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "AEB804FD-0D7E-49DB-8762-05FE9E3D9CC8"
-    },
-    {
-      "class": "symbolInstance",
       "id": "3D91A032-E0E1-459F-B4A8-20A4DB36F3EF"
     },
     {
       "class": "symbolInstance",
       "id": "2BE122B3-AFBF-43D8-A56E-F17D2B0093EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBECFD31-CD3C-429D-B6E2-0898B2E549FB"
     }
   ],
   "name": "changeProfileThumbnailAfterSnackbar",

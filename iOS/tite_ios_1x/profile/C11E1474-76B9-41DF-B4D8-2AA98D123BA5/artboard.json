@@ -74,7 +74,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -95,10 +95,6 @@
     {
       "class": "symbolInstance",
       "id": "4D16C766-C3AC-4340-91AE-84E74AC492D2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E5A59034-6044-4516-BFE4-8D09F176C87C"
     },
     {
       "class": "symbolInstance",
@@ -130,15 +126,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "56866FBF-8068-4361-9E3F-F7689D121C48"
-    },
-    {
-      "class": "symbolInstance",
       "id": "5C2DC4DC-340F-4677-A572-428EB0B59874"
     },
     {
       "class": "symbolInstance",
       "id": "0F26A1B1-3183-485B-9F7A-76226CE3B85E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8475F4A1-DCC8-4E3B-A98B-3EA806035B15"
     }
   ],
   "name": "changeNicknameAfterSnackbar",
