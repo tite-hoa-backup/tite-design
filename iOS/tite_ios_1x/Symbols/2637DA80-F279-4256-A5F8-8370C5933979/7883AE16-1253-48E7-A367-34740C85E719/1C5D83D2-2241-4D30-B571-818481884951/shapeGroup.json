@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C5D83D2-2241-4D30-B571-818481884951",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55D71656-5960-4D7A-84BC-5D7D46383F50",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF94CF68-DFF0-4569-BD8E-7B313A1494AC",
+    "height": 57.45188059701493,
+    "width": 5.728531468531465,
+    "x": 123.0490629370627,
+    "y": 0.5176119402987146
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "054E5AD1-BEC6-4B0B-ACA4-7DF9AE0A8202"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD706D7A-BF88-4BF9-89E9-9EC7E21B5BD5"
+    }
+  ],
+  "name": "Stroke 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F9689897-68AD-471A-83C4-8F80154B7485",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.34965034965035,
+      "saturation": 1,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.02051611244678497,
+          "green": 0.004855578299611807,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2.913426573426574
+      }
+    ],
+    "do_objectID": "0A491D59-1A4B-426E-B2BC-3482C739215F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

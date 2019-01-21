@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "F28ACEE0-6B02-4EE3-AE46-565DE5312ACF",
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
@@ -93,7 +92,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -118,10 +117,6 @@
     {
       "class": "symbolInstance",
       "id": "6BB4E43F-BEE9-4E64-BC8C-19379F680C60"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F00C19BA-F069-4673-AF51-2E2D0BF7A5A6"
     },
     {
       "class": "symbolInstance",
@@ -153,15 +148,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "940563BA-DA7A-44D2-B65F-B4DBFCF678D3"
-    },
-    {
-      "class": "symbolInstance",
       "id": "E84D404C-F6F5-4503-BB5F-7BDC3495CC59"
     },
     {
       "class": "symbolInstance",
       "id": "FBE4F3C8-C654-4F0D-8FC0-F3EA0694E154"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E0BD556-3AAB-4F42-8DC2-9186F7F5280E"
     }
   ],
   "name": "profile_snackbar_nickname",
