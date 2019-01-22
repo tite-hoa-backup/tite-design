@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 822,
+  "changeIdentifier": 948,
   "clippingMaskMode": 0,
   "do_objectID": "2FDE0B58-9CC8-492E-83EF-6C83D64DD6A6",
   "exportOptions": {
@@ -59,7 +59,7 @@
     "y": 4326
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -114,6 +114,10 @@
     {
       "class": "text",
       "id": "161F924F-527B-4C71-A02B-43DB7354C2A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4780C4A-0506-4EA0-85F4-F5436BEAF46E"
     }
   ],
   "name": "scratch / basicScratchItemFailed",

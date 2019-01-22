@@ -1,0 +1,144 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "368B8D74-49E4-48DF-9F4B-65381712BDD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C171BEF-7075-419F-8B69-56A40F578AFA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A073268-4640-4AA7-8B37-B61C570BBB37",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 1Line",
+  "nameIsFixed": false,
+  "originalObjectID": "ABA15E45-0465-4E13-82A7-7F380FFCB1E4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03C77C65-A469-4D2E-917F-95A096B5A9B7",
+      "overrideName": "D7115D6F-A3B6-45C2-A59E-6408F5C3E71E_stringValue",
+      "value": "로그아웃"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EE103E5-ADDF-4253-8BC2-57CA8EF86FA2",
+      "overrideName": "434EA559-BD54-4F12-A724-A42E1FCF3E10_stringValue",
+      "value": "정말 로그아웃 하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81BA92EE-B7E9-488F-9CED-6F995CE8B3DC",
+      "overrideName": "F14E2DF1-A4CD-4737-A735-AF70C679C058_symbolID",
+      "value": "751F52D0-F2AD-4A50-AF16-376F732C220D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9478DA8D-F245-4B73-9C55-3EBBDB20A38F",
+      "overrideName": "F14E2DF1-A4CD-4737-A735-AF70C679C058/F66199DC-B3C7-4C08-AA25-FAD202A9A612_stringValue",
+      "value": "기프티콘 삭제"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F32E4736-D0E1-4E70-9F05-A5D796DF02D7",
+      "overrideName": "CD87EF87-AFE7-48B5-B3BA-70B5AD7235B8/584C0CE5-D7C4-4115-BEF0-B683D2BFD08A_stringValue",
+      "value": "취소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8239A1B-4FB9-4E6A-9793-6207B52B61D7",
+      "overrideName": "F116B293-1A4D-4100-8381-CB9F602455C2/50956418-D868-4789-9CB8-55867D0B5F18_stringValue",
+      "value": "기프티콘 삭제"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5CCE59D-A5FB-41DF-B2D7-5ADE0C9810A9",
+      "overrideName": "F116B293-1A4D-4100-8381-CB9F602455C2/DDCCF357-E2F1-4CE5-9687-14F3E07E3712_stringValue",
+      "value": "정말 기프티콘을 삭제하시겠습니까?\n삭제된 기프티콘은 복구할 수 없습니다"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "274F9239-B84A-49FB-87F9-CC2089469FF5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8DA5EB5C-FA0A-445D-8563-7F43FC8F6739",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "FD663511-92A1-41F0-BFD6-B148A33241CB",
+      "transition": 7
+    }
+  },
+  "verticalSpacing": 0
+}
