@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5820,
+  "changeIdentifier": 6104,
   "clippingMaskMode": 0,
   "do_objectID": "21D5104F-98BB-4E14-A3FB-81CBCEA4846C",
   "exportOptions": {
@@ -53,13 +53,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "993C4C3D-42D1-4F20-947B-CC6AE88E9B9D",
-    "height": 129,
+    "height": 184,
     "width": 375,
     "x": -1240,
     "y": 3997
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,6 +90,10 @@
     {
       "class": "symbolInstance",
       "id": "783FC9EB-F0F7-440B-802C-E239B75DCCFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "771BF90E-D8A5-4E5E-BA75-3B17ED6CB30D"
     }
   ],
   "name": "feedItemCard / cta / writePostBtn",
