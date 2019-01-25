@@ -44,10 +44,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9A90F55B-55AD-4CBD-B0CF-F3242B27B2E7",
-    "height": 42,
-    "width": 42,
-    "x": 10,
-    "y": 16
+    "height": 34,
+    "width": 34,
+    "x": 16,
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -64,10 +64,19 @@
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 0.8095238095238095,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.095238095238095,
+      "saturation": 1,
+      "type": 0
+    },
     "do_objectID": "2C02CF33-59B5-4FF4-ADCF-C797B63CF2A5",
     "endMarkerType": 0,
     "miterLimit": 10,

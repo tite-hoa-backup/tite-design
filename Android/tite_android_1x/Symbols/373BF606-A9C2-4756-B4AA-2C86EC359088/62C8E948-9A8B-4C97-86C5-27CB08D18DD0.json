@@ -169,7 +169,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 4
       }
@@ -185,7 +185,7 @@
           "green": 0.9333333333333333,
           "red": 0.9333333333333333
         },
-        "fillType": 0,
+        "fillType": 4,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -217,7 +217,12 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/8344a0152e04bb79fbe4f8ac661d31dc32286b24.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -227,5 +232,8 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "datasupplier.key": "Faces"
   }
 }
