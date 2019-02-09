@@ -75,7 +75,7 @@
     "y": 570
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -96,7 +96,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "388FDAF8-8FEC-448D-A7D7-16BBCF670458"
+      "id": "DE9F31FD-FA88-46AE-B64B-CAD129272071"
     },
     {
       "class": "symbolInstance",
@@ -153,10 +153,6 @@
     {
       "class": "symbolInstance",
       "id": "E57364E1-A36B-4215-A5EC-093AA949CCBA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "53E1A57E-931F-45BD-AAEF-C7A26C6B6294"
     }
   ],
   "name": "profile_snackbar_thumbnail",

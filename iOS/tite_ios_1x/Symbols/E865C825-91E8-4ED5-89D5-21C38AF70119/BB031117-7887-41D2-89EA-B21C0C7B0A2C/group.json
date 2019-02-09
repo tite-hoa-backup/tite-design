@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB031117-7887-41D2-89EA-B21C0C7B0A2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46803069-6F33-4884-948E-13A2020B424E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DCB9D09-2587-4ED0-9CCD-9801E9D560E3",
+    "height": 36,
+    "width": 36,
+    "x": 6,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E8EE5D2-3416-4E01-9122-30E126BAB1D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E16D8264-7353-469E-9CDC-5D531E38DB49"
+    },
+    {
+      "class": "group",
+      "id": "662CF90C-EDFE-4828-9525-D8799FC59848"
+    }
+  ],
+  "name": "launcher - cropped",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "342E1BC0-5C1A-4641-9867-AD000411DF81",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.225,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "91FF3274-8EE7-4ABF-97A7-3C3D1E183201",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

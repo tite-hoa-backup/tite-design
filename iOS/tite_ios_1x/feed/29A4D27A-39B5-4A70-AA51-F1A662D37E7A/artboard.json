@@ -71,12 +71,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "08B4606D-7867-4BFF-9405-4EE50CBE3DE7"
-    },
     {
       "class": "rectangle",
       "id": "E0DF864C-1A3D-4F85-A232-37619C9E2383"
@@ -103,10 +99,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "286BEE25-52B9-4A69-8491-4F7710EAF3A6"
-    },
-    {
-      "class": "symbolInstance",
       "id": "CF0B7AFD-2863-4D01-8F0C-9774B89E84F7"
     },
     {
@@ -128,6 +120,10 @@
     {
       "class": "text",
       "id": "4041282B-FF78-4FB1-B2B6-131E09B11017"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED748790-9540-4314-AD83-19ED43BE2B32"
     }
   ],
   "name": "reportAfter",

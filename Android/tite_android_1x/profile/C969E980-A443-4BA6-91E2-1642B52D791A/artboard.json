@@ -73,7 +73,7 @@
     "y": -170
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -92,12 +92,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "FAAEC2A6-7620-48F5-AE03-AC3F1260CCE1"
-    },
-    {
       "class": "symbolInstance",
       "id": "3D449594-68E4-4AAB-8A44-D659B4268128"
+    },
+    {
+      "class": "group",
+      "id": "9A2CA986-9F5E-4132-B4A4-0C7601834AAF"
     },
     {
       "class": "symbolInstance",
@@ -146,10 +146,6 @@
     {
       "class": "symbolInstance",
       "id": "0A2680B9-DB7D-4500-9366-D8D07D42BB5E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A8CA6A0F-D300-4E81-8379-9260F15B89A9"
     }
   ],
   "name": "profile_moms",

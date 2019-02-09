@@ -76,7 +76,7 @@
     "y": -170
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -96,12 +96,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "0D751467-93D7-4D15-9778-E9F3985CBD8D"
-    },
-    {
       "class": "symbolInstance",
       "id": "3B879033-4E03-4D73-B349-BFD2A6F4F7E8"
+    },
+    {
+      "class": "group",
+      "id": "7B7B4DCC-FCAC-4374-8534-6B64631CFAEA"
     },
     {
       "class": "symbolInstance",
@@ -150,10 +150,6 @@
     {
       "class": "symbolInstance",
       "id": "5B1A2CD7-A335-4E48-ADD1-511295CFA2E2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D12ACDBB-AF31-400C-823B-EA0D6815C07F"
     }
   ],
   "name": "profile_2nd",

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SpoqaHanSans-Bold",
-              "size": 16
+              "size": 18
             }
           },
           "kerning": 0,
@@ -27,11 +27,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 16,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "옥련동 현대5차 아파트 입주민"
+    "string": "피드"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -77,12 +77,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 198,
+    "height": 27,
+    "width": 34,
     "x": 16,
-    "y": 11
+    "y": 10
   },
-  "glyphBounds": "{{0, 5}, {196, 16}}",
+  "glyphBounds": "{{0, 5}, {33, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold16",
+  "name": "textBold18",
   "nameIsFixed": true,
   "resizingConstraint": 11,
   "resizingType": 0,
@@ -116,7 +116,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SpoqaHanSans-Bold",
-            "size": 16
+            "size": 18
           }
         },
         "kerning": 0,

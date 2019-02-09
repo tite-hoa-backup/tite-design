@@ -163,11 +163,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
-        "fillType": 4,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -201,7 +201,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/4edf79bb9d761c3e472d3f253207ac972b1e7c64.png",
+          "_ref": "images/1dcfed8080c44b296964b3f87eac2c4d620e1800.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

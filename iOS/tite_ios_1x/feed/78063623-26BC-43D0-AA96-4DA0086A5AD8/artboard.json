@@ -53,8 +53,8 @@
     "do_objectID": "0F5B0B3C-CB7F-4A16-99E1-33675300DA98",
     "height": 667,
     "width": 375,
-    "x": 5487,
-    "y": -889
+    "x": 5062,
+    "y": -4474
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -77,20 +77,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "A253D751-D9C9-4B54-9A8E-EA78522306C5"
-    },
-    {
       "class": "symbolInstance",
       "id": "57A690B9-04FE-419B-9FFD-80AB99B2EA88"
     },
     {
-      "class": "symbolInstance",
-      "id": "5FE92074-55E9-4C37-A67F-2D8CBD20A759"
+      "class": "group",
+      "id": "3C1BEA5A-AE33-487C-B22A-FE6BA4647CF0"
     },
     {
       "class": "symbolInstance",
-      "id": "B83919F4-4850-4D1A-A961-21334EDD97D8"
+      "id": "5FE92074-55E9-4C37-A67F-2D8CBD20A759"
     },
     {
       "class": "symbolInstance",
@@ -111,6 +107,10 @@
     {
       "class": "bitmap",
       "id": "6977C7C2-AA56-439B-AB0B-DC462B23597D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48109AED-5B85-4F58-9F99-3C31F1051E40"
     }
   ],
   "name": "feedItemCard - welcomeSmallCard",

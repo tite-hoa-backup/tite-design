@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4930522D-B4B7-4EB6-9387-3D0CE64B6EE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F4CFA99-1C28-4CB8-937C-CE322CF2056E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF700FC9-B445-4DAE-8642-12A9D63F3A93",
+    "height": 482,
+    "width": 375,
+    "x": 0,
+    "y": 389
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E4C5D42D-5430-4B9C-9917-89BAAA069A22"
+    },
+    {
+      "class": "text",
+      "id": "2147A659-AA85-47D4-99E2-1172E57F88F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26F8D8C3-ECBB-4FAA-8A81-FCB187ACC3CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CF8A3D8-28C7-40CD-BF8B-876DE0FB93B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3D55435-9A98-42AD-B1A6-B14A51A73530"
+    },
+    {
+      "class": "group",
+      "id": "47944C06-B89D-4E29-9F7B-0AEA59B2FB40"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "506FBB91-DE97-4674-A87F-8C2173F34BEC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
