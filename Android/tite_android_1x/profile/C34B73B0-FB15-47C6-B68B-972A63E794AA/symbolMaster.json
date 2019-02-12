@@ -8,7 +8,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6626,
+  "changeIdentifier": 6725,
   "clippingMaskMode": 0,
   "do_objectID": "C34B73B0-FB15-47C6-B68B-972A63E794AA",
   "exportOptions": {
@@ -76,7 +76,7 @@
     "y": -170
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -151,6 +151,10 @@
     {
       "class": "symbolInstance",
       "id": "F23A2212-83D9-40D9-B5E5-FB72DAF7052A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C18F7D60-C585-438E-AE0D-9A05BCF9C755"
     }
   ],
   "name": "[SYMBOL] / profile",

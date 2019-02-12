@@ -73,7 +73,7 @@
     "y": -170
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -150,6 +150,10 @@
     {
       "class": "symbolInstance",
       "id": "47A9149A-17CE-469E-9C1B-AB5BD9549F40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A2054D7-0FD5-4FB1-AE9B-D8CDC2CD09AC"
     }
   ],
   "name": "profile_snackbar_address",
