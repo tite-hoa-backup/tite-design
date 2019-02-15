@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6140,
+  "changeIdentifier": 6282,
   "clippingMaskMode": 0,
   "do_objectID": "21D5104F-98BB-4E14-A3FB-81CBCEA4846C",
   "exportOptions": {
@@ -58,6 +58,9 @@
     "x": -1240,
     "y": 3997
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -98,6 +101,28 @@
   ],
   "name": "feedItemCard / cta / writePostBtn",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C404C4BF-A6E5-428C-85E9-28A29EBAA37F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "771BF90E-D8A5-4E5E-BA75-3B17ED6CB30D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CDE5F116-6E4E-4852-81DC-E4E22571578F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "783FC9EB-F0F7-440B-802C-E239B75DCCFE_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

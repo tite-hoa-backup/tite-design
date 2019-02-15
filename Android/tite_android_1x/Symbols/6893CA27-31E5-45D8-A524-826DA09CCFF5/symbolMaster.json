@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8796,
+  "changeIdentifier": 8936,
   "clippingMaskMode": 0,
   "do_objectID": "6893CA27-31E5-45D8-A524-826DA09CCFF5",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 785,
     "y": 65
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -116,6 +119,13 @@
   ],
   "name": "Material/Android/Status bar content",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F384087F-FB16-4CA2-B285-20E807918E0F_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

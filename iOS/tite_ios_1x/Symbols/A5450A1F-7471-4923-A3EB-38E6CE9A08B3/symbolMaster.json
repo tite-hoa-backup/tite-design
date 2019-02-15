@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5676,
+  "changeIdentifier": 5692,
   "clippingMaskMode": 0,
   "do_objectID": "A5450A1F-7471-4923-A3EB-38E6CE9A08B3",
   "exportOptions": {
@@ -58,6 +58,9 @@
     "x": -1815,
     "y": 1012
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -99,6 +102,18 @@
   "name": "header / footerSnackbar",
   "nameIsFixed": true,
   "originalObjectID": "4289F1E5-49BB-466E-BB13-9162D7BBCDD2",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "235D99CE-4B97-4977-81AF-945C2EEEF8AF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3646E881-93B9-4054-BF9F-268103A914C3_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

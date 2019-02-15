@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 462,
+  "changeIdentifier": 475,
   "clippingMaskMode": 0,
   "do_objectID": "D8C370E9-933E-4989-80FC-4D8FCDF1A1B6",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -390,
     "y": 3154
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +89,13 @@
   ],
   "name": "discover / petitionStatusCompleted",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "50FBD767-7B40-4BD4-A0DC-ED6A3FEBC54D_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4116,
+  "changeIdentifier": 4172,
   "clippingMaskMode": 0,
   "do_objectID": "8EB29E22-4590-4308-A904-10878C9D53C2",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 1318,
     "y": 841
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,18 @@
   ],
   "name": "feed / ic / ic_heart_white",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2042971D-DD63-4E43-9FEE-5C53E585CF48_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "336159F7-A13E-4F7E-8CEA-9CA29FF35ACA_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

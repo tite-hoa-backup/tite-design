@@ -57,8 +57,11 @@
     "x": 6337,
     "y": -5191
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,7 +78,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -111,11 +114,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8A06E1C1-038E-4BC8-A38D-BF99CFC9F03D"
+      "id": "E8C6661A-1A4C-4641-9349-E75E54EE0A93"
     },
     {
       "class": "symbolInstance",
-      "id": "E8C6661A-1A4C-4641-9349-E75E54EE0A93"
+      "id": "895D8D40-8F9C-4E9A-8D8B-1089EE75F90B"
     }
   ],
   "name": "feedItemCard - tagsGridList - selectedIn",

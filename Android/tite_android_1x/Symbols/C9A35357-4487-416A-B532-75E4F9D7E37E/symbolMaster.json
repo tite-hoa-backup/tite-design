@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3623,
+  "changeIdentifier": 3679,
   "clippingMaskMode": 0,
   "do_objectID": "C9A35357-4487-416A-B532-75E4F9D7E37E",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": 3121,
     "y": 1160
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -108,6 +111,13 @@
   ],
   "name": "feed / moms_number",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "256FE262-AB87-485A-B5AD-0BCCB8F59254_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1594,
+  "changeIdentifier": 1650,
   "clippingMaskMode": 0,
   "do_objectID": "25706DDF-9D64-4316-A8F6-76ADFAB3311C",
   "exportOptions": {
@@ -73,8 +73,11 @@
     "x": -1875,
     "y": 1873
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -104,6 +107,18 @@
   ],
   "name": "writePost / camera / icon_bound_oval",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "633CB397-9208-4AD0-AC3A-850056F1B03C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E5AD845-BEF2-49D3-AFE3-6A04F792ECE4_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

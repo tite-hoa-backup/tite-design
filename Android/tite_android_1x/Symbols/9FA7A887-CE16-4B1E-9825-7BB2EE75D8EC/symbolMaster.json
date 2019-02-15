@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5975,
+  "changeIdentifier": 6059,
   "clippingMaskMode": 0,
   "do_objectID": "9FA7A887-CE16-4B1E-9825-7BB2EE75D8EC",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2273,
     "y": -921
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "profile / menu_moms",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CD4F45BE-607D-44D6-AD9D-AD30FB0D896A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "781EA081-12A9-4B56-87D8-D4D1DDC150B4_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

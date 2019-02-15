@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3905,
+  "changeIdentifier": 3961,
   "clippingMaskMode": 0,
   "do_objectID": "E575E2FD-D00A-4870-8352-65913E5B92E6",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 1390,
     "y": 1105
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,13 @@
   ],
   "name": "feed / thumbnail_small_overlap_default",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1D633A80-B3F9-49DD-AF37-C90797ABFDDF_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

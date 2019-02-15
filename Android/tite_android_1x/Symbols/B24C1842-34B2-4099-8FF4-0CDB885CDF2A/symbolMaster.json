@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3219,
+  "changeIdentifier": 3247,
   "clippingMaskMode": 0,
   "do_objectID": "B24C1842-34B2-4099-8FF4-0CDB885CDF2A",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 1430,
     "y": 1009
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -105,6 +108,13 @@
   "name": "feed / ic / ic_locallife",
   "nameIsFixed": true,
   "originalObjectID": "587AD71F-05A0-4F5E-8DE2-97FF9C9CC371",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B02E8DB9-D3DC-44D4-A730-4025A4B97554_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

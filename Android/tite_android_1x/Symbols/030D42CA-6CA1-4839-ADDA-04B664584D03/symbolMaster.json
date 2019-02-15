@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8011,
+  "changeIdentifier": 8151,
   "clippingMaskMode": 0,
   "do_objectID": "030D42CA-6CA1-4839-ADDA-04B664584D03",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 3121,
     "y": 408
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -120,6 +123,23 @@
   ],
   "name": "form / survey_selected_after",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C2028A5E-B72F-45A9-964B-1A7B85956BE5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "389023E7-2EBC-4EFE-B515-614E2C831190_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2426EC4F-15AE-456B-AF20-0BB912015243_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

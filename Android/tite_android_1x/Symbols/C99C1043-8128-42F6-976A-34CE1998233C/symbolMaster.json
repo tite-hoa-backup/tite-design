@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6251,
+  "changeIdentifier": 6279,
   "clippingMaskMode": 0,
   "do_objectID": "C99C1043-8128-42F6-976A-34CE1998233C",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": -1795,
     "y": 3602
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "writePost / user_info_market",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8D471F8A-078B-4ACB-BECB-44F96271C576_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "62F49713-35F8-41E3-B9C3-5E2167B74314_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

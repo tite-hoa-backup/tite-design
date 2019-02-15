@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8502,
+  "changeIdentifier": 8558,
   "clippingMaskMode": 0,
   "do_objectID": "6B56797D-6E83-47EF-BDEF-7C69227725A1",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 81,
     "y": 1215
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "feed / market_price_sold",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "286418DE-6EEF-4FC0-BF6B-0A93C7E8E8BB_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DC233344-7276-4125-B32C-DDDD0868CFEB_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

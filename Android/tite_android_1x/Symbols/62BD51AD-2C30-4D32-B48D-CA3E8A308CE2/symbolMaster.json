@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8371,
+  "changeIdentifier": 8511,
   "clippingMaskMode": 0,
   "do_objectID": "62BD51AD-2C30-4D32-B48D-CA3E8A308CE2",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 849,
     "y": 2277
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -116,6 +119,28 @@
   ],
   "name": "feedItemCard / comps / meta_small_img",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "443E6A91-B285-404C-BDD3-542CF51F93C8_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D90383FA-D962-4DA6-898B-A1800EA6C8F7_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6C4E5BD5-D0E1-46C7-BA97-B0E37C5BBCA9_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "655AEC82-CDB4-4D3D-9FD4-BD299FE9A0C0_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

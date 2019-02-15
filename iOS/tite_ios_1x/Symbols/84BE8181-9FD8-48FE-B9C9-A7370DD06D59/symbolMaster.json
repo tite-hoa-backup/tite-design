@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3786,
+  "changeIdentifier": 3802,
   "clippingMaskMode": 0,
   "do_objectID": "84BE8181-9FD8-48FE-B9C9-A7370DD06D59",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -3471,
     "y": 3832
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -94,6 +97,23 @@
   ],
   "name": "writePost / tag / onPopupSecondTags / rowOneSelected",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "10059CE4-C373-4FA4-BD5B-69115F90CE2B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0EB39511-E1C5-4513-80DB-68AF4BB44BAF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "431FD998-18DF-4FF6-9D3A-8EDE8573C17F_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

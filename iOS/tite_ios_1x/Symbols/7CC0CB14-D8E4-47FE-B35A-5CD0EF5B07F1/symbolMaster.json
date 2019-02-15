@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4085,
+  "changeIdentifier": 4101,
   "clippingMaskMode": 0,
   "do_objectID": "7CC0CB14-D8E4-47FE-B35A-5CD0EF5B07F1",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -2490,
     "y": 557
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -91,6 +94,13 @@
   "name": "-g-feedItemCard / ic / icNewPictureRoundGrey",
   "nameIsFixed": true,
   "originalObjectID": "7CC0CB14-D8E4-47FE-B35A-5CD0EF5B07F1",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "565DA511-3246-4AA0-A099-D2F1127FA0B6_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

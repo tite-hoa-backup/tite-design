@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2702,
+  "changeIdentifier": 2960,
   "clippingMaskMode": 0,
   "do_objectID": "1B13CD37-3D64-4C88-BB36-A54A42D758B4",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": 3640,
     "y": 2790
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -136,6 +139,53 @@
   ],
   "name": "discover / topics_list_9grid",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "263E7186-AE14-48E3-8C61-DB1303BE5212_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0B918F3F-3C26-49DE-A028-BC4F57A504E0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "462EE359-096C-4F6B-AFA1-D15E92F03A99_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "06EE56AF-F09F-45F2-AE14-3D079B79A67F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E31661C6-3B66-479B-A7C1-8F838C8157AA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BA91EE5B-D6FB-41D3-9497-93EEB1677427_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AA32282D-339C-4D1C-BD69-FDB99F1B0922_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2CABF7E1-4365-481C-846B-FFB60004EBFA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "187622CF-8B34-48A9-9FCF-29877F7FFCF5_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

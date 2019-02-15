@@ -57,8 +57,11 @@
     "x": 7612,
     "y": -5191
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -115,10 +118,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F86C7495-7AF7-4474-BE11-8ACBD3F22398"
-    },
-    {
-      "class": "symbolInstance",
       "id": "3ADAD86C-002F-4978-B000-1A2C6EB43DF5"
     },
     {
@@ -128,6 +127,10 @@
     {
       "class": "symbolInstance",
       "id": "D6E73E0C-E468-462B-A27C-C5B4DC517339"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28386F0C-6660-4274-B91B-2A7883C747FA"
     }
   ],
   "name": "feedItemCard - tagsGridList - selectedIn - market",

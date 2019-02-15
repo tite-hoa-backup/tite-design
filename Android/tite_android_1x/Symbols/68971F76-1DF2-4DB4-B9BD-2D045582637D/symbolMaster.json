@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2222,
+  "changeIdentifier": 2250,
   "clippingMaskMode": 0,
   "do_objectID": "68971F76-1DF2-4DB4-B9BD-2D045582637D",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 1206,
     "y": 673
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,13 @@
   ],
   "name": "-g-ic / -g-ic_heart_small",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F9884B2E-7C98-4B41-B5A3-85561ECC34A3_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

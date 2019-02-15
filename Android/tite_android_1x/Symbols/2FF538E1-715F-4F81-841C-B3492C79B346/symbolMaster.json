@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6826,
+  "changeIdentifier": 6938,
   "clippingMaskMode": 0,
   "do_objectID": "2FF538E1-715F-4F81-841C-B3492C79B346",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 2665,
     "y": 1870
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -116,6 +119,23 @@
   ],
   "name": "alert / list_2lines_post",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AC76EC4F-76B1-4E0B-B230-A137DE59C3D2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "72AB655E-7CCB-433A-8C03-9B6F643A08D0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "14A7A915-DEA3-4D6F-9C56-EC3A366501DD_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

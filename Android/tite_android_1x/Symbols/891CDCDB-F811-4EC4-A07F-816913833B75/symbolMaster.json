@@ -8,7 +8,7 @@
     "red": 0.91764706
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2027,
+  "changeIdentifier": 2055,
   "clippingMaskMode": 0,
   "do_objectID": "891CDCDB-F811-4EC4-A07F-816913833B75",
   "exportOptions": {
@@ -75,8 +75,11 @@
     "x": 2273,
     "y": 5335
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,6 +106,13 @@
   ],
   "name": "signin / gps_location",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DF769360-A1F1-4EB6-8F30-CE1E70758FB8_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

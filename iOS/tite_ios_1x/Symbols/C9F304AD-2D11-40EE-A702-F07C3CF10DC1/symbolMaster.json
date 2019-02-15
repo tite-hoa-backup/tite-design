@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 501,
+  "changeIdentifier": 509,
   "clippingMaskMode": 0,
   "do_objectID": "C9F304AD-2D11-40EE-A702-F07C3CF10DC1",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 5340,
     "y": -706
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -82,6 +85,8 @@
   ],
   "name": "-g-ic / icTagIndicator",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

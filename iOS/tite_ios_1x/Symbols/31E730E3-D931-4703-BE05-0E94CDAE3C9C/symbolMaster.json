@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3145,
+  "changeIdentifier": 3157,
   "clippingMaskMode": 0,
   "do_objectID": "31E730E3-D931-4703-BE05-0E94CDAE3C9C",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -3471,
     "y": 1577
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,6 +93,13 @@
   ],
   "name": "btn / btn343FilledHalf",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6427795C-56C7-492C-BE6E-8DE6106F42C8_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

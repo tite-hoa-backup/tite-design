@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5040,
+  "changeIdentifier": 5068,
   "clippingMaskMode": 0,
   "do_objectID": "D9624489-1AE3-4CE0-9DB6-C4E93FE126B3",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 521,
     "y": 626
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,13 @@
   ],
   "name": "tabbar / each-write-post-brand",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "350FF1F5-EEE9-4ADD-A016-1285BD53E6B9_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

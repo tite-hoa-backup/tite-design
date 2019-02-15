@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5002,
+  "changeIdentifier": 5086,
   "clippingMaskMode": 0,
   "do_objectID": "18E39DAB-6DE0-4BA1-A872-46B945322BBC",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 1911,
     "y": -1561
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -112,6 +115,18 @@
   ],
   "name": "btn / btn_signin_kakao",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "16BCC3D3-8D93-44CA-936F-73F45CE14ACF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "547F531C-AD6D-4B85-8589-2FF804C3EF18_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

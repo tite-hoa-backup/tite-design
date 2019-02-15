@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1897,
+  "changeIdentifier": 1945,
   "clippingMaskMode": 0,
   "do_objectID": "0E8A7507-8F4E-40DD-BF5F-EFB44611D0C0",
   "exportOptions": {
@@ -57,8 +57,11 @@
     "x": 2399,
     "y": 5096
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -125,6 +128,23 @@
   ],
   "name": "keyboard / imagePicker",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "735924D0-5022-4FBB-BA43-4BCF1AA1A664_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4F30A01B-9868-40F9-BDAB-498F52CD602C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "228D5D06-938A-46CE-8574-68C2A180AA84_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

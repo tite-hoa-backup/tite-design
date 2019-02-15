@@ -58,6 +58,9 @@
     "x": -3261,
     "y": 533
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -127,6 +130,63 @@
   "name": "[SYMBOL] / writePostProductWriteText",
   "nameIsFixed": true,
   "originalObjectID": "8BC5C26F-74A0-45C9-8676-14FC267028C3",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27BB15BD-DB9D-4085-97B4-BEDD92070297_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4C4D6FB9-C40C-4CA2-9D89-6661C5931706_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8648FB3F-2012-47AC-B23E-AB6471AD1203_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5274E93C-A447-4051-9A37-D9B5AC84EE01_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "059E44F5-BFAE-49C8-9F76-8830C343FA10_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "38D3C625-CFED-4583-8C3D-B62BD0977883_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6DEF2731-AC2C-4045-992E-9C667A42FE32_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "309B5308-01AD-4655-BE21-E7672EB68CD0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DD9BD86E-FFAE-4017-A92C-BA7DD4C358BB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F7EB9EB2-6143-4204-B45A-232E13720F06_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F5BD17F7-5E3C-487C-B6B7-601B982AC15D_symbolID"
+    }
+  ],
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

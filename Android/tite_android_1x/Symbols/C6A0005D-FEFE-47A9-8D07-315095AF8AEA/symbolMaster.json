@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10906,
+  "changeIdentifier": 11046,
   "clippingMaskMode": 0,
   "do_objectID": "C6A0005D-FEFE-47A9-8D07-315095AF8AEA",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 2720,
     "y": 2474
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -120,6 +123,28 @@
   ],
   "name": "feed / header / discover_filter_review",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F65079FF-34D7-45A8-8C58-4427DC88CBCF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C7B795C0-EA43-42F7-AFBB-D092ADE417C5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "25D2D3EE-B11C-4451-A740-4C09D0BA951B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27B0E1F8-0543-4E6F-98B3-5AF156D0CE02_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

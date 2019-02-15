@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10102,
+  "changeIdentifier": 10242,
   "clippingMaskMode": 0,
   "do_objectID": "E09973A7-3884-41DC-94C4-54314472F349",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2697,
     "y": 100
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -116,6 +119,28 @@
   ],
   "name": "form_dropbox",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "57301914-D1B4-485E-9D90-2A1EEC3F9411_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1002B12E-2E1B-418B-A41E-E90CD6A5E6A1_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "222B10D7-9BCD-4F56-9BB9-F8DED672A102_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AF511FCD-5451-4BD8-8CAF-96B897EA0E78_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

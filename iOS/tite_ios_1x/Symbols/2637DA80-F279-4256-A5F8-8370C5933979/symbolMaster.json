@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6417,
+  "changeIdentifier": 6441,
   "clippingMaskMode": 0,
   "do_objectID": "2637DA80-F279-4256-A5F8-8370C5933979",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 2810,
     "y": 4630
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,6 +106,33 @@
   "name": "Views/Alerts/Default 1 Line Barcode",
   "nameIsFixed": true,
   "originalObjectID": "7EF09F0E-0DCA-4B7B-A33F-049553A0995B",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A1FDF0B8-45B6-4669-827A-ED697C722E37_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A1FDF0B8-45B6-4669-827A-ED697C722E37_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BF307A9F-7132-4170-808A-D4F8D664981B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3CD19606-9C8A-4E71-89EB-41F7F216AC50_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "219A0C6B-92CB-4DF8-8419-452AD55DDC13_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

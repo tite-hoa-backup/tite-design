@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1524,
+  "changeIdentifier": 1536,
   "clippingMaskMode": 0,
   "do_objectID": "1D15349E-88BA-484B-83E9-C7E0193B6E83",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 4194,
     "y": 2514
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,6 +93,13 @@
   ],
   "name": "profile / editProfileBtnEachGreen",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "81678253-3A01-41BA-A9EB-9F2337115816_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1689,
+  "changeIdentifier": 1745,
   "clippingMaskMode": 0,
   "do_objectID": "63C1F9F1-2F18-4B00-988B-F9E323CE16F0",
   "exportOptions": {
@@ -75,8 +75,11 @@
     "x": -1787,
     "y": 1729
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -107,6 +110,8 @@
   ],
   "name": "writePost / camera / capture_bound_oval",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

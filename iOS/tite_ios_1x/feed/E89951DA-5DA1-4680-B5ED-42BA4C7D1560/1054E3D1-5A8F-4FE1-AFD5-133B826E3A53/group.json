@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1054E3D1-5A8F-4FE1-AFD5-133B826E3A53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D08F4E8F-3D95-49AE-BCC9-7F97474BB43D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CCB1839-A7BC-4EC1-898B-5942D4E6FB23",
+    "height": 240,
+    "width": 375,
+    "x": 0,
+    "y": 540
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2227267E-2B1D-4AB3-80F9-DA1549C5FD5D"
+    },
+    {
+      "class": "text",
+      "id": "3B0F70BF-6770-4756-9AB1-2ED0969849C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B52466C9-DAB2-431A-BB9D-E3F4AED05EBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B28EE4B2-0D93-4ED7-8CDA-EB7DF2AABDFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D88D1305-D738-4BFC-AAAF-82BD4C45005B"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A104AD97-8673-4DCC-92FD-F9B4469663C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

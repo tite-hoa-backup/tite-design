@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 56,
+  "changeIdentifier": 64,
   "clippingMaskMode": 0,
   "do_objectID": "BC519DAC-0263-4751-B3DD-6E60768EAFA5",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 3359,
     "y": 3541
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -82,6 +85,8 @@
   ],
   "name": "scratch / imageBound",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

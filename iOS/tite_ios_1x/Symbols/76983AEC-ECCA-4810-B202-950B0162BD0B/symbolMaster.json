@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1731,
+  "changeIdentifier": 1751,
   "clippingMaskMode": 0,
   "do_objectID": "76983AEC-ECCA-4810-B202-950B0162BD0B",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 2678,
     "y": 1764
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -82,6 +85,13 @@
   ],
   "name": "-g-feedItemCard / ic / welcomePopper",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "306521A2-CB7C-4F44-A75E-924E0969565C_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

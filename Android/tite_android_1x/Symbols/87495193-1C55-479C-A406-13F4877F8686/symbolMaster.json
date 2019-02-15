@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2357,
+  "changeIdentifier": 2385,
   "clippingMaskMode": 0,
   "do_objectID": "87495193-1C55-479C-A406-13F4877F8686",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 1296,
     "y": 1161
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -100,6 +103,13 @@
   ],
   "name": "-g-profile / ic / default_thumbnail_profile",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E29C218B-26E7-4F18-A580-E90C089E4CF6_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

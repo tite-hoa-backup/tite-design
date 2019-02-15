@@ -9,7 +9,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9821,
+  "changeIdentifier": 9913,
   "clippingMaskMode": 0,
   "do_objectID": "F6A23635-F578-41A3-B952-F60C935F5764",
   "exportOptions": {
@@ -57,6 +57,9 @@
     "width": 375,
     "x": -4138,
     "y": -744
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -110,6 +113,38 @@
   ],
   "name": "[SYMBOL] / [iPhoneX] feedItemCard - tagsGridList",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A7CE354D-A9AB-4E78-9725-1BBAC8D80FBC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "48F3B6BD-E7D4-4148-B2A2-2733ED6C5748_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "85441086-CA00-4885-A3E1-43D60B920E4F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "86E4A98F-441E-4FE1-9A68-1792EBF5A217_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E5B1D724-E7D4-4ED1-983F-874D560C08C6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "49D96C8E-49AF-450B-9030-0F4D63EEE55B_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

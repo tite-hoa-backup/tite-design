@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6877,
+  "changeIdentifier": 6933,
   "clippingMaskMode": 0,
   "do_objectID": "3A8B368D-B3E0-4E14-BF1A-C24E3EA376B5",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 1439,
     "y": 2491
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -105,6 +108,13 @@
   "name": "feedItemCard / comps / imagesGt3",
   "nameIsFixed": true,
   "originalObjectID": "95ED8914-4F5B-46CF-8FB3-6A38D509A3C6",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "10EB997E-26F8-425A-90BE-D3D9109D1456_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

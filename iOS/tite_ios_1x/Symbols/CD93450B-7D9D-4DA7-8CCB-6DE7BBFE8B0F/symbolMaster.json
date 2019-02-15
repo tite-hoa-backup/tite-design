@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1976,
+  "changeIdentifier": 1988,
   "clippingMaskMode": 0,
   "do_objectID": "CD93450B-7D9D-4DA7-8CCB-6DE7BBFE8B0F",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -2976,
     "y": 2118
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +89,13 @@
   ],
   "name": "writePost / imageBox",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AF8E7BAE-9E93-4441-B50A-5BC485588C67_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

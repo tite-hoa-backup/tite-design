@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4400,
+  "changeIdentifier": 4408,
   "clippingMaskMode": 0,
   "do_objectID": "E52518C5-946A-4510-A326-7C22C16E7984",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 6484,
     "y": -900
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -87,6 +90,13 @@
   "name": "tabbar / each / writePostBrand",
   "nameIsFixed": true,
   "originalObjectID": "5B681630-6737-408D-905D-BBA31A042855",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FB681ED2-158C-4096-B515-751AB233D2F9_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

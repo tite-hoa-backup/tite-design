@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 11434,
+  "changeIdentifier": 11466,
   "clippingMaskMode": 0,
   "do_objectID": "10EEC2DB-F6FA-4A92-B1A3-D94662473778",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 3180,
     "y": 3048
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,13 @@
   ],
   "name": "discover / petition_status",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD91E9CD-97D4-471C-A30A-8F66A542B49E_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

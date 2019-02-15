@@ -8,7 +8,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1953,
+  "changeIdentifier": 1969,
   "clippingMaskMode": 0,
   "do_objectID": "62FF9E0E-2B23-4872-A337-26052053E6F0",
   "exportOptions": {
@@ -57,8 +57,11 @@
     "x": 2399,
     "y": 5408
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -93,6 +96,23 @@
   ],
   "name": "keyboard / TagPicker",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "14B16A21-FA07-4D7C-B39A-0BC7FA0B9809_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6FB9AFEC-FB72-4378-BE3A-F7C36AD45FDE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "54BCB140-12A1-4B3E-B1E4-336D5FA3EBDE_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

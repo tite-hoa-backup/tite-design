@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9091,
+  "changeIdentifier": 9107,
   "clippingMaskMode": 0,
   "do_objectID": "F71E3DEE-FFE0-444F-8256-F6EBAFB355F0",
   "exportOptions": {
@@ -58,6 +58,9 @@
     "x": -390,
     "y": 3422
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -99,6 +102,28 @@
   "name": "tutorial / pageIndicator",
   "nameIsFixed": true,
   "originalObjectID": "46AF4C1A-23E0-4FEB-A0BA-4F9C21ACE3F2",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0AB298B9-4DE6-4561-B002-38B8BE027DED_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DCD9BBDF-314D-4892-A8E8-8D482F42D782_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DE3CF1A9-A79C-4C56-BCFE-6F6617441C5E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6DB5CC65-2D5C-4335-904D-4B14776E59A9_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

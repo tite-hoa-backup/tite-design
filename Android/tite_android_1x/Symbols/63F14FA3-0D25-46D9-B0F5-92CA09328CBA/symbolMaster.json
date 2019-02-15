@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4961,
+  "changeIdentifier": 5045,
   "clippingMaskMode": 0,
   "do_objectID": "63F14FA3-0D25-46D9-B0F5-92CA09328CBA",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2289,
     "y": -1561
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "btn / btn_signin_fill",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "28BEDFAD-88D0-46C9-8726-18E4017AB9BA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5D6758C7-C0F6-422E-9384-6BE4E8626A35_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

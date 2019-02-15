@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1225,
+  "changeIdentifier": 1237,
   "clippingMaskMode": 0,
   "do_objectID": "507238F1-8311-4FC7-8CB9-98C77E9AD452",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -3427,
     "y": 48
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +89,13 @@
   ],
   "name": "writePost / camera / touchBoundLayer",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F253C874-FD83-43F8-BA8A-8B429A899B75_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -54,8 +54,11 @@
     "do_objectID": "8738D134-CA79-4175-99BD-6CCB00AEA2DA",
     "height": 667,
     "width": 375,
-    "x": 6762,
-    "y": -7342
+    "x": 5487,
+    "y": 1979
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -83,19 +86,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "32F36C14-EA78-496A-85D3-B5EDDD328A26"
-    },
-    {
-      "class": "symbolInstance",
       "id": "0F41E2D2-0B9D-4F0A-AC0A-6BAD3F3759DE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5A5CA2DA-24BC-40D3-BC7B-2FC61635AE81"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0397DEA8-2C92-461C-971D-CD4B9A602272"
     },
     {
       "class": "rectangle",
@@ -120,6 +111,14 @@
     {
       "class": "symbolInstance",
       "id": "4DEF5E6F-127F-48B7-B468-1AD545899F58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1826ADA3-B180-42F0-BB21-9AA2DE90D467"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E270B66D-0F2C-43DA-980A-4C5F3D957667"
     }
   ],
   "name": "discover / petitionCompleted",

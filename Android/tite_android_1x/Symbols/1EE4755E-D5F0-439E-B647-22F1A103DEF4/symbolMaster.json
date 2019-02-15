@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2391,
+  "changeIdentifier": 2621,
   "clippingMaskMode": 0,
   "do_objectID": "1EE4755E-D5F0-439E-B647-22F1A103DEF4",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": 2260,
     "y": 2790
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -132,6 +135,48 @@
   ],
   "name": "discover / topics_list_talk",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "239D2DAD-34C9-47EA-A8E9-A0049DD9249D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4F577673-AFD4-45D5-8022-FF66D79575F6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F3AC1E9A-8F69-4EEA-92F8-236EAB223205_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0058ADFE-6921-483D-88A7-8A1A78176C95_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "462A1F4D-3D09-4512-A360-40D42C76719D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "46D47A25-2BD0-4CD9-83A4-A886B1B5BA68_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F04B270B-BBDF-45D2-9B76-DCD3C064F443_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "706BE4EB-ED34-481E-AA85-0A7A57DA1866_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

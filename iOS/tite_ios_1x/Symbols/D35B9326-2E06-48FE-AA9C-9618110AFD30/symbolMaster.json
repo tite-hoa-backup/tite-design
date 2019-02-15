@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4476,
+  "changeIdentifier": 4488,
   "clippingMaskMode": 0,
   "do_objectID": "D35B9326-2E06-48FE-AA9C-9618110AFD30",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": -2290,
     "y": -539
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -91,6 +94,18 @@
   "name": "Bars/Status Bar/Dark Status Bar",
   "nameIsFixed": true,
   "originalObjectID": "D35B9326-2E06-48FE-AA9C-9618110AFD30",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "713B831E-C4FC-4AC7-B951-AC0DD7F5712C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DF877391-6803-4558-AAFC-43F70717EC19_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

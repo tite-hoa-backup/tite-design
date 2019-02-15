@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6439,
+  "changeIdentifier": 6551,
   "clippingMaskMode": 0,
   "do_objectID": "6615E814-D74B-4CEA-9594-0EBCAA475C53",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 3545,
     "y": 1453
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -116,6 +119,28 @@
   ],
   "name": "form / child_list_boy",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3FB25E82-084D-4795-B3E4-7D490EE7106D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "86474A54-FA0F-419C-8CC1-F0573F12CC39_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "01D63EF4-CB88-4300-8EF9-275AD4A668A1_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "430E8037-E454-4068-BC87-08F546487BBA_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

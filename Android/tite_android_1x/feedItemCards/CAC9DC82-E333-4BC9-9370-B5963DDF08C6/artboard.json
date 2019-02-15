@@ -73,10 +73,13 @@
     "height": 640,
     "width": 360,
     "x": 3676,
-    "y": -4710
+    "y": 3530
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -100,10 +103,6 @@
       "id": "2CED22BF-41DE-4664-816C-AA2647999DD1"
     },
     {
-      "class": "symbolInstance",
-      "id": "14BC5C0D-0486-446B-8D87-90F49470C53D"
-    },
-    {
       "class": "rectangle",
       "id": "C839F77A-E97C-47F0-9F49-42BE3D0554AB"
     },
@@ -121,19 +120,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "2568D611-1490-4736-902A-2AC89AA1EEDC"
-    },
-    {
-      "class": "symbolInstance",
       "id": "2CACDD80-34F0-46B8-8FA2-A13A3A6BF91E"
     },
     {
       "class": "symbolInstance",
       "id": "FA2FD55F-DC6F-4B06-8F19-BFFD24A5FB43"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "793F248D-3E00-4656-9616-608A480052AD"
     },
     {
       "class": "symbolInstance",
@@ -145,7 +136,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "2AC1EB13-8AF7-42C1-BA69-DB3C7429B396"
+      "id": "3E18A3D1-1D12-4119-89C6-1B816005A9C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D22076D5-0153-4167-962E-E2DAE004CE36"
     }
   ],
   "name": "discover_petition_rejected",

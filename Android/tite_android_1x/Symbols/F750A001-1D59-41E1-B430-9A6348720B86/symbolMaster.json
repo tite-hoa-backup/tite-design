@@ -9,7 +9,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2855,
+  "changeIdentifier": 2883,
   "clippingMaskMode": 0,
   "do_objectID": "F750A001-1D59-41E1-B430-9A6348720B86",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 1289,
     "y": -253
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,13 @@
   ],
   "name": "-g-ic / ic_back_reverse_white_bottom",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F0411E14-8A29-4420-A473-AFE67BC0ECBC_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

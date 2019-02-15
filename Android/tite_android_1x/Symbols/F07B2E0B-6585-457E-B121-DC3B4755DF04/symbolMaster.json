@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6358,
+  "changeIdentifier": 6470,
   "clippingMaskMode": 0,
   "do_objectID": "F07B2E0B-6585-457E-B121-DC3B4755DF04",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 3545,
     "y": 1357
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -112,6 +115,28 @@
   ],
   "name": "form / child_list_girl",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5DDF63FE-E1F0-43F4-92F1-F6A583B39890_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F568BCD-E1D6-44C8-821A-FE91F7F97223_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2DEAF433-4D8C-47B4-95FA-9B15288F5961_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7C1EEF75-1532-43DB-9A7F-0F746080F18C_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

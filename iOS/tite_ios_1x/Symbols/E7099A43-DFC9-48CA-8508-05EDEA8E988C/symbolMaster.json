@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2969,
+  "changeIdentifier": 2977,
   "clippingMaskMode": 0,
   "do_objectID": "E7099A43-DFC9-48CA-8508-05EDEA8E988C",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 1873,
     "y": 2737
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -83,6 +86,13 @@
   "name": "-g-feedItemCard / ic / tags / poll42",
   "nameIsFixed": true,
   "originalObjectID": "E7099A43-DFC9-48CA-8508-05EDEA8E988C",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FF6A007C-4F71-4795-83DD-F2C0192741D8_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

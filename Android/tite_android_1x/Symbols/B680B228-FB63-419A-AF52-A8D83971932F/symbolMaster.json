@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5591,
+  "changeIdentifier": 5675,
   "clippingMaskMode": 0,
   "do_objectID": "B680B228-FB63-419A-AF52-A8D83971932F",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 849,
     "y": 2377
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,23 @@
   ],
   "name": "feedItemCard / comps / user_likes",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F0D8E64B-EA44-47E0-9F24-5E0175FF3E6F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6917B1A9-E1D2-4E69-A128-AF696401E30B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B1BBB525-F06A-46EB-9637-1EDBC9D720CB_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

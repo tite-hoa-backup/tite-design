@@ -54,8 +54,11 @@
     "do_objectID": "23D0B9C6-F253-4F0D-BDF7-A6DD975081A5",
     "height": 667,
     "width": 375,
-    "x": 6337,
-    "y": -7342
+    "x": 5062,
+    "y": 1979
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -83,19 +86,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "35615DEA-ABE9-406F-83FB-B23E84E89BD0"
-    },
-    {
-      "class": "symbolInstance",
       "id": "2E0D641F-C261-4709-92C8-2C99F4C8EC03"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A4CD1D1D-8783-42FD-A1D2-2AE29D2AA94A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9E6607CF-04F1-497C-B34F-1BE8B2705C8C"
     },
     {
       "class": "rectangle",
@@ -120,6 +111,14 @@
     {
       "class": "symbolInstance",
       "id": "C99F8DEF-2B30-4A66-ADAD-B2CB53201148"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D111A017-530B-415B-8DD9-F2DD6AE892DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AF7013A-FF60-4307-B51B-D3F0D8BC8CD1"
     }
   ],
   "name": "discover / petitionRejected",

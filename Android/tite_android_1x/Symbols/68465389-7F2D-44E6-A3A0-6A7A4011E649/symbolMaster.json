@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6536,
+  "changeIdentifier": 6620,
   "clippingMaskMode": 0,
   "do_objectID": "68465389-7F2D-44E6-A3A0-6A7A4011E649",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 345,
     "y": 626
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "tabbar / each-inactive_new",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3AC1EA1A-D45B-4423-8261-62EC14166FA5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "77F8FF97-BEF1-46E7-BE84-91BC1C1EE7D6_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2641,
+  "changeIdentifier": 2689,
   "clippingMaskMode": 0,
   "do_objectID": "FEB00552-B89B-4BAC-B033-5670A561235E",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 1449,
     "y": 4022
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -126,6 +129,63 @@
   ],
   "name": "discover / topicsListSeeAllTalk",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3D3D95F7-FDC1-4FF6-A9AE-0A8F12E65730_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52694C48-BB1A-4C45-A2A3-866EA841CD07_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E5285AE-9D60-46D9-98E8-2EF789F9D8C6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "129F8862-ED1B-45C8-953C-838F2E7BF873_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EBC6CAAF-E102-49EF-934D-671AB77B024F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D933FE63-2A21-43A0-9D6C-B25803B07BB4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3E5896F3-FA9C-4D36-83E7-A7A43463A970_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8B04F5B5-261D-46EF-BEB6-0D2F4669292A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "18CA5555-C053-4040-B9AB-33A1DB793CD0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "003B34AA-8514-427F-8F85-2AF6311BEFAA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2B4CFDA5-88AA-44EC-9CCD-122AF4F93B03_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

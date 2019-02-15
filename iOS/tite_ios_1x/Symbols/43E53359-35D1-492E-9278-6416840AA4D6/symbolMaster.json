@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4665,
+  "changeIdentifier": 4677,
   "clippingMaskMode": 0,
   "do_objectID": "43E53359-35D1-492E-9278-6416840AA4D6",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": -2290,
     "y": 501
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -91,6 +94,18 @@
   "name": "check / BoundBold",
   "nameIsFixed": true,
   "originalObjectID": "43E53359-35D1-492E-9278-6416840AA4D6",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5F3A0E03-61A1-4566-B53E-6535AE399C29_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3505AEE6-75D6-4A9A-97E1-678AD658B251_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

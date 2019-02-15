@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8252,
+  "changeIdentifier": 8264,
   "clippingMaskMode": 0,
   "do_objectID": "ACBE51AB-2C71-4781-8C69-BFB61B251967",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 3359,
     "y": 1840
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,6 +93,18 @@
   ],
   "name": "feedItemCard / welcomeCardHoa",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2C5CD60D-02F3-40E5-9CF9-3E285990D452_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CB9F4731-8571-400C-8A27-8E625427B7EA_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

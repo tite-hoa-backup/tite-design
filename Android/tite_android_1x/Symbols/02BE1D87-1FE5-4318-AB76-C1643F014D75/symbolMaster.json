@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3613,
+  "changeIdentifier": 3669,
   "clippingMaskMode": 0,
   "do_objectID": "02BE1D87-1FE5-4318-AB76-C1643F014D75",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": 3121,
     "y": 1208
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -108,6 +111,13 @@
   ],
   "name": "feed / purchase_cta_bold",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1CE8B243-811A-4495-8DAC-25E33CE445D5_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

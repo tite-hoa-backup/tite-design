@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8422,
+  "changeIdentifier": 8438,
   "clippingMaskMode": 0,
   "do_objectID": "2AA29ADB-556C-4473-B4AC-C590C6FBC493",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -2290,
     "y": 1049
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -95,6 +98,23 @@
   "name": "feedItemCard / ProfileVerifiedIconMomsOnly",
   "nameIsFixed": true,
   "originalObjectID": "1646B6E9-4709-423C-8174-5499237C44CB",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D8ECF692-8578-4E4C-88D1-437C3DE90F08_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F5D80A8E-4648-4082-87F9-3201FA9C16A6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3AEF2B73-DA10-4E61-9FF5-0CAE2C9E23D2_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

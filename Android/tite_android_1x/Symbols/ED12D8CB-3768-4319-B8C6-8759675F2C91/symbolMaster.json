@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4036,
+  "changeIdentifier": 4092,
   "clippingMaskMode": 0,
   "do_objectID": "ED12D8CB-3768-4319-B8C6-8759675F2C91",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2681,
     "y": 4183
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,18 @@
   ],
   "name": "feed / activity / ic_new_picture",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DACF62E7-03F7-49CD-AA77-F70CCE4D1152_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6BD949BE-1E74-4D23-93CA-2FB459F64CCC_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

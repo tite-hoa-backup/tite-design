@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4343,
+  "changeIdentifier": 4355,
   "clippingMaskMode": 0,
   "do_objectID": "96C1B210-1406-4BCC-9F5E-0C8295C87CF3",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": -1340,
     "y": 2004
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -91,6 +94,18 @@
   "name": "list / City",
   "nameIsFixed": true,
   "originalObjectID": "96C1B210-1406-4BCC-9F5E-0C8295C87CF3",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80059DA5-CAA4-4907-BD11-06AE67525A60_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C38F46D5-0B9D-4842-A8F1-9996930AB89E_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

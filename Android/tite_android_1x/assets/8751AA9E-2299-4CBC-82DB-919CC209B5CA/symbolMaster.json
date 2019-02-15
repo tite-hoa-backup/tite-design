@@ -39,6 +39,9 @@
     "x": 2226,
     "y": 637
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -71,6 +74,18 @@
   ],
   "name": "metacard",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "259BD4A2-8100-4B4B-9D62-831F2A4792E5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "57EABA65-DF17-4C61-A4BA-25963A535218_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

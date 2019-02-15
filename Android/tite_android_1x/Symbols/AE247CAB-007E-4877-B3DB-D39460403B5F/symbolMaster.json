@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4793,
+  "changeIdentifier": 4877,
   "clippingMaskMode": 0,
   "do_objectID": "AE247CAB-007E-4877-B3DB-D39460403B5F",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": -1228,
     "y": 2906
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -112,6 +115,23 @@
   ],
   "name": "discover / sheet / tags_selected",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C2B96866-B9E3-4E95-AC39-9EEEE0C1927D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9380B548-D590-4EF1-90C3-C33C4380DE39_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80213810-09F6-447F-8A12-B1AC98F2792F_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

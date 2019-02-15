@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5713,
+  "changeIdentifier": 5769,
   "clippingMaskMode": 0,
   "do_objectID": "70F9E974-0035-45E3-9572-DE19CFB7FC83",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": -1228,
     "y": 3617
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -109,6 +112,13 @@
   "name": "feedItemCard / BtnSold_small",
   "nameIsFixed": true,
   "originalObjectID": "A7184282-4ADE-46FD-AED7-DC427250FF5B",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "34C5E624-0850-4D6D-8027-05786D30EB74_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

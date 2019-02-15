@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7012,
+  "changeIdentifier": 7124,
   "clippingMaskMode": 0,
   "do_objectID": "F5F7F972-50E0-4E04-846E-8E17F0B75767",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2273,
     "y": -825
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -112,6 +115,28 @@
   ],
   "name": "profile / menu_each_bold",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4DEC007E-C8BD-4C89-9308-3F54876F34FD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8B1989F7-9D61-4888-8B70-E125D706AF22_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8B1989F7-9D61-4888-8B70-E125D706AF22_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "95397DD6-F733-400D-B7DF-5B2E71C237D7_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

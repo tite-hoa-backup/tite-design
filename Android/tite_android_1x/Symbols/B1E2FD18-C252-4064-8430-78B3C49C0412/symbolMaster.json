@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3495,
+  "changeIdentifier": 3523,
   "clippingMaskMode": 0,
   "do_objectID": "B1E2FD18-C252-4064-8430-78B3C49C0412",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2585,
     "y": 909
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -100,6 +103,13 @@
   ],
   "name": "-g-feed / ic / ic_feed_news",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C8321BCB-2008-4D2B-BDD8-4C39A0637FE6_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

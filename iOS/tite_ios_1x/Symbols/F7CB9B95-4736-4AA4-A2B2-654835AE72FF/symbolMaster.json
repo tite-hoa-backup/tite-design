@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2345,
+  "changeIdentifier": 2357,
   "clippingMaskMode": 0,
   "do_objectID": "F7CB9B95-4736-4AA4-A2B2-654835AE72FF",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 4794,
     "y": -741
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,6 +93,13 @@
   ],
   "name": "signin / inputCodeBoxGrey",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9892008E-814C-4028-BA57-850C7C28A58F_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

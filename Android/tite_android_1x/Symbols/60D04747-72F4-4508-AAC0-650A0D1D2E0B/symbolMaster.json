@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3458,
+  "changeIdentifier": 3486,
   "clippingMaskMode": 0,
   "do_objectID": "60D04747-72F4-4508-AAC0-650A0D1D2E0B",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2533,
     "y": 909
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -100,6 +103,13 @@
   ],
   "name": "-g-feed / ic / ic_feed_sell",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E588707D-FAD0-43AC-B69C-07CB7A8E2FF7_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

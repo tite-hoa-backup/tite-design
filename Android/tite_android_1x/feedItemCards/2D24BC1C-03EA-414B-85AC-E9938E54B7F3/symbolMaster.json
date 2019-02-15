@@ -8,7 +8,7 @@
     "red": 0.9568627450980391
   },
   "booleanOperation": 0,
-  "changeIdentifier": 12065,
+  "changeIdentifier": 12239,
   "clippingMaskMode": 0,
   "do_objectID": "2D24BC1C-03EA-414B-85AC-E9938E54B7F3",
   "exportOptions": {
@@ -75,6 +75,9 @@
     "x": -4724,
     "y": 570
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -139,6 +142,53 @@
   ],
   "name": "[SYMBOL] / feedItemCards_linkScrapType",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2250972E-E946-4D0C-95CC-A2797D83E961_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4A079908-8010-4F24-B6DE-D18C6AEE8176_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6521E49C-960F-4084-8735-66EFC548C585_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "942B8BC4-30E1-4DE9-A8E1-C54459368B59_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "22BBE954-50E1-4218-97A8-33B2247FD81D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "38886BEB-E69A-43BD-B8C3-1255B4E40722_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "98F847F1-7E51-4565-89A3-24F4D8AB4AA1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3BAEED7A-3AA4-40EC-957F-02A78D0E3633_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5CF4EE8F-67CF-4DEB-B49C-FFBF24583FB9_symbolID"
+    }
+  ],
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 640,

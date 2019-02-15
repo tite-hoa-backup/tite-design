@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2343,
+  "changeIdentifier": 2383,
   "clippingMaskMode": 0,
   "do_objectID": "9582320B-4853-43DE-947C-A96390F36037",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 1924,
     "y": 4022
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -118,6 +121,53 @@
   ],
   "name": "discover / topicsListSeeAllReview",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E81F6A94-AF15-485E-9E8D-8538ED8FFFE9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "217661F1-90D3-4867-BEF5-3384EBC6EDA6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "558E9D1E-84A0-4634-832B-01C096CF834E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52A91D03-4980-468A-AE3B-40756BA0B919_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1349B180-CB5D-40AE-8903-E4F2A8DD59D4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "75D22E49-748D-40E9-88F6-852CF8D11B09_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "08280B8F-8460-4D2D-8BA2-AB165F976F11_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "32C6AD11-47C7-4250-93EC-1B0E5DC7C0C8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "059410AD-0B1A-42BA-8825-4DBA471460BA_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

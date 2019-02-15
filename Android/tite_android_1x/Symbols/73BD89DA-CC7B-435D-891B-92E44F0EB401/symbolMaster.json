@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4862,
+  "changeIdentifier": 4946,
   "clippingMaskMode": 0,
   "do_objectID": "73BD89DA-CC7B-435D-891B-92E44F0EB401",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 849,
     "y": 1549
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "feed / cta",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DB2D1065-55E2-4972-9774-18C07DB3E7B5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A553C315-717B-49BF-9D2C-F16D461C8A52_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

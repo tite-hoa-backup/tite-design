@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 905,
+  "changeIdentifier": 939,
   "clippingMaskMode": 0,
   "do_objectID": "EFA734C2-CA10-438B-97F4-C2F98980FB7B",
   "exportOptions": {
@@ -73,8 +73,11 @@
     "x": 8217,
     "y": -654
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -100,6 +103,8 @@
   ],
   "name": "-g-ic / icGiveaway26",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

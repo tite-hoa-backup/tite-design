@@ -9,7 +9,7 @@
     "red": 0.09019608
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2669,
+  "changeIdentifier": 2697,
   "clippingMaskMode": 0,
   "do_objectID": "AA5B6F43-8EBC-4502-8481-C8E4C0B92B00",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 2697,
     "y": -1521
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,13 @@
   ],
   "name": "btn / btn_login_black",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "181CD0CA-650E-43E0-A255-E2BE1639ADBA_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

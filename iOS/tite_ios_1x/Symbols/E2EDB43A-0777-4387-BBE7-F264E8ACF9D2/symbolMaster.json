@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6820,
+  "changeIdentifier": 6840,
   "clippingMaskMode": 0,
   "do_objectID": "E2EDB43A-0777-4387-BBE7-F264E8ACF9D2",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": -865,
     "y": 673
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -99,6 +102,28 @@
   "name": "form / DropDownBasic",
   "nameIsFixed": true,
   "originalObjectID": "E2EDB43A-0777-4387-BBE7-F264E8ACF9D2",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "05A1AF6D-B87F-4656-9971-F751D1E7CB4D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DB3F2EA0-B2D6-4155-8947-F3D752C071CF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5CCD6850-9769-4B0B-9ADD-0ECC175774D9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F591C40-CADF-4AD9-B8EA-3457C01B7065_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1802,
+  "changeIdentifier": 1858,
   "clippingMaskMode": 0,
   "do_objectID": "0E159899-4A66-4321-84E7-D6D16DBE9F17",
   "exportOptions": {
@@ -73,8 +73,11 @@
     "x": -1875,
     "y": 1729
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -104,6 +107,13 @@
   ],
   "name": "writePost / camera / thumbnail_each",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D5770A1C-8B9B-447E-9C0C-EED1D50E06CB_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

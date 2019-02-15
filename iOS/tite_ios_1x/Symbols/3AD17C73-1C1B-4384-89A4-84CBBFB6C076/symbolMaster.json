@@ -9,7 +9,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1096,
+  "changeIdentifier": 1108,
   "clippingMaskMode": 0,
   "do_objectID": "3AD17C73-1C1B-4384-89A4-84CBBFB6C076",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 4877,
     "y": 683
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,6 +93,13 @@
   ],
   "name": "actionSheet / base-reversed",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D6B73819-FD0E-4464-9E4A-59C829CEB8A4_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

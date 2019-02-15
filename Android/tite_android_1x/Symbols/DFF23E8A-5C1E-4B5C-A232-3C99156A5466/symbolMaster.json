@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5012,
+  "changeIdentifier": 5096,
   "clippingMaskMode": 0,
   "do_objectID": "DFF23E8A-5C1E-4B5C-A232-3C99156A5466",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": 3121,
     "y": 1112
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -112,6 +115,18 @@
   ],
   "name": "feed / purchase_people",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FF90CDE6-BE16-413E-BDEE-463B527BC452_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FA3C5452-3BDA-49C6-AF1F-FC3D3B3206A7_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9017,
+  "changeIdentifier": 9125,
   "clippingMaskMode": 0,
   "do_objectID": "94C9CC49-1C65-4EB0-ACE6-5B2F09DCF215",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 8736,
     "y": -1010
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -128,6 +131,38 @@
   ],
   "name": "[SYMBOL] / gpStore_exImg - 6",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D7A16D68-4B05-44BB-BA5C-7111732ACA37_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "56032238-2685-48E5-BA7D-C48BF61D0A6B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "280DD525-0C64-47E8-B2B6-9670E84C6BF7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8FFCCDEA-EE7E-49B8-9D8B-4CCAD14800DE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C9CA2319-A69B-43A2-A473-C5F3EBA2348B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "112869D7-EB43-4AA6-BE77-32257847F917_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

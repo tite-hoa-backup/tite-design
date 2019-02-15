@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4448,
+  "changeIdentifier": 4464,
   "clippingMaskMode": 0,
   "do_objectID": "3A8BD016-A634-4B2D-8AB7-05C3C931B660",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -1815,
     "y": 1617
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -95,6 +98,23 @@
   "name": "feedItemCard / tagTimestampMarket",
   "nameIsFixed": true,
   "originalObjectID": "E8A9F5CD-0227-4D7A-98E4-AA2BB9A970B3",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E0975FD4-D938-4166-AD57-225D82745A96_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4F40F2FF-EE41-4E19-8596-3D60B8B2D501_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "24317B08-B953-41B5-B3A9-5411F9A63411_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

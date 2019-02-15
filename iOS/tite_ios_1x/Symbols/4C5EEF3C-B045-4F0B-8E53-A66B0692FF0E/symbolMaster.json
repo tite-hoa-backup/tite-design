@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6292,
+  "changeIdentifier": 6316,
   "clippingMaskMode": 0,
   "do_objectID": "4C5EEF3C-B045-4F0B-8E53-A66B0692FF0E",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -1815,
     "y": 2414
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -99,6 +102,23 @@
   "name": "feedItemCard / comps / metaImage",
   "nameIsFixed": false,
   "originalObjectID": "4C5EEF3C-B045-4F0B-8E53-A66B0692FF0E",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8240177D-5BEA-4E38-A4B2-42C5A1AB221E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "35B30686-1DF4-4AAE-B778-2A7FBE853BBC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "65FDD9B3-716D-4ACC-BEDD-0767AC82669D_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7747,
+  "changeIdentifier": 7803,
   "clippingMaskMode": 0,
   "do_objectID": "FB4AF550-B003-40B6-83F0-BAEF92ADE768",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 1257,
     "y": 1795
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -109,6 +112,13 @@
   "name": "feed / toast_confirmed",
   "nameIsFixed": true,
   "originalObjectID": "1F5D4335-6997-4751-A423-7E5820C89BD5",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E2247B2-CF12-436B-A6E8-B0866B7A7B35_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

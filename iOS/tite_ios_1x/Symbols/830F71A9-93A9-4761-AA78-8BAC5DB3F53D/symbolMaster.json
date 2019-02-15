@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4039,
+  "changeIdentifier": 4051,
   "clippingMaskMode": 0,
   "do_objectID": "830F71A9-93A9-4761-AA78-8BAC5DB3F53D",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -1815,
     "y": 2025
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -91,6 +94,18 @@
   "name": "feedItemCard / noticeShowCheckbox",
   "nameIsFixed": true,
   "originalObjectID": "E8A9F5CD-0227-4D7A-98E4-AA2BB9A970B3",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "290AFC18-C73B-4D45-B65D-207C570274DF_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CB450BFC-2CB5-4017-A8C5-45D82710A55B_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

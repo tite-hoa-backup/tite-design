@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6720,
+  "changeIdentifier": 6776,
   "clippingMaskMode": 0,
   "do_objectID": "31AF2FC4-5D84-4FBD-819E-E0BE0F8D0258",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 849,
     "y": 1602
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -105,6 +108,13 @@
   "name": "feed / btm / snackbar2Lines",
   "nameIsFixed": true,
   "originalObjectID": "1F5D4335-6997-4751-A423-7E5820C89BD5",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A47AFF3F-2D7B-41B6-A500-D969A8CBFC99_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

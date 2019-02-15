@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1925,
+  "changeIdentifier": 2009,
   "clippingMaskMode": 0,
   "do_objectID": "3A0F3E03-7C5F-48B5-8A1F-677B422857D2",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": -1795,
     "y": 5706
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -112,6 +115,23 @@
   ],
   "name": "writePost / textfield / price_before",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CE1632C5-4B94-4076-9A33-5489F6AA72FF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E510A6C3-7D04-49A9-8D5C-A04A699E2B20_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27C5800D-F889-4AA8-BDA6-3EAA0DC94F86_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

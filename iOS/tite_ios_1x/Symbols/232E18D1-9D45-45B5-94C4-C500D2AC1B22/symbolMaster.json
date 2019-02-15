@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10377,
+  "changeIdentifier": 10385,
   "clippingMaskMode": 0,
   "do_objectID": "232E18D1-9D45-45B5-94C4-C500D2AC1B22",
   "exportOptions": {
@@ -58,6 +58,9 @@
     "x": 4038,
     "y": 3105
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -91,6 +94,18 @@
   "name": "feedItemCard / market / priceTagSharedPurchase",
   "nameIsFixed": true,
   "originalObjectID": "CAD3F8F9-864A-46DF-8C06-2259D2E65006",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0468BC5F-1ADC-4ECC-9BF9-CF9CDBD07D9E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E68C5F3B-9294-44A4-AD6C-2537D6687BA5_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

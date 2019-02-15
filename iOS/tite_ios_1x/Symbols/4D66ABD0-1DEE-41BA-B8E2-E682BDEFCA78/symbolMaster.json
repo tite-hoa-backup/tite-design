@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3269,
+  "changeIdentifier": 3277,
   "clippingMaskMode": 0,
   "do_objectID": "4D66ABD0-1DEE-41BA-B8E2-E682BDEFCA78",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": -3471,
     "y": 628
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -87,6 +90,13 @@
   "name": "btn / BottomFixed",
   "nameIsFixed": true,
   "originalObjectID": "4D66ABD0-1DEE-41BA-B8E2-E682BDEFCA78",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA9122DC-8BDE-4E68-90FA-0D5757B8E1F0_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

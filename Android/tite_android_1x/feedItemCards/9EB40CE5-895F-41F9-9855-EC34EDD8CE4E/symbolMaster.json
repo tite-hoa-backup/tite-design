@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8271,
+  "changeIdentifier": 8499,
   "clippingMaskMode": 0,
   "do_objectID": "9EB40CE5-895F-41F9-9855-EC34EDD8CE4E",
   "exportOptions": {
@@ -75,6 +75,9 @@
     "width": 360,
     "x": 6436,
     "y": -1010
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -152,6 +155,73 @@
   ],
   "name": "[SYMBOL] / gpStore_exImg - 1",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CFBDC011-0B2B-4D9F-B864-1BCCBD087695_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "116249DA-F999-492B-ACA3-D827AD0E91B1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "281BB1E1-F444-4CE1-B19E-A73E01DE83FC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "4AD90B90-729A-48D0-979E-ABA8C8FAC12C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "372C9853-1229-4E2A-8F10-702365EEFA6B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "493914DF-45B7-42F5-B8CC-CFE57A8E00A2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6A8BB352-B3C1-4A67-AFE4-6C0E77606CC4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2CFB5F7D-15AE-4875-A144-5BCC17326080_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FFB1E24F-6B80-4D4E-B596-0BD42FBD3FAC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "961CDC34-3269-4750-A4AB-0BF179C84B7B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0D708DD1-71DC-4A1B-AD6B-606991BA4748_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E9EECFD6-FEEC-4BCE-80FA-3ED50BCC254E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69847323-78CC-4B6E-9B7B-DC3975E3FF64_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

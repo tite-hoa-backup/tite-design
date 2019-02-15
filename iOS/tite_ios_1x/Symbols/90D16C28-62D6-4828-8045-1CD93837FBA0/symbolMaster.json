@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3187,
+  "changeIdentifier": 3199,
   "clippingMaskMode": 0,
   "do_objectID": "90D16C28-62D6-4828-8045-1CD93837FBA0",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 1856,
     "y": 1210
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,6 +93,18 @@
   ],
   "name": "form / surveyTimeSet",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B937E5E9-495C-494E-A83B-177EEF3AAE8C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DF3F007E-9D12-4D3D-9F65-5443A7897FC4_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

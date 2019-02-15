@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5292,
+  "changeIdentifier": 5376,
   "clippingMaskMode": 0,
   "do_objectID": "C5D33BF2-369E-4EB8-BD7F-6ECA4B9C5FD0",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 2273,
     "y": 5191
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -112,6 +115,23 @@
   ],
   "name": "comment / comps / 2lines_liked_link",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C670ACF4-6801-4A1D-8D34-584A52748356_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "54BB70E3-5FB5-4EC3-9622-A0F2E175D91A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C7AE13FF-2BD4-4589-BF26-CC0E5C0438D0_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

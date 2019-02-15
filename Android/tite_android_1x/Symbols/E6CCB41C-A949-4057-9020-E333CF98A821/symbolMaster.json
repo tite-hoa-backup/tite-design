@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3946,
+  "changeIdentifier": 4002,
   "clippingMaskMode": 0,
   "do_objectID": "E6CCB41C-A949-4057-9020-E333CF98A821",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 3545,
     "y": 724
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "form / radio_left",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E8DDBA1F-35B1-48FC-909C-56F1A0A85F6F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3A3AFC30-4042-42B0-94C2-9F96F140F97B_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

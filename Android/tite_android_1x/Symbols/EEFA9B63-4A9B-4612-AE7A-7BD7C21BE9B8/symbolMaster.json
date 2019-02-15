@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3762,
+  "changeIdentifier": 3818,
   "clippingMaskMode": 0,
   "do_objectID": "EEFA9B63-4A9B-4612-AE7A-7BD7C21BE9B8",
   "exportOptions": {
@@ -73,8 +73,11 @@
     "x": 81,
     "y": 2517
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -104,6 +107,13 @@
   ],
   "name": "btn / btn_purchase",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "67AD0E20-795B-4360-9B27-5FF2784B544B_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

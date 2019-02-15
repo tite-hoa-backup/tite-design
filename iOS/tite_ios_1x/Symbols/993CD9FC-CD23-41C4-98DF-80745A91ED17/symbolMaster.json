@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5278,
+  "changeIdentifier": 5310,
   "clippingMaskMode": 0,
   "do_objectID": "993CD9FC-CD23-41C4-98DF-80745A91ED17",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 4730,
     "y": -565
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -98,6 +101,13 @@
   ],
   "name": "Bars/Status Bar/Light Status Bar",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F8861866-C394-4009-961A-E827E66C6D3D_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

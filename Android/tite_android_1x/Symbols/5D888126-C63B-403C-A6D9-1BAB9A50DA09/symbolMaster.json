@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 11307,
+  "changeIdentifier": 11419,
   "clippingMaskMode": 0,
   "do_objectID": "5D888126-C63B-403C-A6D9-1BAB9A50DA09",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 457,
     "y": 1285
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -116,6 +119,28 @@
   ],
   "name": "feed / profile_verified_user_moms",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "255A1033-25D9-4F0E-BDAE-36A166B3D316_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B07A84A2-2300-4E21-87BB-3601B0632384_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "21DD5CAA-A44A-4028-ACCE-63AA20ACE920_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1391CE33-9104-4EEA-BB17-E4642CA41B92_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

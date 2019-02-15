@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 222,
+  "changeIdentifier": 234,
   "clippingMaskMode": 0,
   "do_objectID": "8861C1C3-75DC-49CC-B2BE-83B2F859482E",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 2870,
     "y": 4022
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,6 +93,13 @@
   ],
   "name": "scratch / itemEachBoundFail",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B0A1D44B-BD79-43E8-862F-873F1DDC3D16_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

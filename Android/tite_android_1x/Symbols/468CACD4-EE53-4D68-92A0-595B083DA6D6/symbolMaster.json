@@ -9,7 +9,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2938,
+  "changeIdentifier": 2994,
   "clippingMaskMode": 0,
   "do_objectID": "468CACD4-EE53-4D68-92A0-595B083DA6D6",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": -2527,
     "y": 4285
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,13 @@
   ],
   "name": "writePost / kbd_image_each",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5E529C1D-FFB3-470C-921E-3CE4354229C6_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

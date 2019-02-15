@@ -9,7 +9,7 @@
     "red": 0.09019608
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2643,
+  "changeIdentifier": 2651,
   "clippingMaskMode": 0,
   "do_objectID": "82A17B23-CEC0-4E03-8D2B-52074F999FCF",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -2818,
     "y": -28
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +89,8 @@
   ],
   "name": "-g-ic / icCheckboxRectCheckedGreen",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

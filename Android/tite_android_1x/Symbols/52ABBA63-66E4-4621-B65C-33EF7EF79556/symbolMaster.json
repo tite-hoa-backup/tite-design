@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2691,
+  "changeIdentifier": 2719,
   "clippingMaskMode": 0,
   "do_objectID": "52ABBA63-66E4-4621-B65C-33EF7EF79556",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": -407,
     "y": 105
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -104,6 +107,8 @@
   ],
   "name": "feed / form_underline_error",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

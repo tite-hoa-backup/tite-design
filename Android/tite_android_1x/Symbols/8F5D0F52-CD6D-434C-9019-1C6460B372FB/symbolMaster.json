@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5870,
+  "changeIdentifier": 5954,
   "clippingMaskMode": 0,
   "do_objectID": "8F5D0F52-CD6D-434C-9019-1C6460B372FB",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": -1228,
     "y": 3761
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -112,6 +115,23 @@
   ],
   "name": "feed / small_tags_market",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2DA77FC2-947F-437F-BBD8-D77C60B9ADB7_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7C69364A-8ACA-4962-AD38-AA5B430BB3A6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E200F749-8CF3-4617-9824-81FDB7E68FC4_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

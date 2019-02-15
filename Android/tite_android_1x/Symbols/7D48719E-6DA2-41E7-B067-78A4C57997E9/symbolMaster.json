@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4662,
+  "changeIdentifier": 4718,
   "clippingMaskMode": 0,
   "do_objectID": "7D48719E-6DA2-41E7-B067-78A4C57997E9",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 849,
     "y": 2457
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "feedItemCard / comps / user_likes_no_message",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4B65D234-C1C2-44D9-B8BC-51C113690EB4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E54FBFCC-8FCB-43FC-9877-2B432252636C_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

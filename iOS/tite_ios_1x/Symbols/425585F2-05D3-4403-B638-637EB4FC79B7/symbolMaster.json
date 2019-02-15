@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3120,
+  "changeIdentifier": 3128,
   "clippingMaskMode": 0,
   "do_objectID": "425585F2-05D3-4403-B638-637EB4FC79B7",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 1981,
     "y": 2737
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -83,6 +86,13 @@
   "name": "-g-feedItemCard / ic / tags / news42",
   "nameIsFixed": true,
   "originalObjectID": "425585F2-05D3-4403-B638-637EB4FC79B7",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4FA20085-EF3E-45DD-814E-5C92D1E2AFA2_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

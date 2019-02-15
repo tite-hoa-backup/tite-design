@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4010,
+  "changeIdentifier": 4066,
   "clippingMaskMode": 0,
   "do_objectID": "BEAFAF39-62AE-41D8-849F-BC7C07D4FFB2",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2273,
     "y": -501
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,13 @@
   ],
   "name": "snackbar / error",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1570DE18-A0F5-4E99-B4C0-EB0DA8C5ABB2_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

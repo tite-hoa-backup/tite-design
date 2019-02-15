@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9776,
+  "changeIdentifier": 9804,
   "clippingMaskMode": 0,
   "do_objectID": "A1A70A0C-B431-491A-BA4B-FF21BD120D8B",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 3213,
     "y": 719
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,6 +106,38 @@
   "name": "actionSheet / datePicker",
   "nameIsFixed": true,
   "originalObjectID": "A1A70A0C-B431-491A-BA4B-FF21BD120D8B",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DBA98B64-855F-4F27-AA11-D0E12A682586_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "208DBDF4-911C-4DD5-B0F4-F60928595E7E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "20639E9E-29A2-4582-B1AB-9A35BF8B9173_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "25F9A5AE-7FEE-4D8E-8319-D394F84EC799_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E410E517-D490-49DD-809B-E7DF96BA8B34_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4CA1A1FF-CD5E-4439-A8F0-87C28627A9A4_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

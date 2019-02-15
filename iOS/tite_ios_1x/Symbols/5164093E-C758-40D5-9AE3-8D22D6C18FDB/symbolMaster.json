@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4645,
+  "changeIdentifier": 4657,
   "clippingMaskMode": 0,
   "do_objectID": "5164093E-C758-40D5-9AE3-8D22D6C18FDB",
   "exportOptions": {
@@ -58,6 +58,9 @@
     "x": -4046,
     "y": 804
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -95,6 +98,18 @@
   "name": "btn / signInFb",
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D4B67D40-F3F3-4995-A7DE-48BE76B09A5E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "96BFDC90-4851-4E11-AE57-C4EF99562C69_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

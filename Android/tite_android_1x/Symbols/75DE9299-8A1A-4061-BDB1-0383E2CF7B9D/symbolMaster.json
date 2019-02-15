@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4177,
+  "changeIdentifier": 4233,
   "clippingMaskMode": 0,
   "do_objectID": "75DE9299-8A1A-4061-BDB1-0383E2CF7B9D",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 3121,
     "y": 1320
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,13 @@
   ],
   "name": "feedItemCard / welcomeList",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "432E2F5E-4A90-4526-AB43-BF9B602884F0_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

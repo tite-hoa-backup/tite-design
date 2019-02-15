@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10360,
+  "changeIdentifier": 10372,
   "clippingMaskMode": 0,
   "do_objectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
   "exportOptions": {
@@ -61,6 +61,9 @@
     "isEnabled": false,
     "thickGridTimes": 10
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -97,6 +100,18 @@
   "name": "Bars/Status Bar/Light Status Bar",
   "nameIsFixed": true,
   "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "21573FB4-29A6-4201-A374-7330889618B8_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "22EE2D55-90A6-4255-BEAF-417DB9DCE574_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

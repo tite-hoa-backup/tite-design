@@ -8,7 +8,7 @@
     "red": 0.09019608
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4504,
+  "changeIdentifier": 4516,
   "clippingMaskMode": 0,
   "do_objectID": "33FE3DBA-71F0-4185-A844-0911E2B34FCD",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": -3471,
     "y": 876
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -91,6 +94,18 @@
   "name": "btn / StrokeBound",
   "nameIsFixed": true,
   "originalObjectID": "33FE3DBA-71F0-4185-A844-0911E2B34FCD",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "06B73590-8229-4AFF-8A1B-475EB1C14D34_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DE9C7E34-1A29-436A-89F2-D79A56C7CA00_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

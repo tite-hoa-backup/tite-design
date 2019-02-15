@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6634,
+  "changeIdentifier": 6718,
   "clippingMaskMode": 0,
   "do_objectID": "B7DD6C67-13F7-44DE-8F89-2E2E82A9A29D",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 2697,
     "y": -12
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -112,6 +115,23 @@
   ],
   "name": "apt_list_see_more",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FB00E50D-6741-4EAE-BB8C-A621FC51BF3A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FB00E50D-6741-4EAE-BB8C-A621FC51BF3A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C056C21B-2283-41B3-8B25-E74E01D7C063_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

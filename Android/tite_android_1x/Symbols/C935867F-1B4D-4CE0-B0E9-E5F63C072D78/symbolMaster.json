@@ -9,7 +9,7 @@
     "red": 0.09019608
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5043,
+  "changeIdentifier": 5127,
   "clippingMaskMode": 0,
   "do_objectID": "C935867F-1B4D-4CE0-B0E9-E5F63C072D78",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": 1911,
     "y": -1465
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -112,6 +115,18 @@
   ],
   "name": "btn / btn_signin_brand",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "818544C8-8D0A-4CCA-A5F2-22DBAC12A4F9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6ECDB5C8-1EF5-45C5-9944-CE1FB327B3A7_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

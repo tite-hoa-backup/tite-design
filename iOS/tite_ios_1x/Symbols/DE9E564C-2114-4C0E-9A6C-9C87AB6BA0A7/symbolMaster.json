@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10365,
+  "changeIdentifier": 10373,
   "clippingMaskMode": 0,
   "do_objectID": "DE9E564C-2114-4C0E-9A6C-9C87AB6BA0A7",
   "exportOptions": {
@@ -58,6 +58,9 @@
     "x": 4038,
     "y": 3019
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -91,6 +94,18 @@
   "name": "feedItemCard / market / priceTagSoldOut",
   "nameIsFixed": true,
   "originalObjectID": "CAD3F8F9-864A-46DF-8C06-2259D2E65006",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BAA2B2EF-E46E-407A-9B38-195DFE85DBCF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0CFE7F04-07EC-490D-B475-35946FF87CEB_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7085,
+  "changeIdentifier": 7109,
   "clippingMaskMode": 0,
   "do_objectID": "765F016D-4AD0-4310-B4AA-BE80528B09B8",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -2697,
     "y": 1381
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,6 +106,28 @@
   "name": "feedItemCard / activityInAppBrowser",
   "nameIsFixed": true,
   "originalObjectID": "C084DC3E-AECC-4B4A-A098-314D6E275587",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "48AD5A69-45C3-405C-B8EF-1E7ACAA4D130_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "410D1A95-CE72-456E-A860-3A00D7C4A87A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "234B035C-F7F2-48BF-A2D5-B84656F3B9B0_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D8A60CEF-2C34-419C-ADC8-ED5E02804773_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

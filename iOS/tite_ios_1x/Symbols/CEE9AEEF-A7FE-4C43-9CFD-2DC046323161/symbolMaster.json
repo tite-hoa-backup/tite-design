@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 15156,
+  "changeIdentifier": 15184,
   "clippingMaskMode": 0,
   "do_objectID": "CEE9AEEF-A7FE-4C43-9CFD-2DC046323161",
   "exportOptions": {
@@ -57,6 +57,9 @@
     "width": 375,
     "x": -1815,
     "y": 3477
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -111,6 +114,33 @@
   "name": "feedItemCard / weatherCardBad",
   "nameIsFixed": true,
   "originalObjectID": "CAD3F8F9-864A-46DF-8C06-2259D2E65006",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B6958598-06A2-4E72-94D8-14DCB1640D2B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9CDBA668-7762-437F-837C-609A222F0FB7_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "63C9EDBC-ED12-4C00-8E7A-63D1C8C903B4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27E81FE1-A07B-4885-8A8C-4BE96221A4FD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8FB379ED-EFD1-4DFA-B634-A0D2FECF87C2_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

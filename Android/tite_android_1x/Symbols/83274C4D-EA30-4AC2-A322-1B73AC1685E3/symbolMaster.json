@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3693,
+  "changeIdentifier": 3749,
   "clippingMaskMode": 0,
   "do_objectID": "83274C4D-EA30-4AC2-A322-1B73AC1685E3",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 849,
     "y": 3193
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,13 @@
   ],
   "name": "feedItemCard / comps / image_rect_2",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D825BFAE-7E99-4368-94E8-A3C6556E9591_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

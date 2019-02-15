@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6445,
+  "changeIdentifier": 6473,
   "clippingMaskMode": 0,
   "do_objectID": "34B09237-1A69-4AAC-B349-4798533F55FB",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": -1795,
     "y": 5202
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "writePost / user_info_dist_ellipsis",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "70738192-314A-4EB8-8C99-C7FACECDD2D9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FED031DD-334C-4392-9B10-55C3AD40A6DD_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

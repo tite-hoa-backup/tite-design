@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3546,
+  "changeIdentifier": 3558,
   "clippingMaskMode": 0,
   "do_objectID": "0E435F9D-987A-464D-9BC9-97ECDDE212FA",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -2658,
     "y": 613
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -87,6 +90,18 @@
   "name": "feedItemCard / ic / icComment",
   "nameIsFixed": true,
   "originalObjectID": "0E435F9D-987A-464D-9BC9-97ECDDE212FA",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5042FE38-D952-45A4-85FE-CD11521211F6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F1132D64-E34F-4C4A-ADB2-FD5C8E77C75A_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

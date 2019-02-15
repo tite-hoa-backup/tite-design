@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6230,
+  "changeIdentifier": 6258,
   "clippingMaskMode": 0,
   "do_objectID": "DF858989-1481-4A0E-AE42-ABD8C9126897",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": -1795,
     "y": 3490
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "writePost / user_info_petition",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8D0D5CFE-D138-469E-9672-DCE2E5173A24_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "853FF3A8-1D39-4336-80A0-9E950B6BD835_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

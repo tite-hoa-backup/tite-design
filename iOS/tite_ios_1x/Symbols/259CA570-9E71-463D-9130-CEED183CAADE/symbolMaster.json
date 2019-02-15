@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2921,
+  "changeIdentifier": 2949,
   "clippingMaskMode": 0,
   "do_objectID": "259CA570-9E71-463D-9130-CEED183CAADE",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -3471,
     "y": -176
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -102,6 +105,33 @@
   ],
   "name": "writePost / camera / capturedImagesBound",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5E61B8C2-D85B-4487-8FFE-0B10614ED1F7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "573FF0D5-97DF-4F50-AFAA-BE73576D56F7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5C22610F-4EA8-4D11-8463-577CC44EA14F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CF1BE30B-1008-451B-AF6E-EDCBE7D90593_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "05832AA0-BA3F-438E-8D67-D4807BD06614_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8392,
+  "changeIdentifier": 8504,
   "clippingMaskMode": 0,
   "do_objectID": "E31A41E0-B157-40C2-B453-54497DEB8E56",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 457,
     "y": 918
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -112,6 +115,23 @@
   ],
   "name": "feed / activity",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "66F536B0-FAE4-4653-A19F-4CF7E5747C0A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8A8307B4-A689-4373-B24F-89D31CA4A7B3_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "39F2887B-FE3A-41D1-A134-104A35547BB1_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

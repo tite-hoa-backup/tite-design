@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2983,
+  "changeIdentifier": 2991,
   "clippingMaskMode": 0,
   "do_objectID": "B5943563-C2CC-4996-AD91-9E0809055645",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 1819,
     "y": 2737
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -83,6 +86,13 @@
   "name": "-g-feedItemCard / ic / tags / report42",
   "nameIsFixed": true,
   "originalObjectID": "B5943563-C2CC-4996-AD91-9E0809055645",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D288591D-7C7A-4D27-9F15-69CA2EDF76E0_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

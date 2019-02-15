@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2793,
+  "changeIdentifier": 2801,
   "clippingMaskMode": 0,
   "do_objectID": "24C7326B-557A-4269-928E-BF8BB79F89A0",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 1711,
     "y": 2737
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -83,6 +86,13 @@
   "name": "-g-feedItemCard / ic / tags / review42",
   "nameIsFixed": true,
   "originalObjectID": "24C7326B-557A-4269-928E-BF8BB79F89A0",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "252D9EF1-0B44-43EE-91D4-63F4F25B5457_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

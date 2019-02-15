@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 11657,
+  "changeIdentifier": 11677,
   "clippingMaskMode": 0,
   "do_objectID": "3483E271-367F-4132-B478-9C12AA5B6111",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": 974,
     "y": 3946
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -99,6 +102,28 @@
   "name": "comments / imageLand",
   "nameIsFixed": true,
   "originalObjectID": "3483E271-367F-4132-B478-9C12AA5B6111",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7BF49747-B26E-4E72-985D-4D22835DEBDE_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BA3A1BE7-EC8B-4217-BA77-A117ABCC329A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EF01E77C-6AF3-44FB-B2A7-58B230357E27_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FE148869-C55C-4FD4-B67A-598E64BC4A53_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

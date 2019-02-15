@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1556,
+  "changeIdentifier": 1564,
   "clippingMaskMode": 0,
   "do_objectID": "4F075720-28C2-497A-AC66-5A647BB2BE1C",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 2399,
     "y": -48
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -82,6 +85,8 @@
   ],
   "name": "actionSheet / actionSheetBlack38Layer",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

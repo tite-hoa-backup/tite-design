@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10769,
+  "changeIdentifier": 10881,
   "clippingMaskMode": 0,
   "do_objectID": "726E634E-D645-4116-ADF6-5029FAFD81EB",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": -1228,
     "y": 4261
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -113,6 +116,23 @@
   "name": "feed / notice_base",
   "nameIsFixed": true,
   "originalObjectID": "1F5D4335-6997-4751-A423-7E5820C89BD5",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E13B3F41-6EC7-4F1F-9D85-01240E3DF971_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E9E23A9-F56D-46FA-BB59-DF524202379F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C3039EC9-1B07-459E-9B9F-9D1694E4F1CB_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

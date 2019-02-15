@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1196,
+  "changeIdentifier": 1224,
   "clippingMaskMode": 0,
   "do_objectID": "7601D340-1BD6-4F7D-B544-3A9EA704EF81",
   "exportOptions": {
@@ -73,8 +73,11 @@
     "x": 8217,
     "y": -904
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -100,6 +103,8 @@
   ],
   "name": "-g-ic / feed / ic_giveaway_24",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

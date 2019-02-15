@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6560,
+  "changeIdentifier": 6576,
   "clippingMaskMode": 0,
   "do_objectID": "7201450C-6495-4289-AC22-2ECEB892E465",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": 1856,
     "y": 1026
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -95,6 +98,18 @@
   "name": "form / surveyHighest",
   "nameIsFixed": true,
   "originalObjectID": "7201450C-6495-4289-AC22-2ECEB892E465",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5D4BCEE3-9AD4-4DD1-BCE3-91EB99BC7FC4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "50BA0672-F639-4B23-90AE-C1DDBF92F464_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

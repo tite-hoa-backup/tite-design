@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9293,
+  "changeIdentifier": 9461,
   "clippingMaskMode": 0,
   "do_objectID": "0D880A1E-FC33-49BE-8534-8A064DC3C102",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 1209,
     "y": -143
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -120,6 +123,13 @@
   ],
   "name": "sys / status bar",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F51407DA-A0B8-433A-9820-BC383BD6A3C4_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

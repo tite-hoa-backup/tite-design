@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1433,
+  "changeIdentifier": 1445,
   "clippingMaskMode": 0,
   "do_objectID": "8D8BF01A-6766-4137-B502-E20D9AEF6FAC",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 4038,
     "y": 2514
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +89,18 @@
   ],
   "name": "profile / editProfileBtnEach",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "269434C8-ABC9-4E15-B663-3AA8BC268B4C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8746B708-FA80-4036-83DA-BADA1D461BF3_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

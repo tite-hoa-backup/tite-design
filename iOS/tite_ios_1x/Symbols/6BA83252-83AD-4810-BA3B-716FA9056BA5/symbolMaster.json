@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4675,
+  "changeIdentifier": 4687,
   "clippingMaskMode": 0,
   "do_objectID": "6BA83252-83AD-4810-BA3B-716FA9056BA5",
   "exportOptions": {
@@ -58,6 +58,9 @@
     "x": -1340,
     "y": 1017
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -95,6 +98,18 @@
   "name": "list / AptSeeMore",
   "nameIsFixed": true,
   "originalObjectID": "769E8267-56DE-4852-AAB3-FF86485B7A83",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "116038D6-32D0-42E2-AFE6-2527AEED0B99_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A6C498BE-18AC-4C1F-8001-CB08F677AB2F_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

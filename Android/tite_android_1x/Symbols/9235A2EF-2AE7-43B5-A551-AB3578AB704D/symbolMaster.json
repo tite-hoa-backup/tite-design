@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4372,
+  "changeIdentifier": 4456,
   "clippingMaskMode": 0,
   "do_objectID": "9235A2EF-2AE7-43B5-A551-AB3578AB704D",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2905,
     "y": 4183
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "profile / ic / ic_addImage_green",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DC4563A8-55C0-43EA-9AF8-49D1B25A8B85_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "492F4666-6B7B-4B7B-B938-2DE9159ECFAD_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

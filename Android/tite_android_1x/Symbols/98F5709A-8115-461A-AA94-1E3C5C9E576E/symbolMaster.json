@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9637,
+  "changeIdentifier": 9833,
   "clippingMaskMode": 0,
   "do_objectID": "98F5709A-8115-461A-AA94-1E3C5C9E576E",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": -1875,
     "y": 449
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -128,6 +131,33 @@
   ],
   "name": "form / form_with_gps_activated",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5E040124-E010-42DD-9AD6-F1724CA95784_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8F3A8675-55AF-4860-AFEB-227C6EA42976_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "40803422-601D-42D1-8364-CFF5744F8CCF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1C9EE5D5-852B-4DEF-864F-8E39D1E2C303_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5C1563C1-2424-4302-A5A0-F26080D7195E_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

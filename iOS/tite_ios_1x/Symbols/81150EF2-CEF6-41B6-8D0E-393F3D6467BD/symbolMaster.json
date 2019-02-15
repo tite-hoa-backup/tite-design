@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 687,
+  "changeIdentifier": 695,
   "clippingMaskMode": 0,
   "do_objectID": "81150EF2-CEF6-41B6-8D0E-393F3D6467BD",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -3471,
     "y": -900
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -82,6 +85,8 @@
   ],
   "name": "writePost / camera / baseImg",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

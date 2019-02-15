@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3824,
+  "changeIdentifier": 3836,
   "clippingMaskMode": 0,
   "do_objectID": "6FFBB7DA-CA3C-4309-B2DD-773CAD4CEBB3",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": -2730,
     "y": 481
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -91,6 +94,13 @@
   "name": "-g-feedItemCard / ic / icThumbnailSmall-Overlap",
   "nameIsFixed": true,
   "originalObjectID": "5E126EF7-BA49-4709-B0DA-C3F5F9A980D6",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FE953C2E-F7E6-4832-84DD-61FFCEBAADB8_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

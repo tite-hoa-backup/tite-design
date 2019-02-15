@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 443,
+  "changeIdentifier": 455,
   "clippingMaskMode": 0,
   "do_objectID": "17A0D83D-C95F-4971-86F5-EA23CA648B8B",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -2274,
     "y": 3477
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +89,8 @@
   ],
   "name": "feedItemCard / comps / imageScratchActive",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

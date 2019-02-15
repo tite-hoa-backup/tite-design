@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6575,
+  "changeIdentifier": 6595,
   "clippingMaskMode": 0,
   "do_objectID": "769E8267-56DE-4852-AAB3-FF86485B7A83",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": -1340,
     "y": 1901
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -99,6 +102,28 @@
   "name": "list / Apt",
   "nameIsFixed": true,
   "originalObjectID": "769E8267-56DE-4852-AAB3-FF86485B7A83",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DABAA604-E1FB-4E98-875B-B261A3EF4653_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "152F6F05-284D-43E5-918B-BB366AFF3AC0_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1B431F2B-8994-469F-91E4-6883C487AF5B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4D3D99FE-4062-4605-9230-B46F3A32EEE8_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3556,
+  "changeIdentifier": 3572,
   "clippingMaskMode": 0,
   "do_objectID": "E47C82F5-95D2-4603-9651-CD4366A52614",
   "exportOptions": {
@@ -58,8 +58,11 @@
     "x": 2806,
     "y": 1584
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -94,6 +97,18 @@
   ],
   "name": "feedItemCard / invitePurchasePeople",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "95F90C58-7BB6-4521-9149-9EEDEE25440A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D9F32B92-1F22-48B4-86B8-9D37A4AFE578_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

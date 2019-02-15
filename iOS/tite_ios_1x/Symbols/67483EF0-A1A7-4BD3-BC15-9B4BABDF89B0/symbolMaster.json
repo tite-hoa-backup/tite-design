@@ -8,7 +8,7 @@
     "red": 0.09019608
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1462,
+  "changeIdentifier": 1470,
   "clippingMaskMode": 0,
   "do_objectID": "67483EF0-A1A7-4BD3-BC15-9B4BABDF89B0",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -2290,
     "y": 874
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -82,6 +85,13 @@
   ],
   "name": "header / snackbar / connected",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "900D7F17-A28E-4494-BDBC-BDEB38D9D6B2_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10071,
+  "changeIdentifier": 10211,
   "clippingMaskMode": 0,
   "do_objectID": "D98C5878-6FE3-45D5-89DC-791ADE27DAFD",
   "exportOptions": {
@@ -76,8 +76,11 @@
     "x": 3969,
     "y": 2005
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -120,6 +123,28 @@
   ],
   "name": "feed / welcome_hoa",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EEDCB96C-8A3F-4139-B08E-0CE86257E2C3_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5296CD1C-35DD-46E0-AAF8-D69AE72EC78A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "85539BB3-A522-48FC-80A7-AD1634905220_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "543CD496-1FA1-4D11-9F65-4D751DE240A1_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

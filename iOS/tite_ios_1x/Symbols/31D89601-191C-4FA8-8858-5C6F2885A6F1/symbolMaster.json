@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2194,
+  "changeIdentifier": 2198,
   "clippingMaskMode": 0,
   "do_objectID": "31D89601-191C-4FA8-8858-5C6F2885A6F1",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -2856,
     "y": 86
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -83,6 +86,8 @@
   "name": "-g-ic / icPhone",
   "nameIsFixed": true,
   "originalObjectID": "31D89601-191C-4FA8-8858-5C6F2885A6F1",
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

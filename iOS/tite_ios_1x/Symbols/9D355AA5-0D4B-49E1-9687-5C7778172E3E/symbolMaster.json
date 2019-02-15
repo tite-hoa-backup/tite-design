@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2828,
+  "changeIdentifier": 2836,
   "clippingMaskMode": 0,
   "do_objectID": "9D355AA5-0D4B-49E1-9687-5C7778172E3E",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": -2826,
     "y": 557
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -83,6 +86,8 @@
   "name": "-g-feedItemCard / ic / icCloseActionSheet",
   "nameIsFixed": true,
   "originalObjectID": "9D355AA5-0D4B-49E1-9687-5C7778172E3E",
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

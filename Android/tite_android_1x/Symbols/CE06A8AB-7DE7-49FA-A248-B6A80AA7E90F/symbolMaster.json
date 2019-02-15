@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7484,
+  "changeIdentifier": 7596,
   "clippingMaskMode": 0,
   "do_objectID": "CE06A8AB-7DE7-49FA-A248-B6A80AA7E90F",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": 2681,
     "y": 5000
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -116,6 +119,23 @@
   ],
   "name": "comment / comps / comment_image_land",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "785A1AC3-5550-4BE9-A204-3EC6D392F1DA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "993A25CC-5D4F-4BEA-9755-A418E1B74213_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0EE54F2C-A4E7-469E-BD05-3A6D60E5FE17_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

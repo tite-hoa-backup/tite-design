@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8025,
+  "changeIdentifier": 8193,
   "clippingMaskMode": 0,
   "do_objectID": "DB5EB280-DCBC-40AC-9DF6-9D6E807CEFBC",
   "exportOptions": {
@@ -73,8 +73,11 @@
     "x": 3545,
     "y": 2573
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -120,6 +123,33 @@
   ],
   "name": "feed / card / weather_normal",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1AE7AE89-7F8C-4E02-A035-A3CFB0B5831B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CC3B0889-3194-41EB-BA3B-B79B1F928D5A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B35C3549-9D49-4D42-83BA-5A95E981F16E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DD758149-6F63-4A39-8C17-8A390CE7AA08_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "30A99A52-A24C-4182-8362-CD02B7AA5FCE_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

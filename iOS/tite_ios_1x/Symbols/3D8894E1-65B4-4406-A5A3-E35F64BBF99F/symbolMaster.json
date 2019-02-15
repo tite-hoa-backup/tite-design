@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1949,
+  "changeIdentifier": 1961,
   "clippingMaskMode": 0,
   "do_objectID": "3D8894E1-65B4-4406-A5A3-E35F64BBF99F",
   "exportOptions": {
@@ -55,8 +55,11 @@
     "x": 1397,
     "y": 1552
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +89,18 @@
   ],
   "name": "comments / activity / basic",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ED09DF23-1892-45D3-AC0A-A992F0D3768B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD5666BA-6B01-42D9-8E4D-8E880A159502_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

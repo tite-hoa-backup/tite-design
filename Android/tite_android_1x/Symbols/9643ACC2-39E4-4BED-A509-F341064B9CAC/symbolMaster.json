@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4139,
+  "changeIdentifier": 4195,
   "clippingMaskMode": 0,
   "do_objectID": "9643ACC2-39E4-4BED-A509-F341064B9CAC",
   "exportOptions": {
@@ -73,6 +73,9 @@
     "x": 2793,
     "y": 4183
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -104,6 +107,18 @@
   ],
   "name": "feed / activity / ic_lock",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F2C33C96-455B-4DCC-9B71-7535C0D20595_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "559D430A-D3E6-44E0-AEE7-DD1F54F36F8D_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

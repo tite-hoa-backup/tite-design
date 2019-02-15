@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3226,
+  "changeIdentifier": 3234,
   "clippingMaskMode": 0,
   "do_objectID": "BD2FB562-198E-4E55-8035-1442525AC303",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": 85,
     "y": 2067
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -87,6 +90,18 @@
   "name": "radio / BtnLeft",
   "nameIsFixed": true,
   "originalObjectID": "BD2FB562-198E-4E55-8035-1442525AC303",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5A810561-8926-455A-B178-C911840FF4C5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C3E67D91-EF39-4A97-AA71-A20C175E3E99_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

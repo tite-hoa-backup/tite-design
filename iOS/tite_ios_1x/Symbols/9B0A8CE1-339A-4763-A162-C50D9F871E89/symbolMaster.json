@@ -8,7 +8,7 @@
     "red": 0.09019608
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3035,
+  "changeIdentifier": 3043,
   "clippingMaskMode": 0,
   "do_objectID": "9B0A8CE1-339A-4763-A162-C50D9F871E89",
   "exportOptions": {
@@ -55,6 +55,9 @@
     "x": -3471,
     "y": 948
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -87,6 +90,13 @@
   "name": "btn / TransBound",
   "nameIsFixed": true,
   "originalObjectID": "9B0A8CE1-339A-4763-A162-C50D9F871E89",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1729F0C4-C220-45EC-AB0B-58307CDDAF6A_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

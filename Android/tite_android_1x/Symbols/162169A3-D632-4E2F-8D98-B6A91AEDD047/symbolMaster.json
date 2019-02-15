@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4925,
+  "changeIdentifier": 4981,
   "clippingMaskMode": 0,
   "do_objectID": "162169A3-D632-4E2F-8D98-B6A91AEDD047",
   "exportOptions": {
@@ -76,6 +76,9 @@
     "x": -1228,
     "y": 3857
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -108,6 +111,18 @@
   ],
   "name": "feed / small_tags_petition",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E1F6F381-E666-4597-B93C-3522A0855F9A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "82D9865C-D23C-4AA7-A86E-880D8A92AC17_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
