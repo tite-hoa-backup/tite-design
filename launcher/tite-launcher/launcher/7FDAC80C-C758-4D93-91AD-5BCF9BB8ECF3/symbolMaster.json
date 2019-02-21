@@ -3,12 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
+    "blue": 0,
+    "green": 0,
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 25,
+  "changeIdentifier": 45,
   "clippingMaskMode": 0,
   "do_objectID": "7FDAC80C-C758-4D93-91AD-5BCF9BB8ECF3",
   "exportOptions": {
@@ -17,7 +17,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -37,8 +37,11 @@
     "x": -1744,
     "y": -1176
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,6 +67,13 @@
   ],
   "name": "launcher",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F48028CF-ACF4-4B00-8E4E-BA0D23646899_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

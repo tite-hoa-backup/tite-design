@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 12394,
+  "changeIdentifier": 12950,
   "clippingMaskMode": 0,
   "do_objectID": "B6B322AE-C506-4905-9E78-F48231401AB5",
   "exportOptions": {
@@ -30,6 +30,9 @@
     "width": 42,
     "x": 1091,
     "y": 24
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -54,12 +57,18 @@
   "layers": [
     {
       "class": "group",
-      "id": "0370797F-B7E2-4F4D-8C51-0F2DEFB71856"
+      "id": "3BDDB76F-89C5-4BBA-9B50-CC4F782624F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACD4096F-473B-4D03-AB64-D32F177B40F1"
     }
   ],
   "name": "-g-feedItemCard / ic / tags / apt",
   "nameIsFixed": true,
   "originalObjectID": "F65D9A2A-7756-4576-948C-69DD4CB45DC8",
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

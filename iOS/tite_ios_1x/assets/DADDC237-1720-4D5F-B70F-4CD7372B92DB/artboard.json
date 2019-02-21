@@ -61,7 +61,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,10 +103,6 @@
     {
       "class": "symbolInstance",
       "id": "4961657F-5835-43EE-91E8-04DA82E35243"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DB360FED-3C08-4E06-B3C0-35A77027E0AF"
     },
     {
       "class": "symbolInstance",
@@ -155,6 +151,38 @@
     {
       "class": "symbolInstance",
       "id": "F57A053B-C035-4344-B600-BF92351358B4"
+    },
+    {
+      "class": "text",
+      "id": "A1FFC2D5-B29F-45D8-8671-20B1C03F1CB5"
+    },
+    {
+      "class": "text",
+      "id": "BB4043B6-3797-40C8-BFEC-58610CBE8B52"
+    },
+    {
+      "class": "text",
+      "id": "31B9DDD1-2402-4C49-A73B-E49392393D4C"
+    },
+    {
+      "class": "text",
+      "id": "C6F633D0-9036-4741-96AF-4F1A56CEEC23"
+    },
+    {
+      "class": "text",
+      "id": "C08CE8C5-3B2D-4B13-9200-228463570FDE"
+    },
+    {
+      "class": "text",
+      "id": "BC64013D-F58A-4856-8B5B-13477B130A92"
+    },
+    {
+      "class": "text",
+      "id": "5F1EEB72-CCE6-4E08-8B34-017C923C68F2"
+    },
+    {
+      "class": "text",
+      "id": "D687692A-4DE7-4339-A979-57A9DC591D83"
     }
   ],
   "name": "lineIcons",

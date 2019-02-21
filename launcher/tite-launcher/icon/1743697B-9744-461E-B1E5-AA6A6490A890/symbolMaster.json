@@ -40,6 +40,9 @@
     "x": 1449,
     "y": -254
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -69,6 +72,13 @@
   "name": "-g-feedItemCard / ic / wc / popper-right",
   "nameIsFixed": true,
   "originalObjectID": "F65D9A2A-7756-4576-948C-69DD4CB45DC8",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7B1BF68C-80E0-4308-8EF2-662D741987F0_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

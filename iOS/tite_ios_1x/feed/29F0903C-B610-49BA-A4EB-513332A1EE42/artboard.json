@@ -52,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C21868A2-7B11-4E6F-9C26-E8DF010AC07D",
-    "height": 1312,
+    "height": 1466,
     "width": 375,
     "x": 6762,
     "y": 545
@@ -99,10 +99,6 @@
     },
     {
       "class": "group",
-      "id": "EE893374-D8A4-4EAE-9862-BF45BA82AC85"
-    },
-    {
-      "class": "group",
       "id": "5DA5CE53-7E38-4AA8-A37B-7A2D0BA4CFB3"
     },
     {
@@ -112,9 +108,13 @@
     {
       "class": "symbolInstance",
       "id": "A1A7B7AD-EAD8-4C70-B817-7A56C422B1A8"
+    },
+    {
+      "class": "group",
+      "id": "C8458C85-D2E6-4AD3-938F-277798D226E8"
     }
   ],
-  "name": "[Long] feedItemCard -writePostCtaCard",
+  "name": "[Long] feedItemCard - writePostCtaCard - 1",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

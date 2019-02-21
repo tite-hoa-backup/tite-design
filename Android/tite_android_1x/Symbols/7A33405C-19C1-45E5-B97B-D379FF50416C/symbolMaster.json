@@ -1,0 +1,179 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "68F9385A-8A44-486D-A7B3-9699FD0EF7B8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8234,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A33405C-19C1-45E5-B97B-D379FF50416C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "734CFA04-E115-4443-9494-5A3C6AC40FC3",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "449A5727-A5DF-42AC-98DC-11AB325D7A1B",
+    "height": 64,
+    "width": 360,
+    "x": 3545,
+    "y": 2653
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F68CE592-8D39-4F04-A51B-3B81758DBFD2"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45495A38-AF14-4F12-B874-1FD1D082030B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "620F9259-E742-4995-A4CD-2952FEF83BCF"
+    },
+    {
+      "class": "text",
+      "id": "8DD6A15D-9AA2-4BDB-9B25-624E8195CB86"
+    },
+    {
+      "class": "text",
+      "id": "48451A53-0B2F-40BA-A090-E23C9E2D5E7A"
+    },
+    {
+      "class": "text",
+      "id": "6E59CD90-B36F-4EFA-B671-DE6B326833B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24F83B66-7948-4D97-A9BE-DD2F79E6552E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96761FA3-FD8A-4D5C-84F7-E1C52BF3A5AE"
+    }
+  ],
+  "name": "feed / card / weather_worst",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "48451A53-0B2F-40BA-A090-E23C9E2D5E7A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "24F83B66-7948-4D97-A9BE-DD2F79E6552E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8DD6A15D-9AA2-4BDB-9B25-624E8195CB86_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "96761FA3-FD8A-4D5C-84F7-E1C52BF3A5AE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6E59CD90-B36F-4EFA-B671-DE6B326833B8_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A15BD320-8771-41D5-950B-9F8B1DE4DFC4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "181C0D6A-748E-44FD-94FA-CF5855FD87C5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "434BD41D-941F-47D2-9E80-8EDBB6267082",
+    "guides": [
+    ]
+  }
+}
