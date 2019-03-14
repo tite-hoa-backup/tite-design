@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ADADDE01-A2B0-434D-8CFF-E0D1EA2C6686",
+  "do_objectID": "FBFFBE4F-3C66-41B8-ADEC-AABD5D8E4E9F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4F8178BC-A934-4D40-B77B-3EA37FEED89F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,47 +15,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9EA2DB09-BF60-481C-A759-80E894886916",
     "height": 24,
     "width": 24,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "C9B152C1-5C49-42DA-8C82-09B4192DDC26"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
-      "id": "C27A36FF-981C-498F-B16D-1F84B7C943AD"
+      "id": "D4C3F267-1D69-44EE-820D-9A43C7B9EE67"
     },
     {
       "class": "shapePath",
-      "id": "0D7389CB-D4A2-42A1-A912-074DA0D0C1A5"
+      "id": "56860B29-6916-4783-89EA-D5F1D4A1A67B"
     },
     {
       "class": "shapePath",
-      "id": "4845F225-428F-4779-9536-CB9212CA1EB2"
+      "id": "936A0947-3DA1-4F12-B4A2-8C0E9A920279"
     },
     {
       "class": "shapePath",
-      "id": "FF16381C-582F-41BA-A858-F53193603F32"
+      "id": "9E611ACC-3878-428F-BB78-FCA1CA274F74"
     },
     {
       "class": "shapePath",
-      "id": "7EC3D7B9-43EC-4E68-BD1D-C9E75C47D147"
+      "id": "C3883C07-5E0C-4B68-B7E4-915AE4CB278E"
     }
   ],
-  "name": "Shape",
+  "name": "Mask",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -67,14 +64,12 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "1702747F-39E0-4E39-956E-4A8B33CAFC8C",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 2.500026041937938,
       "saturation": 1,
       "type": 0
     },
-    "do_objectID": "FB762394-2B79-44FD-8779-05F6A9FEC3EF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -82,9 +77,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

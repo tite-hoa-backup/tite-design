@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "486D317B-E3AD-47C4-B601-A9B3993A5644",
+  "do_objectID": "DE9EFAAA-1FAA-4C7C-A099-A835E08376B9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "08020CC3-ADF0-4184-BABB-02934E9E04E0",
+    "do_objectID": "939804A8-8515-4D9F-AE67-0D66A5F5AE26",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D9F41C0C-BB47-4718-8AA9-363C5447871E",
-    "height": 23.14285714285714,
-    "width": 23.14285714285714,
-    "x": 0.4285714285714285,
-    "y": 0.4285714285714285
+    "do_objectID": "1A5A96CD-6052-4664-A660-AC0ACE414BDF",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "4FCD18FA-2AC9-40A6-8E44-59A8182D0734"
+    "do_objectID": "39EC8C99-5339-4C8A-B419-448BA8D58FB4"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -37,23 +37,23 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "D4C3F267-1D69-44EE-820D-9A43C7B9EE67"
+      "id": "86143514-0F20-4BA9-9971-BC1C8655AB14"
     },
     {
       "class": "shapePath",
-      "id": "56860B29-6916-4783-89EA-D5F1D4A1A67B"
+      "id": "B33864C0-1B0A-4116-A74A-67DF8733B85F"
     },
     {
       "class": "shapePath",
-      "id": "936A0947-3DA1-4F12-B4A2-8C0E9A920279"
+      "id": "04231B9C-FD09-46A0-944E-4E03E66E1495"
     },
     {
       "class": "shapePath",
-      "id": "9E611ACC-3878-428F-BB78-FCA1CA274F74"
+      "id": "F297B711-83B3-4CD0-BADA-6FBF66E374FF"
     },
     {
       "class": "shapePath",
-      "id": "C3883C07-5E0C-4B68-B7E4-915AE4CB278E"
+      "id": "B0F53808-6043-4E61-854B-A736940972E4"
     }
   ],
   "name": "Shape",
@@ -67,14 +67,14 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "1F4F41AB-4AA7-49DC-8433-7B0DC5844007",
+      "do_objectID": "CB88AFB7-8CEC-4E16-B0CD-6731D9F7C3C7",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 2.410739397583011,
+      "radius": 2.500026041937938,
       "saturation": 1,
       "type": 0
     },
-    "do_objectID": "AF23DD5F-E980-42D7-884A-9194144ECD15",
+    "do_objectID": "2755FF7F-569E-4FC7-BB6B-7F32D2D07816",
     "endMarkerType": 0,
     "fills": [
       {
@@ -82,9 +82,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
         },
         "fillType": 0,
         "isEnabled": true,

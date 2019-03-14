@@ -3,17 +3,18 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.2745098039215687,
-    "green": 0.803921568627451,
-    "red": 0.9725490196078431
+    "blue": 1,
+    "do_objectID": "7EAD81F8-4B8B-4BD0-81EB-2A3FD89A9684",
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3779,
+  "changeIdentifier": 3809,
   "clippingMaskMode": 0,
-  "do_objectID": "2F532D97-BAEF-412A-AF93-9CB56FEF2D6F",
+  "do_objectID": "ECF5AF97-8073-4C81-AAF7-1E1E7F08A945",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "06DF4CD0-8D6F-4561-94F9-47483A2A6AF6",
+    "do_objectID": "F5D3084A-3D15-45EC-ABF5-5A5EA15899C8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,27 +25,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CE94BE24-5CE8-4675-B491-E80EC6A64E60",
+    "do_objectID": "DF1CF81F-8EE9-40F8-AE68-2A663B2A40A2",
     "height": 24,
     "width": 24,
     "x": -41,
-    "y": 512
+    "y": 424
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "C3CD3DCA-4A71-4398-8769-342D46A2FF7F"
+    "do_objectID": "A8584EE0-F836-429B-A2BE-7EEF595B4DEC"
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0A7CB314-7B0F-4AB2-8198-6000AFFCEA6F",
+    "do_objectID": "3E2672EA-6826-402A-BC98-BBFEC92E831A",
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -57,10 +58,10 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "1D5E6152-6A36-4A5C-8CB0-85BDED45A354"
+      "id": "1D7F994C-F39D-4A2B-AC3F-B777AD05ADE7"
     }
   ],
-  "name": "-g-activity / ic / sns / kakao-color",
+  "name": "-g-activity / ic / sns / kakaoGrey",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
@@ -71,13 +72,13 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "CF9FEE4C-405D-4B50-9EB6-9031C388DD1F",
+    "do_objectID": "2A74A520-FC58-4930-8333-033746949835",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8C998C3E-EA29-4D77-A259-67BC16915B09",
+  "symbolID": "0FEED158-C45D-4947-A088-4A9AB99C7736",
   "userInfo": {
     "com.invisionlabs.library": {
       "version": 4
@@ -86,7 +87,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "32C3A2E4-D332-4066-A8C1-6B9839A30424",
+    "do_objectID": "BFD35BE6-D5E8-406E-957B-F49B1B2FA066",
     "guides": [
     ]
   }
