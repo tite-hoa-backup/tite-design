@@ -3,17 +3,18 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.2,
-    "green": 0.2,
-    "red": 0.2
+    "blue": 1,
+    "do_objectID": "0E03BADA-C673-4AA0-9C52-FBCFE9375D9D",
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 822,
+  "changeIdentifier": 408,
   "clippingMaskMode": 0,
-  "do_objectID": "593DC8A7-6844-42D2-B072-1991078BB4BB",
+  "do_objectID": "A762D5DF-8EB7-45F0-9C6D-F07BDD57ADB1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0BB1D7C5-7AA1-437B-A531-3BB9F1CC0D40",
+    "do_objectID": "43B0ECFB-AAF5-4606-9803-D71A614FCC09",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,28 +25,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "607B6BFA-006E-4785-9A41-AA726BE3DFED",
+    "do_objectID": "EEC969E6-E810-45F1-8A8A-C7DB151CDFBA",
     "height": 24,
     "width": 24,
-    "x": 519,
-    "y": 16
+    "x": 407,
+    "y": 128
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "2A9F1E06-F214-43E5-AE48-32ADD1287C5B"
+    "do_objectID": "5141B88A-5E67-4A32-968B-5E149EC125A4"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "BF2BE2C2-0510-4687-BB0F-8D84CF661A4F",
+    "do_objectID": "A9D4BE25-9252-4656-ADB9-DFDC98460703",
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -56,15 +57,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "179C67E0-9830-48BB-992F-CC5BE4C9A61C"
-    },
-    {
-      "class": "oval",
-      "id": "85163223-F75D-4A9E-B201-280CD3A67892"
+      "class": "group",
+      "id": "975C4017-60E1-44F0-8AB5-EA674C9CAFFE"
     }
   ],
-  "name": "-g-activity / ic / normal / reward",
+  "name": "-g-activity / ic / normal / checkbox-unchecked",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
@@ -75,17 +72,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "60C86A7A-4D0C-48F4-8A72-068682F256A1",
+    "do_objectID": "7629C5A5-3D1F-4648-9263-0D495AF66F5A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8CE5EFE2-ACE0-42BB-AD8E-2E962E9871C8",
+  "symbolID": "BB57F886-B1C0-43FC-A651-77BB32049D02",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F964F320-2529-444C-A7C8-6863CB829131",
+    "do_objectID": "FA0950E7-1244-4E2B-B3B8-E2E6236C5411",
     "guides": [
     ]
   }
