@@ -4,17 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "18739CBA-66E5-4982-9DC7-1B34F4E4A303",
+    "do_objectID": "62980EAD-EAB3-468D-96F5-E11EEDD48AA7",
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 3234,
+  "booleanOperation": -1,
+  "changeIdentifier": 393,
   "clippingMaskMode": 0,
-  "do_objectID": "3574F27C-DA91-46ED-8642-44DDF528627B",
+  "do_objectID": "DAC290E8-82CF-4114-8AF7-0A9935CDDF7A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "659F349A-EC35-425E-858F-264587F9C050",
+    "do_objectID": "7DF1A912-3C5C-46AA-A845-F2857C923F98",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -25,23 +25,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3747F56E-76CE-4AF4-88B7-7AA5844F1C40",
+    "do_objectID": "9A8448AA-52C6-4B1D-8AA9-425959C50E0F",
     "height": 24,
     "width": 24,
-    "x": 295,
-    "y": 248
+    "x": 351,
+    "y": 72
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "F623D07D-6602-4520-9AA9-9C4722A3F51D"
+    "do_objectID": "57606DC1-12B3-40F2-9533-40EFED2FB6DE"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "31D2F976-6E1E-415B-8922-86F09F39AF6E",
+    "do_objectID": "13D40586-B8B6-4F90-9FD1-15F003FC272E",
     "guides": [
     ]
   },
@@ -58,36 +58,31 @@
   "layers": [
     {
       "class": "group",
-      "id": "ECD97183-6516-46D6-AF57-B95B7086B889"
+      "id": "22048A2D-06DE-4002-B78E-33324D55F350"
     }
   ],
-  "name": "-g-activity / header / ic / cancel-oval",
+  "name": "-g-activity / ic / normal / checkbox-checked-apollo",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "1778D690-DD9C-4CE1-BEFE-A64FAC334B7F",
+    "do_objectID": "2923F216-6AB4-4111-B847-5D578DC54EC6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E63B1F5B-0064-41E7-BE0C-102D31E3CB28",
-  "userInfo": {
-    "com.invisionlabs.library": {
-      "version": 5
-    }
-  },
+  "symbolID": "D172F092-8994-42AA-B3E1-A2DCA38A9836",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C2C34700-48A8-478C-A544-057B2B5DD191",
+    "do_objectID": "83321B8F-C26F-452C-9B14-13D7EE74AAEA",
     "guides": [
     ]
   }

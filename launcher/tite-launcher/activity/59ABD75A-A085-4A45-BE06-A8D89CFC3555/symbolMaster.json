@@ -3,18 +3,17 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "18739CBA-66E5-4982-9DC7-1B34F4E4A303",
-    "green": 1,
-    "red": 1
+    "blue": 0.2,
+    "green": 0.2,
+    "red": 0.2
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 3234,
+  "booleanOperation": -1,
+  "changeIdentifier": 249,
   "clippingMaskMode": 0,
-  "do_objectID": "3574F27C-DA91-46ED-8642-44DDF528627B",
+  "do_objectID": "59ABD75A-A085-4A45-BE06-A8D89CFC3555",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "659F349A-EC35-425E-858F-264587F9C050",
+    "do_objectID": "9005172A-AEC6-4E20-9FEA-8F8C30B07E77",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -25,28 +24,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3747F56E-76CE-4AF4-88B7-7AA5844F1C40",
+    "do_objectID": "AA94CA22-AB8E-4463-8BF9-A351ECF9C1A9",
     "height": 24,
     "width": 24,
     "x": 295,
-    "y": 248
+    "y": -40
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "F623D07D-6602-4520-9AA9-9C4722A3F51D"
+    "do_objectID": "D6EFDDEF-EDBB-43C7-AC28-3561ABE783D6"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "31D2F976-6E1E-415B-8922-86F09F39AF6E",
+    "do_objectID": "ED4CB35D-7942-4E74-8DCD-6FB71AD44721",
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -58,36 +57,31 @@
   "layers": [
     {
       "class": "group",
-      "id": "ECD97183-6516-46D6-AF57-B95B7086B889"
+      "id": "9C13DC6C-2783-4003-B88F-DE04E6B5EF45"
     }
   ],
-  "name": "-g-activity / header / ic / cancel-oval",
+  "name": "-g-activity / ic / normal / notification-white",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "1778D690-DD9C-4CE1-BEFE-A64FAC334B7F",
+    "do_objectID": "6AF0160E-D4B8-4F08-98F7-04F7905D49DE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E63B1F5B-0064-41E7-BE0C-102D31E3CB28",
-  "userInfo": {
-    "com.invisionlabs.library": {
-      "version": 5
-    }
-  },
+  "symbolID": "F7D97998-A04E-475E-A1B6-CBD7B53B40B1",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C2C34700-48A8-478C-A544-057B2B5DD191",
+    "do_objectID": "A3FAC876-F820-445C-A3D4-28DD565C30CA",
     "guides": [
     ]
   }
