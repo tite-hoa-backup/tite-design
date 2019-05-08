@@ -2,11 +2,11 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D644260-4919-4D3A-9F56-6EF450FCF5BD",
+  "do_objectID": "6AC3876F-266C-4A46-A681-56CBB23EE6A5",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B57E8ED9-95C8-42B7-87D3-DE3610B333CD",
+    "do_objectID": "416035D4-620F-42CF-A493-D43AC004CD0A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,12 +16,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "4365D70C-B0B6-4544-A9EB-F04E887D7090",
-    "height": 12.75,
-    "width": 12.75,
-    "x": 11.25,
-    "y": 5.625
+    "constrainProportions": false,
+    "do_objectID": "D6478757-CC22-4E3A-8A4E-2A976FA07FC9",
+    "height": 6,
+    "width": 6,
+    "x": 7.000000000000004,
+    "y": 7.000000000000004
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "oval",
+  "name": "Oval",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -86,8 +86,9 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "03A51C9A-C5C3-4B8E-888F-057FE915C61E",
       "isEnabled": false,
-      "lineCapStyle": 0,
+      "lineCapStyle": 1,
       "lineJoinStyle": 1
     },
     "borders": [
@@ -96,17 +97,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4666666666666667,
-          "red": 0.4666666666666667
+          "blue": 1,
+          "green": 0.6,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
-        "position": 1,
+        "position": 2,
         "thickness": 1.5
       }
     ],
-    "do_objectID": "1D9E8D17-D5E6-46FA-9236-EC1640421B19",
+    "do_objectID": "1F2FE2DF-DD51-4471-ABF6-B270943076C1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
